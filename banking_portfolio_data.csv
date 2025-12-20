@@ -1,0 +1,751 @@
+Loan_ID,Client_ID,Relationship_Manager,Loan_Type,Loan_Amount_EUR,Outstanding_Balance_EUR,Utilization_Rate_Pct,Interest_Rate_Pct,Origination_Date,Maturity_Date,Months_To_Maturity,Sector,Region,Credit_Rating,Days_Past_Due,Risk_Flag,KYC_Last_Review_Date,KYC_Status,Products_Used,Cross_Sell_Score
+CORP0274_L1,CORP0274,RM_C,Term Loan,37920000.0,28491800.0,0.0,3.14,2025-04-16,2028-03-31,27,Real Estate,Nouvelle-Aquitaine,CCC,9,Grace Period,2025-11-18,Valid,"Revolving_Credit,Term_Loan",60
+CORP0403_L3,CORP0403,RM_B,Revolving Credit,30530000.0,17368800.0,69.55,5.34,2023-03-30,2027-03-09,14,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-07-14,Expired,"Term_Loan,FX_Hedging",60
+CORP0274_L1,CORP0274,RM_C,Term Loan,37460000.0,32892200.0,0.0,3.36,2022-08-21,2025-08-05,-5,Real Estate,Nouvelle-Aquitaine,CCC,60,Medium Risk,2025-11-18,Valid,"Revolving_Credit,Term_Loan",60
+CORP0347_L3,CORP0347,RM_E,Revolving Credit,47890000.0,19476400.0,20.38,6.08,2022-08-02,2024-07-22,-18,Retail,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-05-15,Valid,Cash_Management,80
+CORP0276_L3,CORP0276,RM_C,Term Loan,15580000.0,13227100.0,0.0,6.38,2023-10-08,2025-09-27,-3,Real Estate,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-12-14,Expired,"Trade_Finance,Term_Loan,Cash_Management,Revolving_Credit",20
+CORP0263_L1,CORP0263,RM_B,Term Loan,9610000.0,7401000.0,0.0,6.53,2024-04-12,2026-04-02,3,Real Estate,Nouvelle-Aquitaine,B,0,Performing,2025-05-02,Valid,Trade_Finance,80
+CORP0291_L1,CORP0291,RM_D,Revolving Credit,32410000.0,14386400.0,34.81,5.98,2021-12-06,2022-12-01,-38,Retail,Provence-Alpes-Côte d'Azur,B,0,Performing,2024-04-16,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0488_L2,CORP0488,RM_C,Revolving Credit,6850000.0,5434000.0,87.51,4.41,2025-02-19,2028-02-04,25,Real Estate,Occitanie,BBB,0,Performing,2025-03-28,Valid,"FX_Hedging,Cash_Management",60
+CORP0231_L2,CORP0231,RM_A,Revolving Credit,34830000.0,17116700.0,91.9,3.51,2022-07-09,2025-06-23,-7,Retail,Occitanie,BBB,0,Performing,2025-05-09,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Term_Loan",20
+CORP0161_L1,CORP0161,RM_D,Term Loan,35750000.0,28046000.0,0.0,6.9,2024-02-23,2027-02-07,13,Technology,Hauts-de-France,BB,0,Performing,2023-12-09,Expired,Trade_Finance,80
+CORP0450_L2,CORP0450,RM_A,Revolving Credit,22550000.0,19502600.0,68.42,2.99,2022-12-19,2027-11-23,23,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-07-14,Valid,FX_Hedging,80
+CORP0144_L1,CORP0144,RM_D,Term Loan,13530000.0,12607300.0,0.0,2.61,2025-04-08,2032-03-02,75,Healthcare,Occitanie,BB,0,Performing,2024-03-19,Expiring Soon,"Cash_Management,FX_Hedging,Revolving_Credit,Term_Loan",20
+CORP0260_L3,CORP0260,RM_D,Term Loan,40730000.0,30439200.0,0.0,5.81,2022-05-22,2024-05-11,-20,Real Estate,Occitanie,B,26,Watch List,2023-11-07,Expired,"Term_Loan,Revolving_Credit,Cash_Management,Trade_Finance",20
+CORP0279_L3,CORP0279,RM_B,Revolving Credit,32870000.0,16079300.0,64.22,7.64,2023-07-01,2025-06-20,-7,Technology,Hauts-de-France,BBB,18,Watch List,2024-01-28,Expiring Soon,"Trade_Finance,FX_Hedging,Revolving_Credit",40
+CORP0069_L2,CORP0069,RM_A,Term Loan,20140000.0,14124200.0,0.0,7.34,2021-12-24,2023-12-14,-25,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-08-18,Valid,"Trade_Finance,Term_Loan",60
+CORP0315_L3,CORP0315,RM_D,Term Loan,37980000.0,18390800.0,0.0,5.89,2024-10-20,2026-10-10,9,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2024-04-14,Valid,Term_Loan,80
+CORP0447_L1,CORP0447,RM_B,Revolving Credit,46990000.0,19935600.0,47.71,2.76,2022-12-18,2024-12-07,-13,Real Estate,Nouvelle-Aquitaine,AA,0,Performing,2025-09-17,Valid,"Cash_Management,Trade_Finance,FX_Hedging",40
+CORP0106_L3,CORP0106,RM_E,Revolving Credit,19710000.0,18739100.0,44.31,6.72,2025-06-08,2026-06-03,5,Real Estate,Hauts-de-France,BB,3,Grace Period,2025-03-15,Valid,Cash_Management,80
+CORP0267_L3,CORP0267,RM_C,Revolving Credit,41830000.0,23340700.0,69.03,4.69,2022-08-24,2027-07-29,19,Retail,Provence-Alpes-Côte d'Azur,A,0,Performing,2025-03-01,Valid,"Trade_Finance,Cash_Management",60
+CORP0335_L1,CORP0335,RM_D,Revolving Credit,19130000.0,18065300.0,85.08,5.42,2022-10-20,2026-09-29,9,Energy,Nouvelle-Aquitaine,CCC,0,Performing,2024-02-18,Expiring Soon,Term_Loan,80
+CORP0247_L3,CORP0247,RM_B,Term Loan,25340000.0,12248900.0,0.0,6.36,2024-10-07,2026-09-27,9,Healthcare,Nouvelle-Aquitaine,BB,0,Performing,2024-07-11,Valid,"Term_Loan,Cash_Management",60
+CORP0109_L1,CORP0109,RM_E,Term Loan,8290000.0,6310400.0,0.0,7.37,2025-01-12,2031-12-07,72,Real Estate,Hauts-de-France,BBB,0,Performing,2024-02-29,Expiring Soon,"Revolving_Credit,Trade_Finance",60
+CORP0369_L1,CORP0369,RM_E,Revolving Credit,33920000.0,23317000.0,50.82,3.96,2022-05-21,2024-05-10,-20,Manufacturing,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-11-18,Expired,"Term_Loan,FX_Hedging,Cash_Management,Trade_Finance",20
+CORP0066_L3,CORP0066,RM_B,Term Loan,7170000.0,5073400.0,0.0,4.05,2022-06-27,2024-06-16,-19,Manufacturing,Occitanie,AA,0,Performing,2023-11-04,Expired,"Revolving_Credit,Trade_Finance,FX_Hedging",40
+CORP0093_L3,CORP0093,RM_E,Revolving Credit,30170000.0,22270400.0,81.6,8.18,2025-08-04,2032-06-28,79,Transportation,Provence-Alpes-Côte d'Azur,BB,0,Performing,2024-11-09,Valid,"Term_Loan,Revolving_Credit,Cash_Management,FX_Hedging",20
+CORP0111_L2,CORP0111,RM_C,Revolving Credit,43430000.0,21816600.0,63.7,7.1,2023-05-24,2028-04-27,28,Manufacturing,Hauts-de-France,B,0,Performing,2023-07-02,Expired,FX_Hedging,80
+CORP0320_L3,CORP0320,RM_B,Revolving Credit,8800000.0,7139900.0,37.24,4.81,2023-02-26,2028-01-31,25,Technology,Nouvelle-Aquitaine,BBB,0,Performing,2024-06-30,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Revolving_Credit",20
+CORP0056_L1,CORP0056,RM_B,Term Loan,26370000.0,24935600.0,0.0,3.56,2023-05-06,2025-04-25,-8,Transportation,Hauts-de-France,BB,0,Performing,2023-10-25,Expired,"Trade_Finance,Revolving_Credit,Term_Loan,Cash_Management",20
+CORP0462_L3,CORP0462,RM_A,Term Loan,43950000.0,31593800.0,0.0,3.28,2025-01-14,2026-01-09,0,Financial Services,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-04-06,Expired,"Revolving_Credit,Trade_Finance,FX_Hedging,Term_Loan",20
+CORP0309_L3,CORP0309,RM_E,Term Loan,44900000.0,38835000.0,0.0,4.72,2022-01-21,2025-12-31,0,Retail,Hauts-de-France,B,0,Performing,2023-08-16,Expired,Cash_Management,80
+CORP0023_L3,CORP0023,RM_B,Revolving Credit,11860000.0,10453200.0,75.6,7.07,2023-07-24,2026-07-08,6,Energy,Île-de-France,AA,0,Performing,2025-10-16,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0357_L3,CORP0357,RM_A,Term Loan,21560000.0,11916400.0,0.0,7.76,2024-05-23,2025-05-18,-8,Energy,Nouvelle-Aquitaine,BB,0,Performing,2025-10-20,Valid,"Trade_Finance,Cash_Management,FX_Hedging",40
+CORP0210_L2,CORP0210,RM_D,Term Loan,770000.0,651600.0,0.0,5.62,2025-08-28,2030-08-02,56,Healthcare,Auvergne-Rhône-Alpes,AAA,0,Performing,2023-11-25,Expired,"FX_Hedging,Revolving_Credit,Cash_Management,Term_Loan",20
+CORP0193_L3,CORP0193,RM_B,Term Loan,34540000.0,20362700.0,0.0,6.41,2023-09-01,2024-08-26,-17,Healthcare,Nouvelle-Aquitaine,BB,0,Performing,2025-05-21,Valid,"Revolving_Credit,Term_Loan,FX_Hedging",40
+CORP0130_L2,CORP0130,RM_D,Revolving Credit,28450000.0,21824800.0,50.99,7.2,2021-11-18,2025-10-28,-2,Transportation,Nouvelle-Aquitaine,AA,0,Performing,2025-09-18,Valid,Cash_Management,80
+CORP0248_L1,CORP0248,RM_B,Revolving Credit,28180000.0,19451400.0,72.91,6.91,2023-12-23,2028-11-26,35,Healthcare,Hauts-de-France,A,0,Performing,2023-09-11,Expired,"FX_Hedging,Cash_Management,Term_Loan,Revolving_Credit",20
+CORP0438_L3,CORP0438,RM_C,Term Loan,37520000.0,25061700.0,0.0,4.9,2024-10-15,2025-10-10,-3,Manufacturing,Auvergne-Rhône-Alpes,BB,0,Performing,2024-12-10,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0174_L3,CORP0174,RM_D,Term Loan,8460000.0,8280200.0,0.0,5.33,2025-09-01,2026-08-27,8,Real Estate,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-06-29,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0308_L2,CORP0308,RM_C,Term Loan,3670000.0,1956300.0,0.0,4.81,2025-04-01,2030-03-06,51,Energy,Auvergne-Rhône-Alpes,A,0,Performing,2025-02-07,Valid,"Trade_Finance,Term_Loan,Revolving_Credit,Cash_Management",20
+CORP0206_L3,CORP0206,RM_E,Revolving Credit,35720000.0,27093000.0,20.8,7.6,2024-09-18,2031-08-13,68,Energy,Occitanie,BBB,0,Performing,2025-04-22,Valid,"Cash_Management,Trade_Finance,Term_Loan",40
+CORP0477_L3,CORP0477,RM_A,Revolving Credit,10140000.0,8825600.0,66.14,6.54,2022-11-01,2027-10-06,21,Energy,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-02-29,Expiring Soon,"Trade_Finance,Revolving_Credit,FX_Hedging,Cash_Management",20
+CORP0185_L1,CORP0185,RM_C,Term Loan,48790000.0,22058200.0,0.0,4.87,2024-02-24,2028-02-03,25,Technology,Île-de-France,A,0,Performing,2024-03-07,Expiring Soon,Cash_Management,80
+CORP0301_L1,CORP0301,RM_C,Term Loan,36980000.0,16314500.0,0.0,7.48,2025-03-11,2030-02-13,50,Manufacturing,Nouvelle-Aquitaine,BBB,0,Performing,2025-08-12,Valid,"Trade_Finance,Cash_Management",60
+CORP0469_L3,CORP0469,RM_A,Revolving Credit,17700000.0,15740800.0,54.11,4.92,2024-06-05,2029-05-10,41,Manufacturing,Occitanie,BBB,3,Grace Period,2025-12-19,Valid,FX_Hedging,80
+CORP0003_L2,CORP0003,RM_E,Term Loan,20650000.0,9579100.0,0.0,8.18,2025-04-16,2030-03-21,51,Retail,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-06-14,Expired,"Term_Loan,Revolving_Credit,Cash_Management",40
+CORP0412_L3,CORP0412,RM_E,Revolving Credit,43870000.0,38951700.0,92.45,5.88,2022-06-22,2025-06-06,-7,Healthcare,Occitanie,BB,0,Performing,2023-04-22,Expired,"Trade_Finance,Cash_Management",60
+CORP0395_L1,CORP0395,RM_C,Revolving Credit,48080000.0,32468900.0,56.15,4.05,2023-02-11,2028-01-16,25,Real Estate,Provence-Alpes-Côte d'Azur,AA,1,Grace Period,2025-12-16,Valid,"FX_Hedging,Term_Loan,Trade_Finance,Revolving_Credit",20
+CORP0196_L3,CORP0196,RM_B,Term Loan,34010000.0,18296000.0,0.0,5.6,2023-12-05,2027-11-14,23,Real Estate,Île-de-France,A,40,Watch List,2025-09-13,Valid,"Cash_Management,Term_Loan,Revolving_Credit",40
+CORP0005_L3,CORP0005,RM_C,Revolving Credit,12790000.0,5829800.0,25.7,8.09,2021-12-02,2028-10-26,34,Real Estate,Nouvelle-Aquitaine,BBB,0,Performing,2025-09-22,Valid,"FX_Hedging,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0244_L2,CORP0244,RM_E,Revolving Credit,11320000.0,8424700.0,88.24,5.49,2024-09-02,2031-07-28,68,Retail,Île-de-France,A,0,Performing,2025-10-04,Valid,"Trade_Finance,Revolving_Credit",60
+CORP0103_L1,CORP0103,RM_D,Term Loan,43700000.0,22901700.0,0.0,4.64,2024-07-23,2026-07-13,6,Real Estate,Provence-Alpes-Côte d'Azur,AA,0,Performing,2024-08-16,Valid,"Cash_Management,Term_Loan",60
+CORP0399_L1,CORP0399,RM_D,Term Loan,46050000.0,37092700.0,0.0,7.09,2021-12-23,2025-12-02,-1,Real Estate,Provence-Alpes-Côte d'Azur,CCC,0,Performing,2023-08-25,Expired,"Trade_Finance,Cash_Management,FX_Hedging,Revolving_Credit",20
+CORP0278_L1,CORP0278,RM_B,Revolving Credit,18870000.0,11119200.0,93.83,8.0,2022-06-23,2025-06-07,-7,Transportation,Provence-Alpes-Côte d'Azur,AAA,0,Performing,2023-08-17,Expired,"Revolving_Credit,FX_Hedging,Trade_Finance",40
+CORP0144_L2,CORP0144,RM_D,Term Loan,37630000.0,17947500.0,0.0,5.74,2022-10-01,2026-09-10,8,Healthcare,Occitanie,BB,0,Performing,2024-03-19,Expiring Soon,"Cash_Management,FX_Hedging,Revolving_Credit,Term_Loan",20
+CORP0258_L2,CORP0258,RM_B,Revolving Credit,43090000.0,37296200.0,54.51,6.64,2023-02-18,2024-02-13,-23,Technology,Île-de-France,BBB,0,Performing,2025-09-18,Valid,"Cash_Management,Term_Loan,FX_Hedging,Trade_Finance",20
+CORP0007_L3,CORP0007,RM_A,Term Loan,19280000.0,8877500.0,0.0,3.62,2023-09-02,2028-08-06,31,Energy,Nouvelle-Aquitaine,B,18,Watch List,2025-05-27,Valid,"Cash_Management,Trade_Finance,FX_Hedging,Revolving_Credit",20
+CORP0135_L1,CORP0135,RM_E,Revolving Credit,23830000.0,18297900.0,35.79,6.7,2023-08-24,2025-08-13,-5,Manufacturing,Auvergne-Rhône-Alpes,CCC,0,Performing,2025-09-07,Valid,"Revolving_Credit,FX_Hedging,Cash_Management",40
+CORP0191_L2,CORP0191,RM_E,Revolving Credit,14340000.0,7283800.0,81.06,6.82,2024-12-17,2029-11-21,47,Manufacturing,Hauts-de-France,BBB,0,Performing,2023-02-14,Expired,Trade_Finance,80
+CORP0412_L1,CORP0412,RM_E,Revolving Credit,42890000.0,22201500.0,33.25,5.5,2024-11-09,2028-10-19,34,Healthcare,Occitanie,BB,0,Performing,2023-04-22,Expired,"Trade_Finance,Cash_Management",60
+CORP0458_L3,CORP0458,RM_A,Revolving Credit,39370000.0,22835400.0,27.42,3.48,2022-07-18,2027-06-22,18,Manufacturing,Auvergne-Rhône-Alpes,B,0,Performing,2023-12-13,Expired,"Trade_Finance,Term_Loan,FX_Hedging",40
+CORP0111_L2,CORP0111,RM_C,Revolving Credit,42030000.0,19240500.0,62.03,8.09,2023-10-27,2026-10-11,9,Manufacturing,Hauts-de-France,B,0,Performing,2023-07-02,Expired,FX_Hedging,80
+CORP0132_L2,CORP0132,RM_B,Term Loan,20880000.0,12750500.0,0.0,5.96,2021-11-20,2026-10-25,10,Retail,Provence-Alpes-Côte d'Azur,B,0,Performing,2025-05-31,Valid,"FX_Hedging,Trade_Finance,Revolving_Credit,Term_Loan",20
+CORP0333_L3,CORP0333,RM_B,Term Loan,48980000.0,27956100.0,0.0,7.15,2023-11-16,2030-10-10,58,Transportation,Auvergne-Rhône-Alpes,A,0,Performing,2024-02-29,Expiring Soon,"Trade_Finance,FX_Hedging",60
+CORP0229_L1,CORP0229,RM_A,Revolving Credit,30880000.0,20944400.0,89.64,5.03,2024-11-19,2026-11-09,10,Real Estate,Île-de-France,AA,0,Performing,2024-02-06,Expiring Soon,"FX_Hedging,Trade_Finance,Term_Loan,Cash_Management",20
+CORP0314_L3,CORP0314,RM_B,Revolving Credit,42520000.0,18828100.0,43.77,4.25,2024-10-15,2027-09-30,21,Healthcare,Provence-Alpes-Côte d'Azur,A,0,Performing,2024-01-17,Expiring Soon,"Revolving_Credit,Trade_Finance,FX_Hedging,Cash_Management",20
+CORP0137_L3,CORP0137,RM_B,Revolving Credit,13930000.0,9290500.0,92.41,4.98,2023-08-30,2030-07-24,55,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-12-27,Valid,Term_Loan,80
+CORP0095_L1,CORP0095,RM_D,Term Loan,36520000.0,29114200.0,0.0,3.12,2025-04-01,2027-03-22,15,Energy,Provence-Alpes-Côte d'Azur,B,0,Performing,2023-03-01,Expired,"Trade_Finance,Term_Loan,Cash_Management,FX_Hedging",20
+CORP0033_L2,CORP0033,RM_E,Term Loan,1810000.0,1155200.0,0.0,3.43,2025-03-25,2026-03-20,2,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-03-12,Expiring Soon,"Revolving_Credit,Cash_Management,Term_Loan",40
+CORP0336_L2,CORP0336,RM_C,Revolving Credit,11850000.0,9984300.0,59.51,3.52,2023-03-19,2030-02-10,50,Energy,Occitanie,B,0,Performing,2022-12-21,Expired,"Revolving_Credit,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0018_L3,CORP0018,RM_A,Revolving Credit,43090000.0,25643800.0,60.54,4.13,2023-01-10,2026-12-20,12,Retail,Occitanie,AA,24,Watch List,2023-12-07,Expired,"Revolving_Credit,Term_Loan,Trade_Finance",40
+CORP0228_L1,CORP0228,RM_E,Term Loan,29750000.0,20049300.0,0.0,6.34,2022-02-17,2027-01-22,13,Real Estate,Nouvelle-Aquitaine,B,0,Performing,2025-02-27,Valid,"FX_Hedging,Trade_Finance",60
+CORP0274_L2,CORP0274,RM_C,Revolving Credit,24340000.0,13053000.0,50.92,3.43,2025-03-12,2029-02-19,38,Real Estate,Nouvelle-Aquitaine,CCC,0,Performing,2025-11-18,Valid,"Revolving_Credit,Term_Loan",60
+CORP0006_L1,CORP0006,RM_E,Term Loan,17520000.0,11940200.0,0.0,8.18,2025-08-25,2032-07-19,80,Retail,Provence-Alpes-Côte d'Azur,B,0,Performing,2023-12-10,Expired,"Term_Loan,FX_Hedging",60
+CORP0245_L2,CORP0245,RM_D,Term Loan,38410000.0,33753900.0,0.0,5.79,2022-05-08,2024-04-27,-21,Transportation,Île-de-France,BB,0,Performing,2024-12-03,Valid,"Term_Loan,FX_Hedging,Revolving_Credit",40
+CORP0097_L2,CORP0097,RM_E,Revolving Credit,20040000.0,9979200.0,36.54,2.98,2022-01-28,2026-01-07,0,Financial Services,Hauts-de-France,CCC,0,Performing,2024-06-16,Valid,Revolving_Credit,80
+CORP0321_L1,CORP0321,RM_A,Revolving Credit,14590000.0,12339600.0,25.13,3.32,2024-03-10,2028-02-18,26,Retail,Hauts-de-France,A,0,Performing,2023-05-27,Expired,"Cash_Management,Term_Loan",60
+CORP0057_L3,CORP0057,RM_D,Revolving Credit,31080000.0,17506800.0,21.45,2.8,2022-03-16,2026-02-23,2,Transportation,Île-de-France,A,0,Performing,2023-01-24,Expired,"Term_Loan,Revolving_Credit,FX_Hedging,Trade_Finance",20
+CORP0274_L1,CORP0274,RM_C,Term Loan,48630000.0,27683500.0,0.0,2.55,2024-12-29,2031-11-23,72,Real Estate,Nouvelle-Aquitaine,CCC,0,Performing,2025-11-18,Valid,"Revolving_Credit,Term_Loan",60
+CORP0047_L1,CORP0047,RM_D,Term Loan,24930000.0,15086300.0,0.0,5.28,2023-12-13,2027-11-22,23,Real Estate,Hauts-de-France,BB,70,Medium Risk,2022-12-17,Expired,"Term_Loan,FX_Hedging,Revolving_Credit",40
+CORP0406_L1,CORP0406,RM_C,Revolving Credit,4470000.0,3801000.0,49.43,5.76,2024-11-16,2025-11-11,-2,Manufacturing,Île-de-France,BB,0,Performing,2023-04-11,Expired,"Term_Loan,FX_Hedging",60
+CORP0093_L1,CORP0093,RM_E,Revolving Credit,40950000.0,36730200.0,77.84,5.16,2025-01-05,2031-11-30,72,Transportation,Provence-Alpes-Côte d'Azur,BB,0,Performing,2024-11-09,Valid,"Term_Loan,Revolving_Credit,Cash_Management,FX_Hedging",20
+CORP0378_L1,CORP0378,RM_A,Term Loan,23310000.0,20107100.0,0.0,5.34,2022-10-10,2029-09-03,45,Real Estate,Provence-Alpes-Côte d'Azur,BBB,35,Watch List,2024-07-07,Valid,Term_Loan,80
+CORP0349_L2,CORP0349,RM_D,Revolving Credit,8350000.0,6988500.0,56.09,4.29,2022-08-13,2027-07-18,19,Real Estate,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-07-27,Valid,Cash_Management,80
+CORP0185_L1,CORP0185,RM_C,Term Loan,48680000.0,26364100.0,0.0,7.27,2023-04-06,2026-03-21,3,Technology,Île-de-France,A,0,Performing,2024-03-07,Expiring Soon,Cash_Management,80
+CORP0300_L1,CORP0300,RM_E,Revolving Credit,39560000.0,16036000.0,55.65,6.08,2025-06-17,2030-05-22,53,Real Estate,Île-de-France,B,0,Performing,2024-08-09,Valid,"Trade_Finance,Revolving_Credit",60
+CORP0191_L1,CORP0191,RM_E,Term Loan,8310000.0,3779700.0,0.0,8.48,2022-03-25,2025-03-09,-10,Manufacturing,Hauts-de-France,BBB,4,Grace Period,2023-02-14,Expired,Trade_Finance,80
+CORP0321_L1,CORP0321,RM_A,Term Loan,18100000.0,8911600.0,0.0,3.9,2022-09-09,2023-09-04,-28,Retail,Hauts-de-France,A,0,Performing,2023-05-27,Expired,"Cash_Management,Term_Loan",60
+CORP0286_L3,CORP0286,RM_D,Revolving Credit,40370000.0,26774600.0,46.86,3.31,2024-08-12,2025-08-07,-5,Manufacturing,Occitanie,BBB,0,Performing,2024-09-13,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0461_L1,CORP0461,RM_C,Revolving Credit,35480000.0,26092500.0,62.5,5.76,2022-08-27,2029-07-21,43,Real Estate,Occitanie,BB,0,Performing,2023-04-15,Expired,"Revolving_Credit,Term_Loan,Trade_Finance,Cash_Management",20
+CORP0166_L3,CORP0166,RM_D,Revolving Credit,14130000.0,12700200.0,31.63,4.27,2022-08-03,2024-07-23,-18,Healthcare,Hauts-de-France,BB,0,Performing,2024-02-27,Expiring Soon,"Revolving_Credit,Trade_Finance,Term_Loan",40
+CORP0135_L3,CORP0135,RM_E,Revolving Credit,22980000.0,19890400.0,86.22,6.22,2022-11-10,2026-10-20,10,Manufacturing,Auvergne-Rhône-Alpes,CCC,0,Performing,2025-09-07,Valid,"Revolving_Credit,FX_Hedging,Cash_Management",40
+CORP0187_L3,CORP0187,RM_A,Term Loan,16370000.0,7170100.0,0.0,6.6,2022-09-04,2026-08-14,7,Retail,Île-de-France,A,0,Performing,2025-02-16,Valid,"Term_Loan,Cash_Management,FX_Hedging,Revolving_Credit",20
+CORP0393_L3,CORP0393,RM_D,Term Loan,30850000.0,18311300.0,0.0,5.64,2022-02-07,2025-01-22,-12,Energy,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-01-30,Expiring Soon,"Cash_Management,Revolving_Credit,Term_Loan",40
+CORP0035_L1,CORP0035,RM_A,Term Loan,9340000.0,3911300.0,0.0,2.69,2025-02-04,2029-01-14,37,Retail,Hauts-de-France,AA,0,Performing,2024-10-09,Valid,"Revolving_Credit,Cash_Management,Term_Loan",40
+CORP0329_L2,CORP0329,RM_B,Revolving Credit,26530000.0,21775500.0,65.45,2.93,2024-04-05,2025-03-31,-9,Energy,Provence-Alpes-Côte d'Azur,A,0,Performing,2025-10-14,Valid,"Cash_Management,FX_Hedging,Term_Loan,Revolving_Credit",20
+CORP0477_L1,CORP0477,RM_A,Revolving Credit,46460000.0,41779000.0,61.85,8.13,2023-01-27,2029-12-21,48,Energy,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-02-29,Expiring Soon,"Trade_Finance,Revolving_Credit,FX_Hedging,Cash_Management",20
+CORP0213_L2,CORP0213,RM_A,Term Loan,41270000.0,23090100.0,0.0,4.32,2025-06-20,2032-05-14,77,Real Estate,Île-de-France,BBB,0,Performing,2024-04-06,Valid,"Revolving_Credit,Cash_Management",60
+CORP0484_L1,CORP0484,RM_E,Term Loan,5510000.0,2967700.0,0.0,6.44,2023-07-15,2025-07-04,-6,Transportation,Provence-Alpes-Côte d'Azur,B,0,Performing,2023-10-15,Expired,"FX_Hedging,Cash_Management",60
+CORP0292_L3,CORP0292,RM_E,Term Loan,28140000.0,20679700.0,0.0,6.55,2025-02-07,2032-01-02,73,Retail,Occitanie,A,0,Performing,2025-03-08,Valid,FX_Hedging,80
+CORP0360_L3,CORP0360,RM_A,Revolving Credit,44200000.0,22103800.0,45.31,3.45,2024-09-07,2029-08-12,44,Energy,Île-de-France,B,0,Performing,2025-11-24,Valid,"Term_Loan,Trade_Finance",60
+CORP0308_L2,CORP0308,RM_C,Revolving Credit,45170000.0,32976300.0,67.49,7.46,2023-11-17,2026-11-01,10,Energy,Auvergne-Rhône-Alpes,A,0,Performing,2025-02-07,Valid,"Trade_Finance,Term_Loan,Revolving_Credit,Cash_Management",20
+CORP0166_L3,CORP0166,RM_D,Term Loan,28380000.0,14994800.0,0.0,8.27,2022-08-12,2029-07-06,43,Healthcare,Hauts-de-France,BB,0,Performing,2024-02-27,Expiring Soon,"Revolving_Credit,Trade_Finance,Term_Loan",40
+CORP0230_L2,CORP0230,RM_C,Term Loan,36450000.0,36077300.0,0.0,8.46,2022-05-10,2023-05-05,-33,Real Estate,Hauts-de-France,A,0,Performing,2024-04-16,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0155_L1,CORP0155,RM_D,Revolving Credit,49230000.0,26037400.0,90.75,7.43,2023-12-07,2024-12-01,-13,Energy,Hauts-de-France,BBB,0,Performing,2024-03-28,Valid,Revolving_Credit,80
+CORP0471_L3,CORP0471,RM_E,Term Loan,5170000.0,3496100.0,0.0,7.84,2024-10-27,2026-10-17,10,Healthcare,Nouvelle-Aquitaine,BB,0,Performing,2023-04-26,Expired,"Trade_Finance,Term_Loan,FX_Hedging",40
+CORP0128_L1,CORP0128,RM_A,Revolving Credit,40650000.0,18501600.0,75.07,6.84,2023-06-16,2028-05-20,29,Manufacturing,Hauts-de-France,BBB,4,Grace Period,2024-07-01,Valid,"Cash_Management,Term_Loan,FX_Hedging,Trade_Finance",20
+CORP0406_L2,CORP0406,RM_C,Term Loan,24670000.0,23175400.0,0.0,4.3,2022-06-19,2023-06-14,-31,Manufacturing,Île-de-France,BB,0,Performing,2023-04-11,Expired,"Term_Loan,FX_Hedging",60
+CORP0375_L3,CORP0375,RM_C,Revolving Credit,4380000.0,1899000.0,52.57,8.08,2023-10-28,2026-10-12,9,Manufacturing,Auvergne-Rhône-Alpes,BBB,4,Grace Period,2025-09-10,Valid,"Cash_Management,Revolving_Credit,Term_Loan",40
+CORP0062_L1,CORP0062,RM_D,Term Loan,31880000.0,24844600.0,0.0,4.42,2025-05-24,2028-05-08,28,Real Estate,Hauts-de-France,BBB,0,Performing,2024-10-22,Valid,"Trade_Finance,Term_Loan,Cash_Management,Revolving_Credit",20
+CORP0290_L1,CORP0290,RM_A,Revolving Credit,25370000.0,13509000.0,49.47,5.17,2025-05-31,2032-04-24,77,Transportation,Hauts-de-France,A,0,Performing,2024-03-15,Expiring Soon,Revolving_Credit,80
+CORP0305_L3,CORP0305,RM_C,Term Loan,11490000.0,6593800.0,0.0,3.0,2023-06-27,2025-06-16,-7,Technology,Occitanie,A,0,Performing,2023-03-20,Expired,"Cash_Management,Trade_Finance",60
+CORP0293_L3,CORP0293,RM_A,Term Loan,27630000.0,15404700.0,0.0,6.69,2023-06-18,2028-05-22,29,Energy,Nouvelle-Aquitaine,AA,0,Performing,2024-08-31,Valid,Cash_Management,80
+CORP0391_L1,CORP0391,RM_B,Revolving Credit,28190000.0,19527700.0,66.2,6.91,2022-01-15,2026-12-20,12,Transportation,Auvergne-Rhône-Alpes,A,0,Performing,2024-12-21,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0127_L1,CORP0127,RM_D,Term Loan,13680000.0,9002000.0,0.0,4.98,2022-06-20,2023-06-15,-31,Healthcare,Auvergne-Rhône-Alpes,CCC,0,Performing,2023-12-01,Expired,Trade_Finance,80
+CORP0188_L2,CORP0188,RM_D,Term Loan,16380000.0,12388600.0,0.0,4.6,2025-07-24,2028-07-08,31,Manufacturing,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-05-28,Expired,Term_Loan,80
+CORP0421_L2,CORP0421,RM_A,Term Loan,22300000.0,21286000.0,0.0,3.44,2024-05-21,2026-05-11,4,Healthcare,Provence-Alpes-Côte d'Azur,CCC,0,Performing,2024-09-09,Valid,"Cash_Management,Trade_Finance",60
+CORP0373_L1,CORP0373,RM_D,Term Loan,37110000.0,20255700.0,0.0,7.42,2022-03-20,2024-03-09,-22,Real Estate,Auvergne-Rhône-Alpes,A,7,Grace Period,2024-06-25,Valid,Term_Loan,80
+CORP0008_L2,CORP0008,RM_B,Term Loan,15600000.0,10650300.0,0.0,3.77,2023-11-02,2025-10-22,-2,Technology,Nouvelle-Aquitaine,BB,0,Performing,2025-07-26,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0280_L3,CORP0280,RM_B,Revolving Credit,27670000.0,21411700.0,21.38,6.0,2024-11-26,2031-10-21,71,Technology,Nouvelle-Aquitaine,AA,0,Performing,2023-03-25,Expired,"FX_Hedging,Term_Loan",60
+CORP0340_L3,CORP0340,RM_B,Term Loan,13150000.0,5734300.0,0.0,2.82,2024-07-27,2031-06-21,66,Technology,Nouvelle-Aquitaine,AA,0,Performing,2024-04-03,Valid,"Trade_Finance,Term_Loan",60
+CORP0336_L1,CORP0336,RM_C,Term Loan,19740000.0,11109400.0,0.0,2.61,2021-12-30,2024-12-14,-13,Energy,Occitanie,B,14,Grace Period,2022-12-21,Expired,"Revolving_Credit,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0445_L3,CORP0445,RM_C,Revolving Credit,11940000.0,7503300.0,64.78,3.03,2025-02-20,2028-02-05,25,Manufacturing,Auvergne-Rhône-Alpes,CCC,0,Performing,2024-02-29,Expiring Soon,"Term_Loan,FX_Hedging",60
+CORP0102_L3,CORP0102,RM_D,Revolving Credit,28250000.0,23376400.0,42.87,5.44,2025-06-22,2027-06-12,17,Retail,Occitanie,BB,11,Grace Period,2024-10-29,Valid,"FX_Hedging,Revolving_Credit,Trade_Finance",40
+CORP0382_L1,CORP0382,RM_D,Term Loan,17670000.0,10799000.0,0.0,8.37,2022-03-11,2025-02-23,-11,Retail,Occitanie,B,0,Performing,2023-04-13,Expired,Term_Loan,80
+CORP0257_L2,CORP0257,RM_E,Term Loan,31480000.0,29188500.0,0.0,3.85,2025-07-13,2030-06-17,54,Real Estate,Île-de-France,BBB,6,Grace Period,2024-03-28,Valid,Trade_Finance,80
+CORP0175_L2,CORP0175,RM_E,Term Loan,4850000.0,3052200.0,0.0,6.62,2021-11-23,2026-10-28,10,Healthcare,Auvergne-Rhône-Alpes,AA,18,Watch List,2023-08-05,Expired,"Term_Loan,Cash_Management,Revolving_Credit",40
+CORP0214_L1,CORP0214,RM_C,Term Loan,21610000.0,12694400.0,0.0,3.29,2022-04-21,2025-04-05,-9,Transportation,Auvergne-Rhône-Alpes,B,0,Performing,2023-01-22,Expired,"Term_Loan,Cash_Management,FX_Hedging",40
+CORP0335_L1,CORP0335,RM_D,Term Loan,43200000.0,25289200.0,0.0,7.95,2022-10-05,2024-09-24,-16,Energy,Nouvelle-Aquitaine,CCC,0,Performing,2024-02-18,Expiring Soon,Term_Loan,80
+CORP0395_L1,CORP0395,RM_C,Term Loan,16220000.0,11912000.0,0.0,7.78,2025-01-12,2027-01-02,12,Real Estate,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-12-16,Valid,"FX_Hedging,Term_Loan,Trade_Finance,Revolving_Credit",20
+CORP0373_L1,CORP0373,RM_D,Revolving Credit,44070000.0,28576000.0,90.03,7.86,2023-05-23,2026-05-07,4,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2024-06-25,Valid,Term_Loan,80
+CORP0478_L3,CORP0478,RM_D,Revolving Credit,8020000.0,4112300.0,93.95,6.2,2024-12-16,2026-12-06,11,Financial Services,Nouvelle-Aquitaine,BB,0,Performing,2025-03-12,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Revolving_Credit",20
+CORP0311_L3,CORP0311,RM_B,Term Loan,30020000.0,16167200.0,0.0,7.18,2025-07-20,2028-07-04,30,Energy,Nouvelle-Aquitaine,BBB,0,Performing,2025-09-20,Valid,"Cash_Management,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0069_L3,CORP0069,RM_A,Revolving Credit,35740000.0,22315200.0,32.28,3.86,2023-07-11,2027-06-20,18,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-08-18,Valid,"Trade_Finance,Term_Loan",60
+CORP0210_L1,CORP0210,RM_D,Revolving Credit,47530000.0,25358800.0,24.96,8.06,2021-12-07,2023-11-27,-26,Healthcare,Auvergne-Rhône-Alpes,AAA,0,Performing,2023-11-25,Expired,"FX_Hedging,Revolving_Credit,Cash_Management,Term_Loan",20
+CORP0225_L3,CORP0225,RM_D,Revolving Credit,34550000.0,31788200.0,23.14,6.91,2024-04-24,2028-04-03,27,Real Estate,Île-de-France,AA,0,Performing,2024-06-26,Valid,"Trade_Finance,Cash_Management,Term_Loan",40
+CORP0195_L3,CORP0195,RM_A,Revolving Credit,20010000.0,19279300.0,68.1,6.72,2022-06-28,2027-06-02,17,Manufacturing,Auvergne-Rhône-Alpes,BB,0,Performing,2025-09-25,Valid,"Cash_Management,Trade_Finance,FX_Hedging",40
+CORP0020_L3,CORP0020,RM_C,Term Loan,22850000.0,20478300.0,0.0,4.87,2025-06-17,2027-06-07,17,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-08-06,Expired,"FX_Hedging,Revolving_Credit",60
+CORP0377_L1,CORP0377,RM_A,Revolving Credit,26050000.0,20277000.0,49.85,4.33,2025-06-03,2027-05-24,17,Manufacturing,Auvergne-Rhône-Alpes,AAA,0,Performing,2024-09-20,Valid,"Revolving_Credit,Trade_Finance",60
+CORP0424_L2,CORP0424,RM_C,Revolving Credit,8740000.0,5039900.0,30.67,7.48,2025-05-23,2032-04-16,76,Healthcare,Île-de-France,BB,0,Performing,2023-09-15,Expired,"FX_Hedging,Term_Loan",60
+CORP0232_L1,CORP0232,RM_E,Term Loan,9400000.0,7061900.0,0.0,4.44,2022-08-19,2024-08-08,-17,Retail,Nouvelle-Aquitaine,BBB,0,Performing,2025-09-05,Valid,"Revolving_Credit,Trade_Finance,Term_Loan,Cash_Management",20
+CORP0013_L1,CORP0013,RM_A,Revolving Credit,29720000.0,24595700.0,44.31,6.39,2024-07-25,2028-07-04,30,Manufacturing,Île-de-France,A,0,Performing,2025-01-26,Valid,"FX_Hedging,Term_Loan,Revolving_Credit,Cash_Management",20
+CORP0365_L1,CORP0365,RM_E,Term Loan,5010000.0,4126900.0,0.0,6.74,2022-02-21,2025-02-05,-11,Real Estate,Nouvelle-Aquitaine,BB,0,Performing,2024-08-10,Valid,"Cash_Management,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0373_L3,CORP0373,RM_D,Term Loan,19240000.0,12089700.0,0.0,6.46,2024-09-27,2027-09-12,21,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2024-06-25,Valid,Term_Loan,80
+CORP0077_L1,CORP0077,RM_C,Term Loan,9350000.0,7734600.0,0.0,7.11,2023-05-06,2026-04-20,4,Real Estate,Occitanie,A,0,Performing,2024-10-11,Valid,"Cash_Management,FX_Hedging,Revolving_Credit",40
+CORP0229_L2,CORP0229,RM_A,Term Loan,6320000.0,3026900.0,0.0,4.02,2024-07-23,2025-07-18,-6,Real Estate,Île-de-France,AA,0,Performing,2024-02-06,Expiring Soon,"FX_Hedging,Trade_Finance,Term_Loan,Cash_Management",20
+CORP0235_L2,CORP0235,RM_C,Revolving Credit,27400000.0,11054500.0,69.46,5.22,2022-12-06,2024-11-25,-14,Real Estate,Hauts-de-France,CCC,0,Performing,2023-04-15,Expired,"Cash_Management,Revolving_Credit,Trade_Finance,FX_Hedging",20
+CORP0227_L1,CORP0227,RM_C,Term Loan,12610000.0,9185200.0,0.0,7.45,2022-03-22,2029-02-13,38,Real Estate,Hauts-de-France,BB,0,Performing,2025-04-20,Valid,"Term_Loan,Trade_Finance",60
+CORP0026_L1,CORP0026,RM_B,Term Loan,3230000.0,1968400.0,0.0,7.53,2024-11-18,2025-11-13,-2,Energy,Île-de-France,A,0,Performing,2022-12-17,Expired,"Revolving_Credit,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0153_L2,CORP0153,RM_A,Term Loan,2930000.0,1905000.0,0.0,6.17,2024-09-11,2026-09-01,8,Technology,Hauts-de-France,BB,0,Performing,2024-06-10,Valid,"Trade_Finance,FX_Hedging,Cash_Management,Revolving_Credit",20
+CORP0355_L3,CORP0355,RM_A,Term Loan,48330000.0,41061200.0,0.0,4.3,2023-09-05,2024-08-30,-16,Manufacturing,Occitanie,BBB,0,Performing,2025-08-29,Valid,"Revolving_Credit,Term_Loan,Trade_Finance",40
+CORP0189_L2,CORP0189,RM_E,Term Loan,38040000.0,34463700.0,0.0,3.23,2025-05-02,2028-04-16,28,Healthcare,Occitanie,BBB,0,Performing,2023-01-29,Expired,"Revolving_Credit,Cash_Management",60
+CORP0441_L2,CORP0441,RM_A,Revolving Credit,26590000.0,19006200.0,62.85,8.38,2024-07-10,2029-06-14,42,Real Estate,Occitanie,B,0,Performing,2025-02-14,Valid,"Revolving_Credit,Cash_Management",60
+CORP0271_L1,CORP0271,RM_E,Revolving Credit,36340000.0,27722600.0,43.74,5.65,2024-02-01,2028-01-11,25,Retail,Occitanie,BBB,0,Performing,2023-10-16,Expired,"Cash_Management,Revolving_Credit",60
+CORP0320_L2,CORP0320,RM_B,Term Loan,30910000.0,21570200.0,0.0,3.58,2022-02-25,2026-02-04,1,Technology,Nouvelle-Aquitaine,BBB,0,Performing,2024-06-30,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Revolving_Credit",20
+CORP0313_L1,CORP0313,RM_D,Revolving Credit,48970000.0,19634500.0,28.84,7.59,2025-07-24,2029-07-03,43,Real Estate,Île-de-France,AA,0,Performing,2023-08-21,Expired,Term_Loan,80
+CORP0410_L3,CORP0410,RM_B,Revolving Credit,21000000.0,12605800.0,68.05,6.64,2022-07-22,2029-06-15,42,Real Estate,Nouvelle-Aquitaine,BB,0,Performing,2025-08-15,Valid,"Term_Loan,FX_Hedging",60
+CORP0131_L1,CORP0131,RM_A,Revolving Credit,15360000.0,11212700.0,45.6,6.85,2025-08-30,2026-08-25,8,Financial Services,Île-de-France,A,0,Performing,2025-03-17,Valid,"Trade_Finance,Cash_Management,FX_Hedging,Revolving_Credit",20
+CORP0316_L1,CORP0316,RM_A,Term Loan,10100000.0,9093000.0,0.0,7.28,2021-12-04,2025-11-13,-2,Manufacturing,Nouvelle-Aquitaine,BB,3,Grace Period,2025-01-17,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0331_L1,CORP0331,RM_C,Revolving Credit,8190000.0,5539500.0,81.06,8.07,2022-09-08,2025-08-23,-4,Healthcare,Hauts-de-France,BBB,0,Performing,2025-01-09,Valid,"Cash_Management,FX_Hedging,Trade_Finance",40
+CORP0029_L3,CORP0029,RM_C,Revolving Credit,28460000.0,22964900.0,63.3,4.49,2022-08-01,2027-07-06,18,Real Estate,Occitanie,B,0,Performing,2023-06-02,Expired,"Trade_Finance,FX_Hedging,Term_Loan",40
+CORP0470_L2,CORP0470,RM_C,Term Loan,48500000.0,27561400.0,0.0,6.26,2025-07-10,2028-06-24,30,Financial Services,Provence-Alpes-Côte d'Azur,B,6,Grace Period,2024-10-22,Valid,"Cash_Management,FX_Hedging,Term_Loan,Trade_Finance",20
+CORP0432_L1,CORP0432,RM_E,Revolving Credit,9780000.0,4597600.0,73.24,4.13,2023-12-20,2030-11-13,59,Real Estate,Provence-Alpes-Côte d'Azur,BB,9,Grace Period,2023-09-28,Expired,Term_Loan,80
+CORP0045_L2,CORP0045,RM_D,Term Loan,18890000.0,16957100.0,0.0,3.55,2024-01-01,2025-12-21,0,Healthcare,Île-de-France,B,0,Performing,2023-05-01,Expired,"Revolving_Credit,Trade_Finance",60
+CORP0192_L1,CORP0192,RM_D,Term Loan,45710000.0,30454900.0,0.0,3.42,2025-07-22,2029-07-01,42,Transportation,Île-de-France,CCC,12,Grace Period,2024-07-18,Valid,Cash_Management,80
+CORP0175_L2,CORP0175,RM_E,Revolving Credit,38890000.0,18899600.0,29.95,6.85,2025-02-22,2030-01-27,49,Healthcare,Auvergne-Rhône-Alpes,AA,0,Performing,2023-08-05,Expired,"Term_Loan,Cash_Management,Revolving_Credit",40
+CORP0236_L2,CORP0236,RM_C,Term Loan,700000.0,671600.0,0.0,7.84,2022-05-13,2023-05-08,-32,Real Estate,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-11-21,Valid,"Cash_Management,FX_Hedging",60
+CORP0053_L3,CORP0053,RM_E,Revolving Credit,1610000.0,1376700.0,34.44,4.16,2022-02-11,2024-02-01,-23,Technology,Occitanie,BBB,0,Performing,2024-02-29,Expiring Soon,"Trade_Finance,FX_Hedging,Cash_Management,Term_Loan",20
+CORP0164_L2,CORP0164,RM_E,Term Loan,14000000.0,6923000.0,0.0,5.86,2025-01-20,2026-01-15,0,Retail,Hauts-de-France,A,30,Watch List,2024-01-04,Expiring Soon,"Revolving_Credit,FX_Hedging,Term_Loan",40
+CORP0053_L1,CORP0053,RM_E,Revolving Credit,27690000.0,15579300.0,25.34,6.18,2024-02-09,2029-01-13,37,Technology,Occitanie,BBB,0,Performing,2024-02-29,Expiring Soon,"Trade_Finance,FX_Hedging,Cash_Management,Term_Loan",20
+CORP0174_L3,CORP0174,RM_D,Revolving Credit,3010000.0,1256400.0,24.03,5.06,2021-11-28,2022-11-23,-38,Real Estate,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-06-29,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0092_L3,CORP0092,RM_C,Revolving Credit,31010000.0,18217300.0,80.7,2.97,2024-08-02,2031-06-27,67,Technology,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-06-04,Expired,Revolving_Credit,80
+CORP0473_L2,CORP0473,RM_D,Term Loan,5100000.0,4495200.0,0.0,6.61,2023-01-26,2024-01-21,-24,Real Estate,Provence-Alpes-Côte d'Azur,AA,0,Performing,2024-11-13,Valid,"Term_Loan,Trade_Finance",60
+CORP0364_L2,CORP0364,RM_C,Revolving Credit,11970000.0,6395300.0,49.41,6.7,2022-03-28,2025-03-12,-10,Manufacturing,Occitanie,BB,4,Grace Period,2024-03-23,Valid,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0341_L2,CORP0341,RM_B,Revolving Credit,22940000.0,9592600.0,54.59,3.52,2023-01-12,2024-01-07,-24,Energy,Île-de-France,BBB,0,Performing,2025-03-23,Valid,"FX_Hedging,Trade_Finance",60
+CORP0394_L2,CORP0394,RM_D,Term Loan,25640000.0,16497100.0,0.0,2.93,2025-02-04,2028-01-20,25,Energy,Occitanie,BBB,0,Performing,2024-12-28,Valid,"Revolving_Credit,FX_Hedging,Trade_Finance",40
+CORP0155_L3,CORP0155,RM_D,Revolving Credit,20340000.0,13181600.0,93.04,4.8,2022-03-20,2024-03-09,-22,Energy,Hauts-de-France,BBB,0,Performing,2024-03-28,Valid,Revolving_Credit,80
+CORP0175_L1,CORP0175,RM_E,Revolving Credit,39320000.0,25998900.0,32.98,6.52,2023-10-12,2028-09-15,33,Healthcare,Auvergne-Rhône-Alpes,AA,0,Performing,2023-08-05,Expired,"Term_Loan,Cash_Management,Revolving_Credit",40
+CORP0379_L3,CORP0379,RM_D,Revolving Credit,6160000.0,4667100.0,53.39,4.35,2023-11-15,2028-10-19,34,Financial Services,Auvergne-Rhône-Alpes,BB,0,Performing,2025-06-14,Valid,"Term_Loan,FX_Hedging,Revolving_Credit",40
+CORP0208_L1,CORP0208,RM_D,Term Loan,34430000.0,26092500.0,0.0,6.46,2023-07-28,2026-07-12,6,Technology,Provence-Alpes-Côte d'Azur,CCC,0,Performing,2024-03-05,Expiring Soon,"Term_Loan,Cash_Management,Revolving_Credit",40
+CORP0047_L1,CORP0047,RM_D,Term Loan,44420000.0,41841600.0,0.0,6.47,2022-02-17,2023-02-12,-35,Real Estate,Hauts-de-France,BB,0,Performing,2022-12-17,Expired,"Term_Loan,FX_Hedging,Revolving_Credit",40
+CORP0232_L3,CORP0232,RM_E,Revolving Credit,19800000.0,14785800.0,43.74,5.92,2024-08-07,2026-07-28,7,Retail,Nouvelle-Aquitaine,BBB,0,Performing,2025-09-05,Valid,"Revolving_Credit,Trade_Finance,Term_Loan,Cash_Management",20
+CORP0468_L3,CORP0468,RM_D,Revolving Credit,45970000.0,44223400.0,65.86,5.56,2023-10-07,2024-10-01,-15,Real Estate,Hauts-de-France,AA,0,Performing,2023-03-05,Expired,"Cash_Management,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0434_L1,CORP0434,RM_C,Revolving Credit,3590000.0,3376900.0,81.56,4.66,2025-05-26,2026-05-21,5,Real Estate,Nouvelle-Aquitaine,B,0,Performing,2024-07-03,Valid,"Revolving_Credit,FX_Hedging,Cash_Management",40
+CORP0441_L2,CORP0441,RM_A,Term Loan,12140000.0,9971000.0,0.0,4.8,2023-06-27,2030-05-21,53,Real Estate,Occitanie,B,0,Performing,2025-02-14,Valid,"Revolving_Credit,Cash_Management",60
+CORP0196_L2,CORP0196,RM_B,Term Loan,33290000.0,22801100.0,0.0,8.05,2024-08-22,2029-07-27,43,Real Estate,Île-de-France,A,0,Performing,2025-09-13,Valid,"Cash_Management,Term_Loan,Revolving_Credit",40
+CORP0431_L2,CORP0431,RM_C,Term Loan,14780000.0,13651400.0,0.0,6.39,2024-12-28,2026-12-18,12,Energy,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-11-09,Expired,"Trade_Finance,Cash_Management,Term_Loan",40
+CORP0074_L3,CORP0074,RM_C,Revolving Credit,33070000.0,32573500.0,80.45,7.66,2024-12-07,2025-12-02,-1,Real Estate,Hauts-de-France,AAA,0,Performing,2023-08-12,Expired,"Term_Loan,Trade_Finance,Revolving_Credit,Cash_Management",20
+CORP0458_L3,CORP0458,RM_A,Revolving Credit,31350000.0,21087200.0,48.85,3.85,2023-04-27,2028-03-31,27,Manufacturing,Auvergne-Rhône-Alpes,B,0,Performing,2023-12-13,Expired,"Trade_Finance,Term_Loan,FX_Hedging",40
+CORP0218_L3,CORP0218,RM_D,Term Loan,29110000.0,26434300.0,0.0,4.97,2024-05-15,2031-04-09,64,Retail,Nouvelle-Aquitaine,A,0,Performing,2023-09-10,Expired,"Trade_Finance,Term_Loan,Cash_Management",40
+CORP0280_L3,CORP0280,RM_B,Revolving Credit,2160000.0,913100.0,63.52,8.27,2022-12-27,2029-11-20,47,Technology,Nouvelle-Aquitaine,AA,0,Performing,2023-03-25,Expired,"FX_Hedging,Term_Loan",60
+CORP0041_L1,CORP0041,RM_B,Revolving Credit,23510000.0,10507600.0,67.3,6.48,2022-04-11,2023-04-06,-33,Transportation,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-11-24,Expired,"Trade_Finance,Revolving_Credit",60
+CORP0343_L1,CORP0343,RM_A,Revolving Credit,30850000.0,29065400.0,58.45,5.32,2022-09-12,2023-09-07,-28,Technology,Île-de-France,AA,0,Performing,2023-11-28,Expired,"Revolving_Credit,Trade_Finance,Term_Loan",40
+CORP0376_L2,CORP0376,RM_E,Revolving Credit,17970000.0,17730200.0,72.13,6.09,2024-01-17,2027-01-01,12,Financial Services,Occitanie,BB,0,Performing,2024-07-26,Valid,Trade_Finance,80
+CORP0156_L3,CORP0156,RM_A,Revolving Credit,3540000.0,2421000.0,94.28,7.35,2024-09-30,2029-09-04,45,Real Estate,Hauts-de-France,AAA,0,Performing,2024-04-11,Valid,"Revolving_Credit,Cash_Management",60
+CORP0320_L1,CORP0320,RM_B,Revolving Credit,24500000.0,11664300.0,66.18,4.15,2025-04-07,2028-03-22,27,Technology,Nouvelle-Aquitaine,BBB,0,Performing,2024-06-30,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Revolving_Credit",20
+CORP0132_L1,CORP0132,RM_B,Term Loan,30390000.0,28751300.0,0.0,7.35,2024-11-06,2031-10-01,70,Retail,Provence-Alpes-Côte d'Azur,B,0,Performing,2025-05-31,Valid,"FX_Hedging,Trade_Finance,Revolving_Credit,Term_Loan",20
+CORP0134_L3,CORP0134,RM_C,Term Loan,24500000.0,21550800.0,0.0,8.3,2025-07-06,2028-06-20,30,Transportation,Provence-Alpes-Côte d'Azur,AA,14,Grace Period,2024-06-02,Valid,"Term_Loan,Trade_Finance",60
+CORP0305_L1,CORP0305,RM_C,Revolving Credit,37760000.0,24459700.0,74.45,3.5,2023-07-20,2025-07-09,-6,Technology,Occitanie,A,0,Performing,2023-03-20,Expired,"Cash_Management,Trade_Finance",60
+CORP0296_L3,CORP0296,RM_A,Revolving Credit,3190000.0,1782100.0,49.91,4.31,2025-01-17,2026-01-12,0,Healthcare,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-02-07,Valid,"Revolving_Credit,Trade_Finance,FX_Hedging,Cash_Management",20
+CORP0383_L3,CORP0383,RM_D,Term Loan,19300000.0,15890900.0,0.0,7.72,2023-01-14,2025-12-29,0,Technology,Auvergne-Rhône-Alpes,A,0,Performing,2023-01-08,Expired,"FX_Hedging,Term_Loan",60
+CORP0007_L2,CORP0007,RM_A,Revolving Credit,19410000.0,11440500.0,27.3,5.69,2022-09-22,2029-08-16,44,Energy,Nouvelle-Aquitaine,B,17,Watch List,2025-05-27,Valid,"Cash_Management,Trade_Finance,FX_Hedging,Revolving_Credit",20
+CORP0182_L2,CORP0182,RM_D,Revolving Credit,17080000.0,9569100.0,49.34,7.14,2025-02-22,2028-02-07,25,Transportation,Île-de-France,B,0,Performing,2025-05-23,Valid,Cash_Management,80
+CORP0384_L1,CORP0384,RM_C,Term Loan,26240000.0,21166000.0,0.0,6.54,2024-09-08,2027-08-24,20,Financial Services,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-04-02,Expired,"FX_Hedging,Cash_Management,Revolving_Credit",40
+CORP0426_L1,CORP0426,RM_C,Term Loan,20860000.0,14918200.0,0.0,4.2,2023-03-13,2026-02-25,2,Energy,Nouvelle-Aquitaine,BB,0,Performing,2023-02-19,Expired,"Term_Loan,FX_Hedging,Trade_Finance,Revolving_Credit",20
+CORP0099_L1,CORP0099,RM_A,Term Loan,31160000.0,13527500.0,0.0,3.8,2022-05-14,2029-04-07,40,Real Estate,Nouvelle-Aquitaine,B,0,Performing,2024-02-13,Expiring Soon,"Trade_Finance,Cash_Management,FX_Hedging,Revolving_Credit",20
+CORP0307_L3,CORP0307,RM_B,Term Loan,35550000.0,16779100.0,0.0,7.08,2022-04-22,2024-04-11,-21,Financial Services,Occitanie,BBB,0,Performing,2024-05-02,Valid,Trade_Finance,80
+CORP0332_L3,CORP0332,RM_A,Term Loan,44850000.0,36660000.0,0.0,8.12,2024-04-11,2027-03-27,15,Technology,Hauts-de-France,AA,0,Performing,2023-08-30,Expired,Cash_Management,80
+CORP0328_L2,CORP0328,RM_C,Revolving Credit,38580000.0,31455500.0,78.55,4.16,2021-12-14,2024-11-28,-13,Manufacturing,Hauts-de-France,BBB,0,Performing,2025-09-25,Valid,"FX_Hedging,Revolving_Credit,Trade_Finance,Term_Loan",20
+CORP0032_L2,CORP0032,RM_B,Revolving Credit,16970000.0,7399500.0,56.88,8.07,2024-03-18,2026-03-08,2,Manufacturing,Île-de-France,BBB,0,Performing,2024-08-02,Valid,FX_Hedging,80
+CORP0313_L2,CORP0313,RM_D,Term Loan,32450000.0,15091100.0,0.0,6.36,2022-08-31,2026-08-10,7,Real Estate,Île-de-France,AA,0,Performing,2023-08-21,Expired,Term_Loan,80
+CORP0468_L2,CORP0468,RM_D,Revolving Credit,5610000.0,2489400.0,53.44,7.88,2022-06-29,2029-05-23,41,Real Estate,Hauts-de-France,AA,0,Performing,2023-03-05,Expired,"Cash_Management,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0077_L3,CORP0077,RM_C,Term Loan,46680000.0,37286300.0,0.0,7.93,2024-03-15,2026-03-05,2,Real Estate,Occitanie,A,0,Performing,2024-10-11,Valid,"Cash_Management,FX_Hedging,Revolving_Credit",40
+CORP0295_L1,CORP0295,RM_D,Revolving Credit,24170000.0,15525500.0,48.83,6.64,2025-04-21,2030-03-26,51,Healthcare,Occitanie,A,0,Performing,2023-11-12,Expired,"Revolving_Credit,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0400_L2,CORP0400,RM_E,Term Loan,28580000.0,27466100.0,0.0,4.9,2023-09-07,2026-08-22,8,Manufacturing,Occitanie,BB,0,Performing,2024-09-14,Valid,"Trade_Finance,Term_Loan",60
+CORP0324_L3,CORP0324,RM_C,Term Loan,18590000.0,16954200.0,0.0,7.06,2023-10-16,2024-10-10,-15,Retail,Occitanie,AA,0,Performing,2024-03-15,Expiring Soon,"FX_Hedging,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0149_L3,CORP0149,RM_E,Term Loan,9240000.0,3914100.0,0.0,6.68,2023-07-18,2030-06-11,54,Retail,Occitanie,CCC,0,Performing,2025-10-27,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0459_L1,CORP0459,RM_A,Revolving Credit,24580000.0,22887100.0,22.68,2.65,2023-03-30,2030-02-21,50,Transportation,Île-de-France,B,0,Performing,2025-01-04,Valid,"Cash_Management,Trade_Finance,FX_Hedging",40
+CORP0304_L1,CORP0304,RM_E,Revolving Credit,19740000.0,17285200.0,92.37,7.37,2022-02-02,2025-01-17,-12,Healthcare,Provence-Alpes-Côte d'Azur,AA,0,Performing,2024-03-03,Expiring Soon,"Trade_Finance,Cash_Management",60
+CORP0495_L1,CORP0495,RM_E,Term Loan,17290000.0,10419500.0,0.0,7.34,2025-06-16,2029-05-26,41,Healthcare,Nouvelle-Aquitaine,BB,0,Performing,2023-06-21,Expired,"Term_Loan,Cash_Management,Trade_Finance,FX_Hedging",20
+CORP0342_L3,CORP0342,RM_C,Revolving Credit,47030000.0,43367300.0,37.47,2.93,2022-09-09,2024-08-29,-16,Manufacturing,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-08-08,Expired,"Trade_Finance,Term_Loan",60
+CORP0377_L1,CORP0377,RM_A,Revolving Credit,32860000.0,22434600.0,68.66,2.59,2022-03-25,2023-03-20,-34,Manufacturing,Auvergne-Rhône-Alpes,AAA,0,Performing,2024-09-20,Valid,"Revolving_Credit,Trade_Finance",60
+CORP0324_L1,CORP0324,RM_C,Revolving Credit,41130000.0,18853000.0,24.8,7.4,2022-04-09,2024-03-29,-22,Retail,Occitanie,AA,0,Performing,2024-03-15,Expiring Soon,"FX_Hedging,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0059_L2,CORP0059,RM_D,Term Loan,3620000.0,1888100.0,0.0,4.45,2023-10-22,2030-09-15,57,Transportation,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-07-31,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0500_L3,CORP0500,RM_D,Term Loan,16420000.0,16072100.0,0.0,4.51,2024-07-02,2025-06-27,-6,Healthcare,Nouvelle-Aquitaine,BBB,0,Performing,2023-09-13,Expired,"Cash_Management,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0062_L2,CORP0062,RM_D,Term Loan,38000000.0,19031600.0,0.0,3.96,2023-08-16,2028-07-20,31,Real Estate,Hauts-de-France,BBB,0,Performing,2024-10-22,Valid,"Trade_Finance,Term_Loan,Cash_Management,Revolving_Credit",20
+CORP0298_L1,CORP0298,RM_D,Term Loan,5450000.0,4950900.0,0.0,2.59,2022-04-06,2026-03-16,2,Manufacturing,Occitanie,BBB,0,Performing,2023-02-04,Expired,"Term_Loan,FX_Hedging,Trade_Finance,Revolving_Credit",20
+CORP0250_L1,CORP0250,RM_C,Term Loan,860000.0,821900.0,0.0,5.0,2022-01-16,2026-12-21,12,Real Estate,Occitanie,CCC,18,Watch List,2024-04-10,Valid,Cash_Management,80
+CORP0414_L2,CORP0414,RM_B,Term Loan,10700000.0,8387700.0,0.0,8.13,2022-10-06,2026-09-15,8,Technology,Auvergne-Rhône-Alpes,BB,0,Performing,2025-04-05,Valid,Trade_Finance,80
+CORP0313_L3,CORP0313,RM_D,Term Loan,30020000.0,24926200.0,0.0,7.2,2022-04-07,2023-04-02,-34,Real Estate,Île-de-France,AA,0,Performing,2023-08-21,Expired,Term_Loan,80
+CORP0179_L2,CORP0179,RM_D,Term Loan,28110000.0,14480600.0,0.0,7.68,2022-09-22,2023-09-17,-28,Energy,Île-de-France,BBB,0,Performing,2024-08-20,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Revolving_Credit",20
+CORP0277_L3,CORP0277,RM_B,Term Loan,23480000.0,18217600.0,0.0,3.18,2024-07-12,2027-06-27,18,Healthcare,Nouvelle-Aquitaine,BBB,0,Performing,2023-08-25,Expired,FX_Hedging,80
+CORP0077_L3,CORP0077,RM_C,Revolving Credit,25130000.0,12460900.0,41.38,5.11,2025-06-15,2026-06-10,5,Real Estate,Occitanie,A,0,Performing,2024-10-11,Valid,"Cash_Management,FX_Hedging,Revolving_Credit",40
+CORP0172_L3,CORP0172,RM_D,Revolving Credit,2640000.0,2228800.0,22.18,5.59,2022-09-07,2024-08-27,-17,Transportation,Occitanie,BB,0,Performing,2025-09-03,Valid,"Term_Loan,Cash_Management,FX_Hedging",40
+CORP0037_L1,CORP0037,RM_A,Revolving Credit,29840000.0,17772200.0,44.43,7.17,2024-07-31,2031-06-25,67,Technology,Provence-Alpes-Côte d'Azur,B,0,Performing,2025-03-19,Valid,"Term_Loan,FX_Hedging,Cash_Management",40
+CORP0167_L1,CORP0167,RM_C,Term Loan,12240000.0,7926100.0,0.0,2.94,2024-07-29,2028-07-08,31,Real Estate,Provence-Alpes-Côte d'Azur,BB,3,Grace Period,2025-08-26,Valid,"FX_Hedging,Term_Loan,Revolving_Credit",40
+CORP0300_L2,CORP0300,RM_E,Term Loan,44580000.0,21708900.0,0.0,4.74,2022-04-12,2026-03-22,3,Real Estate,Île-de-France,B,0,Performing,2024-08-09,Valid,"Trade_Finance,Revolving_Credit",60
+CORP0235_L3,CORP0235,RM_C,Term Loan,31790000.0,31323800.0,0.0,6.65,2024-07-24,2027-07-09,18,Real Estate,Hauts-de-France,CCC,0,Performing,2023-04-15,Expired,"Cash_Management,Revolving_Credit,Trade_Finance,FX_Hedging",20
+CORP0031_L2,CORP0031,RM_B,Term Loan,6000000.0,4075900.0,0.0,3.82,2023-05-09,2025-04-28,-8,Real Estate,Hauts-de-France,AA,0,Performing,2023-02-13,Expired,Revolving_Credit,80
+CORP0152_L3,CORP0152,RM_C,Term Loan,39580000.0,30983200.0,0.0,5.82,2022-04-08,2024-03-28,-22,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2024-02-24,Expiring Soon,Term_Loan,80
+CORP0118_L1,CORP0118,RM_E,Revolving Credit,42920000.0,29766200.0,54.71,2.59,2024-06-25,2029-05-30,41,Retail,Occitanie,BB,0,Performing,2023-03-06,Expired,"Revolving_Credit,Trade_Finance",60
+CORP0220_L3,CORP0220,RM_C,Term Loan,12770000.0,8435200.0,0.0,7.98,2024-06-13,2029-05-18,41,Transportation,Nouvelle-Aquitaine,CCC,1,Grace Period,2025-03-27,Valid,"FX_Hedging,Term_Loan,Revolving_Credit",40
+CORP0460_L1,CORP0460,RM_A,Revolving Credit,49020000.0,20786200.0,22.52,5.69,2023-01-22,2029-12-16,48,Technology,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-01-18,Expiring Soon,"Term_Loan,Trade_Finance",60
+CORP0246_L3,CORP0246,RM_C,Term Loan,22900000.0,12464600.0,0.0,4.94,2022-07-26,2023-07-21,-30,Retail,Île-de-France,A,0,Performing,2023-01-11,Expired,"Revolving_Credit,Trade_Finance,FX_Hedging,Term_Loan",20
+CORP0112_L1,CORP0112,RM_B,Revolving Credit,15140000.0,11939200.0,42.86,6.72,2025-03-10,2026-03-05,2,Transportation,Île-de-France,BBB,0,Performing,2025-02-06,Valid,Trade_Finance,80
+CORP0440_L3,CORP0440,RM_A,Term Loan,48830000.0,33119300.0,0.0,7.24,2024-12-02,2031-10-27,71,Transportation,Occitanie,B,0,Performing,2025-07-27,Valid,"Revolving_Credit,Term_Loan,Cash_Management,FX_Hedging",20
+CORP0190_L3,CORP0190,RM_C,Revolving Credit,35340000.0,14164900.0,71.81,5.69,2022-03-07,2023-03-02,-35,Real Estate,Hauts-de-France,A,0,Performing,2023-08-19,Expired,"Term_Loan,Cash_Management",60
+CORP0152_L2,CORP0152,RM_C,Revolving Credit,35050000.0,26900900.0,26.07,7.79,2022-06-21,2024-06-10,-19,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2024-02-24,Expiring Soon,Term_Loan,80
+CORP0377_L1,CORP0377,RM_A,Revolving Credit,44450000.0,20739500.0,47.42,3.55,2023-08-25,2027-08-04,19,Manufacturing,Auvergne-Rhône-Alpes,AAA,0,Performing,2024-09-20,Valid,"Revolving_Credit,Trade_Finance",60
+CORP0287_L3,CORP0287,RM_E,Term Loan,28260000.0,24420700.0,0.0,3.18,2024-12-02,2027-11-17,23,Real Estate,Occitanie,BBB,0,Performing,2025-11-30,Valid,"Term_Loan,Trade_Finance",60
+CORP0245_L3,CORP0245,RM_D,Term Loan,37780000.0,32359800.0,0.0,5.52,2023-11-25,2026-11-09,10,Transportation,Île-de-France,BB,59,Medium Risk,2024-12-03,Valid,"Term_Loan,FX_Hedging,Revolving_Credit",40
+CORP0217_L2,CORP0217,RM_E,Term Loan,3640000.0,2210000.0,0.0,3.24,2022-12-21,2027-11-25,23,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2024-10-14,Valid,"FX_Hedging,Term_Loan,Revolving_Credit,Cash_Management",20
+CORP0364_L3,CORP0364,RM_C,Revolving Credit,22870000.0,14199700.0,90.57,2.89,2021-12-03,2028-10-27,34,Manufacturing,Occitanie,BB,0,Performing,2024-03-23,Valid,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0457_L2,CORP0457,RM_C,Term Loan,4470000.0,4196300.0,0.0,4.16,2024-01-30,2025-01-24,-12,Energy,Île-de-France,BBB,0,Performing,2023-05-29,Expired,"Cash_Management,Trade_Finance,Term_Loan",40
+CORP0357_L1,CORP0357,RM_A,Revolving Credit,7950000.0,4154300.0,92.72,5.75,2022-03-07,2023-03-02,-35,Energy,Nouvelle-Aquitaine,BB,0,Performing,2025-10-20,Valid,"Trade_Finance,Cash_Management,FX_Hedging",40
+CORP0068_L2,CORP0068,RM_C,Revolving Credit,21300000.0,17947900.0,21.65,7.31,2025-07-30,2028-07-14,31,Energy,Île-de-France,A,0,Performing,2025-08-01,Valid,Term_Loan,80
+CORP0428_L3,CORP0428,RM_A,Revolving Credit,20880000.0,12646500.0,69.94,5.68,2022-01-27,2025-01-11,-12,Energy,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-10-20,Expired,Revolving_Credit,80
+CORP0281_L2,CORP0281,RM_A,Revolving Credit,15550000.0,7451100.0,37.01,4.73,2023-12-24,2025-12-13,-1,Real Estate,Île-de-France,BB,0,Performing,2023-08-28,Expired,"Revolving_Credit,Term_Loan",60
+CORP0148_L1,CORP0148,RM_A,Term Loan,17980000.0,12110500.0,0.0,6.77,2024-10-06,2029-09-10,45,Energy,Auvergne-Rhône-Alpes,BBB,67,Medium Risk,2023-11-28,Expired,Cash_Management,80
+CORP0147_L1,CORP0147,RM_A,Term Loan,42050000.0,34300800.0,0.0,3.2,2021-12-17,2023-12-07,-25,Transportation,Occitanie,CCC,0,Performing,2024-03-20,Valid,"Term_Loan,Revolving_Credit,FX_Hedging",40
+CORP0163_L3,CORP0163,RM_C,Term Loan,22320000.0,13878600.0,0.0,6.49,2024-07-18,2029-06-22,42,Transportation,Provence-Alpes-Côte d'Azur,A,0,Performing,2025-01-09,Valid,FX_Hedging,80
+CORP0177_L1,CORP0177,RM_A,Revolving Credit,22700000.0,22365800.0,21.87,8.09,2022-09-15,2025-08-30,-4,Technology,Nouvelle-Aquitaine,BBB,0,Performing,2023-01-06,Expired,Cash_Management,80
+CORP0394_L1,CORP0394,RM_D,Revolving Credit,46430000.0,22919300.0,72.91,5.34,2022-08-20,2027-07-25,19,Energy,Occitanie,BBB,0,Performing,2024-12-28,Valid,"Revolving_Credit,FX_Hedging,Trade_Finance",40
+CORP0149_L3,CORP0149,RM_E,Term Loan,40080000.0,33552000.0,0.0,6.89,2023-03-21,2026-03-05,2,Retail,Occitanie,CCC,0,Performing,2025-10-27,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0461_L1,CORP0461,RM_C,Term Loan,34060000.0,16012500.0,0.0,3.82,2025-07-23,2029-07-02,42,Real Estate,Occitanie,BB,0,Performing,2023-04-15,Expired,"Revolving_Credit,Term_Loan,Trade_Finance,Cash_Management",20
+CORP0183_L1,CORP0183,RM_C,Revolving Credit,3220000.0,2527000.0,90.17,4.17,2022-06-05,2027-05-10,16,Manufacturing,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-02-02,Expired,"Trade_Finance,Term_Loan",60
+CORP0012_L1,CORP0012,RM_E,Revolving Credit,34010000.0,33145300.0,43.83,6.13,2022-10-29,2026-10-08,9,Energy,Occitanie,BBB,0,Performing,2024-09-26,Valid,"FX_Hedging,Trade_Finance",60
+CORP0484_L1,CORP0484,RM_E,Revolving Credit,20180000.0,16740900.0,20.91,4.57,2023-04-20,2026-04-04,3,Transportation,Provence-Alpes-Côte d'Azur,B,0,Performing,2023-10-15,Expired,"FX_Hedging,Cash_Management",60
+CORP0158_L2,CORP0158,RM_E,Term Loan,11180000.0,10427400.0,0.0,7.33,2023-05-14,2027-04-23,16,Real Estate,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-12-25,Expiring Soon,Trade_Finance,80
+CORP0497_L2,CORP0497,RM_B,Revolving Credit,7410000.0,5574600.0,55.6,7.71,2025-03-19,2027-03-09,14,Technology,Provence-Alpes-Côte d'Azur,B,0,Performing,2023-08-04,Expired,Revolving_Credit,80
+CORP0172_L1,CORP0172,RM_D,Revolving Credit,4880000.0,3150900.0,54.66,5.91,2024-03-01,2028-02-09,26,Transportation,Occitanie,BB,0,Performing,2025-09-03,Valid,"Term_Loan,Cash_Management,FX_Hedging",40
+CORP0469_L1,CORP0469,RM_A,Term Loan,9710000.0,6108200.0,0.0,7.46,2022-08-04,2026-07-14,6,Manufacturing,Occitanie,BBB,0,Performing,2025-12-19,Valid,FX_Hedging,80
+CORP0428_L3,CORP0428,RM_A,Revolving Credit,24960000.0,21064100.0,31.55,4.3,2024-06-09,2025-06-04,-7,Energy,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-10-20,Expired,Revolving_Credit,80
+CORP0328_L3,CORP0328,RM_C,Revolving Credit,6650000.0,5317000.0,88.01,6.37,2024-01-31,2028-01-10,25,Manufacturing,Hauts-de-France,BBB,0,Performing,2025-09-25,Valid,"FX_Hedging,Revolving_Credit,Trade_Finance,Term_Loan",20
+CORP0015_L1,CORP0015,RM_C,Revolving Credit,24910000.0,24471000.0,56.04,5.12,2022-05-04,2029-03-28,39,Healthcare,Provence-Alpes-Côte d'Azur,AA,0,Performing,2023-07-13,Expired,"Trade_Finance,Term_Loan",60
+CORP0133_L3,CORP0133,RM_D,Revolving Credit,48730000.0,43416900.0,21.32,4.06,2023-08-09,2028-07-13,31,Energy,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-08-23,Valid,"Term_Loan,Cash_Management,Trade_Finance",40
+CORP0298_L1,CORP0298,RM_D,Term Loan,16320000.0,15128500.0,0.0,4.14,2024-12-08,2027-11-23,23,Manufacturing,Occitanie,BBB,0,Performing,2023-02-04,Expired,"Term_Loan,FX_Hedging,Trade_Finance,Revolving_Credit",20
+CORP0215_L3,CORP0215,RM_C,Revolving Credit,2910000.0,1673200.0,77.48,3.6,2022-02-11,2023-02-06,-35,Retail,Hauts-de-France,AA,0,Performing,2024-04-08,Valid,FX_Hedging,80
+CORP0049_L3,CORP0049,RM_D,Term Loan,27410000.0,25312200.0,0.0,6.63,2024-01-04,2026-12-19,12,Financial Services,Île-de-France,B,0,Performing,2024-11-25,Valid,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0050_L3,CORP0050,RM_B,Revolving Credit,41250000.0,16819200.0,56.37,4.54,2022-10-16,2025-09-30,-3,Real Estate,Hauts-de-France,BBB,0,Performing,2025-07-29,Valid,"FX_Hedging,Cash_Management,Trade_Finance",40
+CORP0467_L1,CORP0467,RM_C,Term Loan,11280000.0,7918900.0,0.0,7.49,2024-08-22,2029-07-27,43,Real Estate,Nouvelle-Aquitaine,AA,0,Performing,2024-09-19,Valid,"Trade_Finance,Revolving_Credit,Term_Loan,FX_Hedging",20
+CORP0270_L3,CORP0270,RM_D,Term Loan,21160000.0,20093900.0,0.0,5.38,2025-01-16,2027-01-06,12,Technology,Hauts-de-France,A,33,Watch List,2024-09-14,Valid,"Revolving_Credit,Trade_Finance,Term_Loan",40
+CORP0160_L3,CORP0160,RM_D,Revolving Credit,7380000.0,4908900.0,45.65,6.76,2022-05-07,2027-04-11,15,Real Estate,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-09-12,Expired,Cash_Management,80
+CORP0015_L3,CORP0015,RM_C,Term Loan,11510000.0,10521200.0,0.0,3.25,2024-11-24,2031-10-19,70,Healthcare,Provence-Alpes-Côte d'Azur,AA,0,Performing,2023-07-13,Expired,"Trade_Finance,Term_Loan",60
+CORP0067_L1,CORP0067,RM_C,Revolving Credit,34700000.0,30203500.0,76.8,2.76,2025-04-05,2026-03-31,3,Real Estate,Occitanie,BB,0,Performing,2023-08-09,Expired,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0056_L1,CORP0056,RM_B,Term Loan,23720000.0,22418200.0,0.0,2.56,2025-06-15,2026-06-10,5,Transportation,Hauts-de-France,BB,0,Performing,2023-10-25,Expired,"Trade_Finance,Revolving_Credit,Term_Loan,Cash_Management",20
+CORP0050_L1,CORP0050,RM_B,Term Loan,29590000.0,15387200.0,0.0,3.37,2021-12-08,2024-11-22,-14,Real Estate,Hauts-de-France,BBB,0,Performing,2025-07-29,Valid,"FX_Hedging,Cash_Management,Trade_Finance",40
+CORP0383_L2,CORP0383,RM_D,Revolving Credit,17930000.0,16371600.0,25.13,7.42,2022-04-05,2024-03-25,-22,Technology,Auvergne-Rhône-Alpes,A,0,Performing,2023-01-08,Expired,"FX_Hedging,Term_Loan",60
+CORP0391_L1,CORP0391,RM_B,Term Loan,35930000.0,35159600.0,0.0,6.85,2024-09-25,2029-08-30,44,Transportation,Auvergne-Rhône-Alpes,A,0,Performing,2024-12-21,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0474_L1,CORP0474,RM_C,Revolving Credit,18640000.0,14047600.0,33.56,4.63,2023-03-26,2030-02-17,50,Technology,Auvergne-Rhône-Alpes,AA,7,Grace Period,2023-08-24,Expired,FX_Hedging,80
+CORP0195_L2,CORP0195,RM_A,Term Loan,25960000.0,16732400.0,0.0,5.62,2023-12-08,2024-12-02,-13,Manufacturing,Auvergne-Rhône-Alpes,BB,0,Performing,2025-09-25,Valid,"Cash_Management,Trade_Finance,FX_Hedging",40
+CORP0254_L2,CORP0254,RM_C,Revolving Credit,28080000.0,11916200.0,41.27,6.1,2023-11-10,2027-10-20,22,Real Estate,Hauts-de-France,AA,0,Performing,2025-05-04,Valid,FX_Hedging,80
+CORP0160_L3,CORP0160,RM_D,Revolving Credit,11680000.0,7526200.0,87.11,7.31,2023-04-19,2025-04-08,-9,Real Estate,Provence-Alpes-Côte d'Azur,A,2,Grace Period,2023-09-12,Expired,Cash_Management,80
+CORP0481_L3,CORP0481,RM_A,Revolving Credit,9380000.0,9372800.0,52.85,6.45,2022-12-10,2029-11-03,47,Transportation,Occitanie,BBB,0,Performing,2025-10-29,Valid,"Revolving_Credit,Term_Loan,Cash_Management,Trade_Finance",20
+CORP0044_L1,CORP0044,RM_C,Term Loan,20040000.0,16373100.0,0.0,8.37,2025-02-15,2032-01-10,73,Manufacturing,Provence-Alpes-Côte d'Azur,BB,23,Watch List,2023-08-29,Expired,"Cash_Management,Revolving_Credit",60
+CORP0034_L2,CORP0034,RM_C,Term Loan,17260000.0,13065400.0,0.0,5.05,2023-06-07,2024-06-01,-19,Technology,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-07-24,Valid,Trade_Finance,80
+CORP0256_L2,CORP0256,RM_E,Revolving Credit,37940000.0,33409600.0,65.24,4.93,2023-06-15,2026-05-30,5,Energy,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-02-08,Expired,"Term_Loan,Trade_Finance,FX_Hedging,Revolving_Credit",20
+CORP0249_L3,CORP0249,RM_B,Revolving Credit,7800000.0,5247700.0,37.31,8.15,2025-01-04,2027-12-20,24,Energy,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-07-29,Valid,Cash_Management,80
+CORP0016_L1,CORP0016,RM_C,Term Loan,41600000.0,29073400.0,0.0,6.58,2025-07-19,2027-07-09,18,Financial Services,Provence-Alpes-Côte d'Azur,CCC,0,Performing,2024-12-19,Valid,Cash_Management,80
+CORP0079_L2,CORP0079,RM_E,Term Loan,38130000.0,30376200.0,0.0,3.71,2022-10-13,2026-09-22,9,Energy,Occitanie,BB,0,Performing,2023-04-19,Expired,"Trade_Finance,Term_Loan,FX_Hedging,Revolving_Credit",20
+CORP0339_L2,CORP0339,RM_C,Revolving Credit,25490000.0,18492000.0,77.3,8.44,2022-08-31,2027-08-05,19,Financial Services,Auvergne-Rhône-Alpes,A,0,Performing,2024-06-06,Valid,Cash_Management,80
+CORP0451_L1,CORP0451,RM_A,Revolving Credit,22780000.0,20769100.0,33.27,6.46,2023-03-20,2027-02-27,14,Financial Services,Provence-Alpes-Côte d'Azur,BB,0,Performing,2025-11-09,Valid,Term_Loan,80
+CORP0400_L2,CORP0400,RM_E,Term Loan,24830000.0,11935600.0,0.0,5.91,2023-07-08,2027-06-17,18,Manufacturing,Occitanie,BB,0,Performing,2024-09-14,Valid,"Trade_Finance,Term_Loan",60
+CORP0252_L3,CORP0252,RM_C,Revolving Credit,24060000.0,21957400.0,57.1,8.33,2022-11-09,2023-11-04,-26,Energy,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-09-23,Valid,"Revolving_Credit,Trade_Finance",60
+CORP0316_L3,CORP0316,RM_A,Revolving Credit,38440000.0,21936300.0,29.61,4.7,2025-05-09,2026-05-04,4,Manufacturing,Nouvelle-Aquitaine,BB,0,Performing,2025-01-17,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0415_L3,CORP0415,RM_D,Term Loan,38380000.0,29748000.0,0.0,8.45,2023-07-25,2024-07-19,-18,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2025-02-20,Valid,"Cash_Management,Term_Loan,Trade_Finance",40
+CORP0211_L2,CORP0211,RM_D,Term Loan,33230000.0,18228900.0,0.0,7.96,2022-01-23,2025-01-07,-12,Manufacturing,Occitanie,BBB,0,Performing,2023-09-03,Expired,Revolving_Credit,80
+CORP0034_L2,CORP0034,RM_C,Term Loan,17210000.0,7087500.0,0.0,7.68,2023-11-14,2024-11-08,-14,Technology,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-07-24,Valid,Trade_Finance,80
+CORP0291_L3,CORP0291,RM_D,Revolving Credit,13700000.0,11200800.0,48.33,4.84,2022-05-26,2023-05-21,-32,Retail,Provence-Alpes-Côte d'Azur,B,11,Grace Period,2024-04-16,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0294_L1,CORP0294,RM_E,Revolving Credit,5450000.0,4387600.0,77.37,4.54,2023-10-24,2027-10-03,21,Retail,Hauts-de-France,BBB,0,Performing,2024-02-20,Expiring Soon,Cash_Management,80
+CORP0315_L2,CORP0315,RM_D,Revolving Credit,48490000.0,25266000.0,60.19,4.22,2022-02-18,2023-02-13,-35,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2024-04-14,Valid,Term_Loan,80
+CORP0025_L2,CORP0025,RM_D,Revolving Credit,40330000.0,31245400.0,27.11,4.52,2025-03-07,2032-01-30,74,Technology,Île-de-France,BBB,0,Performing,2023-08-31,Expired,"Term_Loan,FX_Hedging,Trade_Finance,Revolving_Credit",20
+CORP0035_L3,CORP0035,RM_A,Revolving Credit,21640000.0,13165600.0,57.85,4.3,2025-04-07,2032-03-01,75,Retail,Hauts-de-France,AA,0,Performing,2024-10-09,Valid,"Revolving_Credit,Cash_Management,Term_Loan",40
+CORP0340_L3,CORP0340,RM_B,Revolving Credit,10400000.0,6670400.0,77.26,3.58,2022-03-12,2027-02-14,14,Technology,Nouvelle-Aquitaine,AA,0,Performing,2024-04-03,Valid,"Trade_Finance,Term_Loan",60
+CORP0010_L3,CORP0010,RM_C,Term Loan,29050000.0,15331800.0,0.0,5.7,2023-01-28,2026-01-12,0,Healthcare,Occitanie,AA,2,Grace Period,2024-03-15,Expiring Soon,"Trade_Finance,FX_Hedging",60
+CORP0315_L2,CORP0315,RM_D,Term Loan,26350000.0,16299200.0,0.0,6.61,2024-11-13,2026-11-03,10,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2024-04-14,Valid,Term_Loan,80
+CORP0154_L2,CORP0154,RM_E,Revolving Credit,16270000.0,14612600.0,50.93,7.44,2025-05-03,2032-03-27,76,Real Estate,Auvergne-Rhône-Alpes,AA,0,Performing,2023-07-23,Expired,Cash_Management,80
+CORP0331_L1,CORP0331,RM_C,Revolving Credit,34500000.0,18687900.0,22.08,7.28,2024-05-11,2025-05-06,-8,Healthcare,Hauts-de-France,BBB,0,Performing,2025-01-09,Valid,"Cash_Management,FX_Hedging,Trade_Finance",40
+CORP0159_L2,CORP0159,RM_D,Revolving Credit,28210000.0,18666000.0,40.45,2.67,2022-01-26,2023-01-21,-36,Transportation,Île-de-France,AAA,0,Performing,2025-07-13,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0405_L2,CORP0405,RM_E,Term Loan,32390000.0,13776700.0,0.0,7.88,2022-12-21,2023-12-16,-25,Manufacturing,Hauts-de-France,BB,0,Performing,2025-02-08,Valid,Cash_Management,80
+CORP0161_L3,CORP0161,RM_D,Revolving Credit,43430000.0,40839200.0,86.43,4.88,2023-06-01,2026-05-16,4,Technology,Hauts-de-France,BB,0,Performing,2023-12-09,Expired,Trade_Finance,80
+CORP0430_L3,CORP0430,RM_B,Term Loan,12180000.0,9044700.0,0.0,7.47,2022-11-22,2023-11-17,-26,Manufacturing,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-12-02,Valid,"Cash_Management,FX_Hedging",60
+CORP0487_L3,CORP0487,RM_C,Revolving Credit,25070000.0,11385500.0,43.51,7.49,2022-05-02,2023-04-27,-33,Healthcare,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-07-20,Valid,"Revolving_Credit,Term_Loan",60
+CORP0378_L2,CORP0378,RM_A,Term Loan,46810000.0,24847000.0,0.0,4.15,2025-02-05,2027-01-26,13,Real Estate,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-07-07,Valid,Term_Loan,80
+CORP0210_L2,CORP0210,RM_D,Term Loan,24770000.0,15476900.0,0.0,5.35,2025-01-23,2028-01-08,24,Healthcare,Auvergne-Rhône-Alpes,AAA,0,Performing,2023-11-25,Expired,"FX_Hedging,Revolving_Credit,Cash_Management,Term_Loan",20
+CORP0127_L2,CORP0127,RM_D,Term Loan,18470000.0,15319100.0,0.0,7.93,2023-12-20,2024-12-14,-13,Healthcare,Auvergne-Rhône-Alpes,CCC,0,Performing,2023-12-01,Expired,Trade_Finance,80
+CORP0018_L3,CORP0018,RM_A,Term Loan,34690000.0,30294100.0,0.0,4.36,2024-05-09,2027-04-24,16,Retail,Occitanie,AA,0,Performing,2023-12-07,Expired,"Revolving_Credit,Term_Loan,Trade_Finance",40
+CORP0491_L3,CORP0491,RM_E,Revolving Credit,45210000.0,36672000.0,49.14,7.96,2022-09-12,2024-09-01,-16,Real Estate,Auvergne-Rhône-Alpes,AA,13,Grace Period,2023-02-19,Expired,"Trade_Finance,FX_Hedging",60
+CORP0202_L2,CORP0202,RM_E,Revolving Credit,4970000.0,4441300.0,86.77,8.0,2024-05-17,2027-05-02,16,Retail,Nouvelle-Aquitaine,BB,0,Performing,2025-01-26,Valid,Revolving_Credit,80
+CORP0324_L2,CORP0324,RM_C,Revolving Credit,39570000.0,22334200.0,50.97,7.55,2025-03-31,2029-03-10,39,Retail,Occitanie,AA,0,Performing,2024-03-15,Expiring Soon,"FX_Hedging,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0368_L2,CORP0368,RM_D,Term Loan,41310000.0,33836600.0,0.0,6.11,2022-11-10,2023-11-05,-26,Real Estate,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-08-19,Valid,"Cash_Management,Term_Loan",60
+CORP0417_L3,CORP0417,RM_E,Revolving Credit,22940000.0,9552500.0,67.26,7.25,2025-05-28,2032-04-21,77,Manufacturing,Hauts-de-France,BBB,0,Performing,2025-05-28,Valid,FX_Hedging,80
+CORP0070_L1,CORP0070,RM_D,Revolving Credit,10400000.0,6066600.0,38.72,6.78,2022-06-20,2023-06-15,-31,Retail,Auvergne-Rhône-Alpes,BB,0,Performing,2023-11-25,Expired,"FX_Hedging,Term_Loan",60
+CORP0394_L3,CORP0394,RM_D,Term Loan,42420000.0,34421800.0,0.0,6.91,2023-11-27,2027-11-06,22,Energy,Occitanie,BBB,0,Performing,2024-12-28,Valid,"Revolving_Credit,FX_Hedging,Trade_Finance",40
+CORP0134_L1,CORP0134,RM_C,Revolving Credit,40080000.0,20809500.0,85.73,8.17,2023-05-17,2026-05-01,4,Transportation,Provence-Alpes-Côte d'Azur,AA,0,Performing,2024-06-02,Valid,"Term_Loan,Trade_Finance",60
+CORP0453_L3,CORP0453,RM_A,Term Loan,1530000.0,633100.0,0.0,3.87,2022-07-26,2029-06-19,42,Real Estate,Provence-Alpes-Côte d'Azur,BB,0,Performing,2024-06-15,Valid,"Trade_Finance,Term_Loan",60
+CORP0046_L2,CORP0046,RM_B,Term Loan,13460000.0,12263400.0,0.0,6.1,2025-06-02,2029-05-12,41,Real Estate,Auvergne-Rhône-Alpes,AAA,0,Performing,2024-11-19,Valid,"Cash_Management,FX_Hedging,Term_Loan,Revolving_Credit",20
+CORP0077_L1,CORP0077,RM_C,Revolving Credit,8920000.0,6603900.0,78.0,8.07,2025-08-14,2032-07-08,79,Real Estate,Occitanie,A,0,Performing,2024-10-11,Valid,"Cash_Management,FX_Hedging,Revolving_Credit",40
+CORP0424_L3,CORP0424,RM_C,Revolving Credit,6370000.0,5275200.0,57.06,3.28,2024-08-17,2027-08-02,19,Healthcare,Île-de-France,BB,0,Performing,2023-09-15,Expired,"FX_Hedging,Term_Loan",60
+CORP0439_L1,CORP0439,RM_D,Term Loan,49760000.0,28352300.0,0.0,4.95,2021-11-25,2023-11-15,-26,Technology,Nouvelle-Aquitaine,BB,0,Performing,2024-02-10,Expiring Soon,"Cash_Management,FX_Hedging,Revolving_Credit",40
+CORP0075_L1,CORP0075,RM_B,Revolving Credit,48820000.0,26425800.0,71.32,5.25,2023-03-03,2025-02-20,-11,Energy,Occitanie,BB,0,Performing,2024-06-14,Valid,"Trade_Finance,FX_Hedging,Cash_Management,Revolving_Credit",20
+CORP0006_L2,CORP0006,RM_E,Term Loan,43640000.0,42969700.0,0.0,4.8,2023-06-20,2030-05-14,53,Retail,Provence-Alpes-Côte d'Azur,B,0,Performing,2023-12-10,Expired,"Term_Loan,FX_Hedging",60
+CORP0217_L3,CORP0217,RM_E,Revolving Credit,4120000.0,3024900.0,55.32,4.63,2025-05-28,2028-05-12,29,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2024-10-14,Valid,"FX_Hedging,Term_Loan,Revolving_Credit,Cash_Management",20
+CORP0311_L3,CORP0311,RM_B,Term Loan,770000.0,541100.0,0.0,6.53,2023-07-24,2026-07-08,6,Energy,Nouvelle-Aquitaine,BBB,48,Medium Risk,2025-09-20,Valid,"Cash_Management,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0068_L3,CORP0068,RM_C,Term Loan,29230000.0,16257000.0,0.0,7.77,2022-11-15,2026-10-25,10,Energy,Île-de-France,A,5,Grace Period,2025-08-01,Valid,Term_Loan,80
+CORP0068_L1,CORP0068,RM_C,Revolving Credit,35660000.0,23527000.0,93.39,5.5,2024-03-27,2025-03-22,-10,Energy,Île-de-France,A,0,Performing,2025-08-01,Valid,Term_Loan,80
+CORP0499_L2,CORP0499,RM_A,Revolving Credit,46350000.0,26408200.0,89.5,5.6,2024-03-21,2029-02-23,38,Energy,Île-de-France,AA,0,Performing,2024-12-20,Valid,"FX_Hedging,Term_Loan,Cash_Management",40
+CORP0224_L1,CORP0224,RM_E,Revolving Credit,36980000.0,25692400.0,69.31,7.29,2024-11-06,2029-10-11,46,Financial Services,Auvergne-Rhône-Alpes,BBB,21,Watch List,2025-09-07,Valid,"Trade_Finance,FX_Hedging,Revolving_Credit",40
+CORP0028_L1,CORP0028,RM_B,Term Loan,3200000.0,1631600.0,0.0,5.3,2023-01-22,2026-01-06,0,Healthcare,Île-de-France,A,0,Performing,2023-03-31,Expired,"Revolving_Credit,Trade_Finance,Term_Loan,Cash_Management",20
+CORP0060_L2,CORP0060,RM_A,Term Loan,22360000.0,22210000.0,0.0,3.17,2022-07-21,2026-06-30,6,Technology,Occitanie,BB,0,Performing,2024-08-26,Valid,"Cash_Management,FX_Hedging,Trade_Finance",40
+CORP0369_L1,CORP0369,RM_E,Term Loan,17810000.0,9301100.0,0.0,7.0,2024-02-08,2026-01-28,1,Manufacturing,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-11-18,Expired,"Term_Loan,FX_Hedging,Cash_Management,Trade_Finance",20
+CORP0422_L2,CORP0422,RM_C,Term Loan,29390000.0,28889700.0,0.0,8.02,2022-09-30,2027-09-04,20,Healthcare,Nouvelle-Aquitaine,BB,0,Performing,2025-06-20,Valid,"Trade_Finance,Revolving_Credit",60
+CORP0127_L2,CORP0127,RM_D,Term Loan,44420000.0,18459900.0,0.0,4.74,2021-11-16,2028-10-10,34,Healthcare,Auvergne-Rhône-Alpes,CCC,0,Performing,2023-12-01,Expired,Trade_Finance,80
+CORP0476_L1,CORP0476,RM_E,Revolving Credit,8110000.0,3638500.0,91.64,6.07,2021-12-31,2025-12-10,-1,Real Estate,Île-de-France,B,0,Performing,2023-04-05,Expired,"FX_Hedging,Revolving_Credit",60
+CORP0003_L2,CORP0003,RM_E,Term Loan,32980000.0,32008300.0,0.0,7.94,2023-11-16,2030-10-10,58,Retail,Provence-Alpes-Côte d'Azur,BBB,7,Grace Period,2023-06-14,Expired,"Term_Loan,Revolving_Credit,Cash_Management",40
+CORP0409_L3,CORP0409,RM_D,Term Loan,10960000.0,4704100.0,0.0,2.83,2022-02-01,2025-01-16,-12,Real Estate,Nouvelle-Aquitaine,BBB,0,Performing,2023-06-21,Expired,Cash_Management,80
+CORP0037_L3,CORP0037,RM_A,Revolving Credit,5080000.0,2809700.0,83.93,3.48,2024-05-08,2028-04-17,28,Technology,Provence-Alpes-Côte d'Azur,B,0,Performing,2025-03-19,Valid,"Term_Loan,FX_Hedging,Cash_Management",40
+CORP0400_L2,CORP0400,RM_E,Revolving Credit,32530000.0,31640600.0,80.08,6.92,2024-10-31,2025-10-26,-2,Manufacturing,Occitanie,BB,0,Performing,2024-09-14,Valid,"Trade_Finance,Term_Loan",60
+CORP0472_L2,CORP0472,RM_A,Term Loan,18270000.0,8361600.0,0.0,5.17,2023-08-21,2028-07-25,31,Healthcare,Auvergne-Rhône-Alpes,A,0,Performing,2024-05-01,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0199_L2,CORP0199,RM_E,Revolving Credit,28370000.0,18549500.0,52.56,5.06,2023-04-30,2026-04-14,3,Retail,Auvergne-Rhône-Alpes,A,0,Performing,2025-05-23,Valid,Cash_Management,80
+CORP0021_L3,CORP0021,RM_C,Revolving Credit,48680000.0,39229500.0,89.8,5.66,2022-01-24,2028-12-18,36,Energy,Occitanie,BBB,0,Performing,2023-01-25,Expired,"Term_Loan,Revolving_Credit,FX_Hedging,Cash_Management",20
+CORP0332_L3,CORP0332,RM_A,Term Loan,14890000.0,9863300.0,0.0,3.27,2023-01-07,2025-12-22,0,Technology,Hauts-de-France,AA,0,Performing,2023-08-30,Expired,Cash_Management,80
+CORP0463_L2,CORP0463,RM_B,Term Loan,26390000.0,15234700.0,0.0,2.77,2025-06-06,2030-05-11,53,Transportation,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-03-26,Expired,Trade_Finance,80
+CORP0056_L3,CORP0056,RM_B,Revolving Credit,20940000.0,14213900.0,63.92,7.11,2022-07-05,2025-06-19,-7,Transportation,Hauts-de-France,BB,0,Performing,2023-10-25,Expired,"Trade_Finance,Revolving_Credit,Term_Loan,Cash_Management",20
+CORP0009_L1,CORP0009,RM_C,Revolving Credit,9390000.0,4782600.0,85.76,4.29,2023-06-30,2024-06-24,-19,Technology,Occitanie,CCC,0,Performing,2024-09-26,Valid,"Term_Loan,Revolving_Credit,FX_Hedging",40
+CORP0301_L3,CORP0301,RM_C,Revolving Credit,37990000.0,25452100.0,85.35,3.62,2024-03-18,2027-03-03,14,Manufacturing,Nouvelle-Aquitaine,BBB,14,Grace Period,2025-08-12,Valid,"Trade_Finance,Cash_Management",60
+CORP0095_L1,CORP0095,RM_D,Revolving Credit,43640000.0,20240200.0,28.75,3.53,2022-09-13,2023-09-08,-28,Energy,Provence-Alpes-Côte d'Azur,B,0,Performing,2023-03-01,Expired,"Trade_Finance,Term_Loan,Cash_Management,FX_Hedging",20
+CORP0245_L2,CORP0245,RM_D,Revolving Credit,43500000.0,42607500.0,66.39,8.34,2022-04-28,2029-03-22,39,Transportation,Île-de-France,BB,0,Performing,2024-12-03,Valid,"Term_Loan,FX_Hedging,Revolving_Credit",40
+CORP0185_L3,CORP0185,RM_C,Revolving Credit,40330000.0,18252600.0,81.2,6.68,2024-12-09,2025-12-04,-1,Technology,Île-de-France,A,0,Performing,2024-03-07,Expiring Soon,Cash_Management,80
+CORP0097_L1,CORP0097,RM_E,Term Loan,24320000.0,11846100.0,0.0,7.65,2024-05-04,2028-04-13,28,Financial Services,Hauts-de-France,CCC,0,Performing,2024-06-16,Valid,Revolving_Credit,80
+CORP0276_L1,CORP0276,RM_C,Term Loan,15400000.0,10442100.0,0.0,3.5,2023-01-15,2026-12-25,12,Real Estate,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-12-14,Expired,"Trade_Finance,Term_Loan,Cash_Management,Revolving_Credit",20
+CORP0079_L3,CORP0079,RM_E,Revolving Credit,48210000.0,32922300.0,42.11,7.48,2023-03-06,2028-02-08,25,Energy,Occitanie,BB,0,Performing,2023-04-19,Expired,"Trade_Finance,Term_Loan,FX_Hedging,Revolving_Credit",20
+CORP0201_L1,CORP0201,RM_C,Revolving Credit,890000.0,692600.0,75.28,6.08,2023-04-11,2027-03-21,15,Real Estate,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-07-13,Expired,"Term_Loan,FX_Hedging,Cash_Management",40
+CORP0284_L2,CORP0284,RM_A,Term Loan,24630000.0,17035600.0,0.0,6.57,2022-05-20,2029-04-13,40,Retail,Île-de-France,BBB,0,Performing,2024-06-05,Valid,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0419_L2,CORP0419,RM_B,Term Loan,35860000.0,25711100.0,0.0,2.88,2023-05-01,2028-04-04,27,Retail,Île-de-France,A,0,Performing,2025-02-28,Valid,"Term_Loan,Trade_Finance,Revolving_Credit,FX_Hedging",20
+CORP0458_L3,CORP0458,RM_A,Revolving Credit,44510000.0,20927000.0,72.31,2.62,2022-03-16,2029-02-07,38,Manufacturing,Auvergne-Rhône-Alpes,B,0,Performing,2023-12-13,Expired,"Trade_Finance,Term_Loan,FX_Hedging",40
+CORP0148_L3,CORP0148,RM_A,Term Loan,23730000.0,15729800.0,0.0,6.61,2022-11-07,2024-10-27,-14,Energy,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-11-28,Expired,Cash_Management,80
+CORP0472_L3,CORP0472,RM_A,Revolving Credit,6990000.0,4026500.0,70.48,6.91,2023-07-05,2027-06-14,18,Healthcare,Auvergne-Rhône-Alpes,A,0,Performing,2024-05-01,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0408_L2,CORP0408,RM_D,Term Loan,31280000.0,17813200.0,0.0,3.54,2025-03-19,2032-02-11,74,Healthcare,Occitanie,B,0,Performing,2024-06-25,Valid,FX_Hedging,80
+CORP0081_L3,CORP0081,RM_C,Revolving Credit,5490000.0,3566300.0,61.76,8.5,2022-12-05,2025-11-19,-2,Real Estate,Occitanie,A,0,Performing,2024-09-03,Valid,Revolving_Credit,80
+CORP0184_L2,CORP0184,RM_D,Revolving Credit,34010000.0,17169200.0,45.33,3.18,2022-11-15,2023-11-10,-26,Transportation,Auvergne-Rhône-Alpes,B,0,Performing,2025-10-26,Valid,"Term_Loan,Trade_Finance,Cash_Management,Revolving_Credit",20
+CORP0117_L1,CORP0117,RM_D,Term Loan,24580000.0,24486500.0,0.0,5.84,2023-09-15,2024-09-09,-16,Manufacturing,Hauts-de-France,BBB,0,Performing,2024-12-16,Valid,"Revolving_Credit,Term_Loan",60
+CORP0459_L1,CORP0459,RM_A,Term Loan,35470000.0,33908600.0,0.0,7.03,2023-03-30,2027-03-09,14,Transportation,Île-de-France,B,15,Watch List,2025-01-04,Valid,"Cash_Management,Trade_Finance,FX_Hedging",40
+CORP0500_L1,CORP0500,RM_D,Term Loan,41270000.0,17547200.0,0.0,7.73,2025-02-08,2027-01-29,13,Healthcare,Nouvelle-Aquitaine,BBB,0,Performing,2023-09-13,Expired,"Cash_Management,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0467_L2,CORP0467,RM_C,Term Loan,36550000.0,30150000.0,0.0,3.1,2022-11-10,2026-10-20,10,Real Estate,Nouvelle-Aquitaine,AA,0,Performing,2024-09-19,Valid,"Trade_Finance,Revolving_Credit,Term_Loan,FX_Hedging",20
+CORP0332_L2,CORP0332,RM_A,Revolving Credit,41050000.0,19449100.0,77.69,2.54,2024-07-25,2028-07-04,30,Technology,Hauts-de-France,AA,4,Grace Period,2023-08-30,Expired,Cash_Management,80
+CORP0428_L2,CORP0428,RM_A,Revolving Credit,14690000.0,7385500.0,51.13,6.28,2024-03-16,2027-03-01,14,Energy,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-10-20,Expired,Revolving_Credit,80
+CORP0126_L1,CORP0126,RM_C,Revolving Credit,39470000.0,19056000.0,87.35,8.21,2023-04-17,2027-03-27,15,Financial Services,Nouvelle-Aquitaine,BB,69,Medium Risk,2023-05-05,Expired,Revolving_Credit,80
+CORP0265_L3,CORP0265,RM_A,Revolving Credit,47220000.0,31427100.0,90.77,3.01,2025-08-22,2032-07-16,79,Retail,Provence-Alpes-Côte d'Azur,A,0,Performing,2025-09-20,Valid,"Trade_Finance,Revolving_Credit,Cash_Management,Term_Loan",20
+CORP0162_L2,CORP0162,RM_D,Term Loan,21990000.0,13984800.0,0.0,3.41,2025-06-28,2032-05-22,78,Healthcare,Auvergne-Rhône-Alpes,BBB,29,Watch List,2023-01-11,Expired,Trade_Finance,80
+CORP0295_L1,CORP0295,RM_D,Revolving Credit,21260000.0,19803000.0,43.53,4.56,2022-08-05,2025-07-20,-6,Healthcare,Occitanie,A,0,Performing,2023-11-12,Expired,"Revolving_Credit,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0424_L2,CORP0424,RM_C,Term Loan,35160000.0,23476800.0,0.0,6.21,2024-07-18,2029-06-22,42,Healthcare,Île-de-France,BB,0,Performing,2023-09-15,Expired,"FX_Hedging,Term_Loan",60
+CORP0227_L3,CORP0227,RM_C,Revolving Credit,44440000.0,38615600.0,26.32,5.72,2023-06-06,2025-05-26,-7,Real Estate,Hauts-de-France,BB,56,Medium Risk,2025-04-20,Valid,"Term_Loan,Trade_Finance",60
+CORP0200_L3,CORP0200,RM_D,Term Loan,26260000.0,19024700.0,0.0,4.37,2024-07-01,2025-06-26,-6,Energy,Nouvelle-Aquitaine,BBB,0,Performing,2023-07-31,Expired,"Trade_Finance,Cash_Management",60
+CORP0175_L3,CORP0175,RM_E,Term Loan,1660000.0,1550800.0,0.0,7.49,2022-09-02,2027-08-07,19,Healthcare,Auvergne-Rhône-Alpes,AA,0,Performing,2023-08-05,Expired,"Term_Loan,Cash_Management,Revolving_Credit",40
+CORP0156_L3,CORP0156,RM_A,Revolving Credit,49350000.0,23010200.0,58.06,3.24,2025-05-12,2028-04-26,28,Real Estate,Hauts-de-France,AAA,0,Performing,2024-04-11,Valid,"Revolving_Credit,Cash_Management",60
+CORP0388_L3,CORP0388,RM_C,Term Loan,22710000.0,16884000.0,0.0,3.92,2025-09-01,2029-08-11,44,Retail,Provence-Alpes-Côte d'Azur,B,0,Performing,2025-10-23,Valid,"FX_Hedging,Revolving_Credit,Cash_Management",40
+CORP0382_L3,CORP0382,RM_D,Term Loan,17840000.0,10181700.0,0.0,4.77,2022-06-26,2029-05-20,41,Retail,Occitanie,B,0,Performing,2023-04-13,Expired,Term_Loan,80
+CORP0378_L1,CORP0378,RM_A,Term Loan,16730000.0,12537800.0,0.0,6.77,2023-09-03,2027-08-13,20,Real Estate,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-07-07,Valid,Term_Loan,80
+CORP0425_L2,CORP0425,RM_A,Term Loan,5070000.0,3320500.0,0.0,2.97,2024-12-19,2028-11-28,35,Technology,Auvergne-Rhône-Alpes,A,0,Performing,2023-05-30,Expired,Cash_Management,80
+CORP0347_L3,CORP0347,RM_E,Revolving Credit,29620000.0,21070700.0,67.73,8.48,2023-06-26,2026-06-10,5,Retail,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-05-15,Valid,Cash_Management,80
+CORP0353_L2,CORP0353,RM_A,Revolving Credit,41280000.0,20087200.0,29.7,6.73,2024-12-25,2028-12-04,35,Technology,Nouvelle-Aquitaine,BBB,0,Performing,2024-10-29,Valid,"FX_Hedging,Cash_Management",60
+CORP0442_L3,CORP0442,RM_D,Term Loan,34880000.0,23483300.0,0.0,5.85,2025-07-07,2032-05-31,78,Real Estate,Hauts-de-France,AA,0,Performing,2024-12-15,Valid,Trade_Finance,80
+CORP0472_L1,CORP0472,RM_A,Revolving Credit,5960000.0,3705600.0,28.83,4.33,2024-01-27,2025-01-21,-12,Healthcare,Auvergne-Rhône-Alpes,A,0,Performing,2024-05-01,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0192_L2,CORP0192,RM_D,Revolving Credit,24550000.0,21474400.0,90.26,4.33,2024-11-24,2029-10-29,46,Transportation,Île-de-France,CCC,0,Performing,2024-07-18,Valid,Cash_Management,80
+CORP0146_L1,CORP0146,RM_C,Term Loan,41050000.0,28459000.0,0.0,7.72,2025-01-04,2029-12-09,48,Manufacturing,Provence-Alpes-Côte d'Azur,BB,0,Performing,2025-08-19,Valid,"Term_Loan,Trade_Finance,Revolving_Credit",40
+CORP0214_L2,CORP0214,RM_C,Revolving Credit,28510000.0,26804300.0,82.53,3.3,2023-08-01,2027-07-11,18,Transportation,Auvergne-Rhône-Alpes,B,0,Performing,2023-01-22,Expired,"Term_Loan,Cash_Management,FX_Hedging",40
+CORP0071_L3,CORP0071,RM_C,Revolving Credit,38200000.0,30572700.0,79.99,6.49,2024-11-10,2031-10-05,70,Healthcare,Auvergne-Rhône-Alpes,AA,0,Performing,2025-10-28,Valid,"FX_Hedging,Trade_Finance,Revolving_Credit",40
+CORP0210_L2,CORP0210,RM_D,Term Loan,45060000.0,27189100.0,0.0,6.92,2025-06-10,2032-05-04,77,Healthcare,Auvergne-Rhône-Alpes,AAA,45,Medium Risk,2023-11-25,Expired,"FX_Hedging,Revolving_Credit,Cash_Management,Term_Loan",20
+CORP0331_L1,CORP0331,RM_C,Term Loan,35510000.0,26390900.0,0.0,6.36,2023-12-19,2028-11-22,35,Healthcare,Hauts-de-France,BBB,0,Performing,2025-01-09,Valid,"Cash_Management,FX_Hedging,Trade_Finance",40
+CORP0044_L1,CORP0044,RM_C,Term Loan,47890000.0,34148100.0,0.0,3.22,2023-01-11,2027-12-16,24,Manufacturing,Provence-Alpes-Côte d'Azur,BB,18,Watch List,2023-08-29,Expired,"Cash_Management,Revolving_Credit",60
+CORP0480_L3,CORP0480,RM_C,Term Loan,48140000.0,27198000.0,0.0,7.53,2024-07-17,2026-07-07,6,Real Estate,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-12-29,Expiring Soon,"FX_Hedging,Trade_Finance,Cash_Management,Revolving_Credit",20
+CORP0297_L2,CORP0297,RM_C,Term Loan,40440000.0,30900700.0,0.0,7.67,2023-06-12,2028-05-16,29,Manufacturing,Île-de-France,BBB,0,Performing,2024-06-15,Valid,Revolving_Credit,80
+CORP0012_L2,CORP0012,RM_E,Revolving Credit,9440000.0,3912300.0,26.83,8.38,2022-09-26,2025-09-10,-4,Energy,Occitanie,BBB,0,Performing,2024-09-26,Valid,"FX_Hedging,Trade_Finance",60
+CORP0278_L1,CORP0278,RM_B,Revolving Credit,7630000.0,4221900.0,50.55,3.52,2025-03-12,2027-03-02,14,Transportation,Provence-Alpes-Côte d'Azur,AAA,0,Performing,2023-08-17,Expired,"Revolving_Credit,FX_Hedging,Trade_Finance",40
+CORP0315_L2,CORP0315,RM_D,Term Loan,1840000.0,800600.0,0.0,4.98,2023-07-06,2024-06-30,-18,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2024-04-14,Valid,Term_Loan,80
+CORP0166_L2,CORP0166,RM_D,Revolving Credit,47110000.0,44269300.0,64.78,3.92,2025-05-28,2027-05-18,17,Healthcare,Hauts-de-France,BB,0,Performing,2024-02-27,Expiring Soon,"Revolving_Credit,Trade_Finance,Term_Loan",40
+CORP0261_L3,CORP0261,RM_D,Revolving Credit,47490000.0,26669100.0,24.91,2.67,2023-11-30,2027-11-09,22,Manufacturing,Hauts-de-France,BBB,0,Performing,2024-09-19,Valid,Term_Loan,80
+CORP0325_L1,CORP0325,RM_D,Term Loan,13820000.0,13517100.0,0.0,5.83,2021-11-29,2022-11-24,-38,Real Estate,Auvergne-Rhône-Alpes,CCC,0,Performing,2023-02-18,Expired,"Trade_Finance,FX_Hedging,Revolving_Credit,Cash_Management",20
+CORP0403_L1,CORP0403,RM_B,Revolving Credit,28630000.0,19113100.0,92.59,4.74,2022-02-17,2027-01-22,13,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-07-14,Expired,"Term_Loan,FX_Hedging",60
+CORP0087_L1,CORP0087,RM_E,Revolving Credit,48090000.0,35254400.0,92.08,6.22,2025-06-18,2026-06-13,5,Real Estate,Île-de-France,BBB,0,Performing,2025-09-01,Valid,"Revolving_Credit,Cash_Management",60
+CORP0335_L1,CORP0335,RM_D,Term Loan,3480000.0,3316700.0,0.0,6.58,2024-03-01,2029-02-03,38,Energy,Nouvelle-Aquitaine,CCC,0,Performing,2024-02-18,Expiring Soon,Term_Loan,80
+CORP0180_L3,CORP0180,RM_C,Term Loan,29470000.0,20811600.0,0.0,5.88,2025-06-10,2027-05-31,17,Technology,Auvergne-Rhône-Alpes,CCC,0,Performing,2023-05-04,Expired,"Cash_Management,Trade_Finance",60
+CORP0154_L1,CORP0154,RM_E,Revolving Credit,35070000.0,31503300.0,35.81,5.53,2022-07-30,2025-07-14,-6,Real Estate,Auvergne-Rhône-Alpes,AA,50,Medium Risk,2023-07-23,Expired,Cash_Management,80
+CORP0411_L2,CORP0411,RM_D,Revolving Credit,31940000.0,31549800.0,93.73,4.55,2023-02-27,2026-02-11,1,Energy,Hauts-de-France,CCC,0,Performing,2024-09-10,Valid,Trade_Finance,80
+CORP0236_L3,CORP0236,RM_C,Revolving Credit,1290000.0,1051500.0,20.32,2.56,2022-01-27,2023-01-22,-36,Real Estate,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-11-21,Valid,"Cash_Management,FX_Hedging",60
+CORP0089_L2,CORP0089,RM_C,Revolving Credit,38240000.0,27642900.0,22.32,7.49,2022-01-21,2028-12-15,36,Real Estate,Occitanie,B,0,Performing,2023-07-25,Expired,"FX_Hedging,Term_Loan,Cash_Management",40
+CORP0344_L2,CORP0344,RM_B,Term Loan,17970000.0,15951400.0,0.0,7.53,2022-04-29,2025-04-13,-9,Retail,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-12-02,Valid,"Trade_Finance,Cash_Management",60
+CORP0416_L3,CORP0416,RM_E,Term Loan,6680000.0,4156900.0,0.0,6.96,2024-08-12,2028-07-22,31,Real Estate,Occitanie,A,0,Performing,2024-06-02,Valid,"Term_Loan,Trade_Finance,FX_Hedging,Revolving_Credit",20
+CORP0389_L2,CORP0389,RM_E,Revolving Credit,9980000.0,8879900.0,36.59,8.38,2022-03-11,2025-02-23,-11,Transportation,Occitanie,A,0,Performing,2023-03-21,Expired,Term_Loan,80
+CORP0496_L2,CORP0496,RM_A,Term Loan,14400000.0,13574900.0,0.0,8.41,2022-04-19,2024-04-08,-21,Real Estate,Île-de-France,A,0,Performing,2022-12-23,Expired,Term_Loan,80
+CORP0327_L2,CORP0327,RM_D,Term Loan,43560000.0,32298100.0,0.0,6.46,2022-12-05,2024-11-24,-14,Real Estate,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-03-11,Expired,FX_Hedging,80
+CORP0290_L3,CORP0290,RM_A,Term Loan,3740000.0,1783800.0,0.0,5.92,2025-05-01,2027-04-21,16,Transportation,Hauts-de-France,A,0,Performing,2024-03-15,Expiring Soon,Revolving_Credit,80
+CORP0117_L3,CORP0117,RM_D,Revolving Credit,10000000.0,8067900.0,71.05,7.8,2021-11-23,2026-10-28,10,Manufacturing,Hauts-de-France,BBB,0,Performing,2024-12-16,Valid,"Revolving_Credit,Term_Loan",60
+CORP0002_L2,CORP0002,RM_A,Term Loan,42770000.0,25396800.0,0.0,5.61,2023-06-01,2026-05-16,4,Manufacturing,Occitanie,AAA,0,Performing,2024-09-28,Valid,"FX_Hedging,Term_Loan",60
+CORP0254_L2,CORP0254,RM_C,Term Loan,44250000.0,23661800.0,0.0,4.4,2024-02-20,2028-01-30,25,Real Estate,Hauts-de-France,AA,0,Performing,2025-05-04,Valid,FX_Hedging,80
+CORP0201_L1,CORP0201,RM_C,Revolving Credit,4550000.0,3381100.0,71.72,8.25,2025-07-22,2032-06-15,78,Real Estate,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-07-13,Expired,"Term_Loan,FX_Hedging,Cash_Management",40
+CORP0470_L1,CORP0470,RM_C,Term Loan,8640000.0,5067200.0,0.0,5.38,2022-03-09,2029-01-31,37,Financial Services,Provence-Alpes-Côte d'Azur,B,0,Performing,2024-10-22,Valid,"Cash_Management,FX_Hedging,Term_Loan,Trade_Finance",20
+CORP0414_L1,CORP0414,RM_B,Revolving Credit,42110000.0,23088600.0,82.44,7.43,2023-01-16,2025-01-05,-12,Technology,Auvergne-Rhône-Alpes,BB,1,Grace Period,2025-04-05,Valid,Trade_Finance,80
+CORP0267_L1,CORP0267,RM_C,Term Loan,38900000.0,30020700.0,0.0,3.25,2025-02-28,2032-01-23,74,Retail,Provence-Alpes-Côte d'Azur,A,0,Performing,2025-03-01,Valid,"Trade_Finance,Cash_Management",60
+CORP0499_L1,CORP0499,RM_A,Term Loan,19180000.0,17915100.0,0.0,7.31,2025-05-01,2027-04-21,16,Energy,Île-de-France,AA,0,Performing,2024-12-20,Valid,"FX_Hedging,Term_Loan,Cash_Management",40
+CORP0029_L2,CORP0029,RM_C,Revolving Credit,3760000.0,3032600.0,48.61,3.07,2022-07-24,2023-07-19,-30,Real Estate,Occitanie,B,0,Performing,2023-06-02,Expired,"Trade_Finance,FX_Hedging,Term_Loan",40
+CORP0386_L2,CORP0386,RM_B,Term Loan,43300000.0,37778600.0,0.0,5.29,2022-03-14,2023-03-09,-34,Real Estate,Hauts-de-France,CCC,0,Performing,2025-05-28,Valid,"Revolving_Credit,Cash_Management",60
+CORP0220_L3,CORP0220,RM_C,Term Loan,17310000.0,16661800.0,0.0,6.03,2025-07-20,2029-06-29,42,Transportation,Nouvelle-Aquitaine,CCC,0,Performing,2025-03-27,Valid,"FX_Hedging,Term_Loan,Revolving_Credit",40
+CORP0056_L1,CORP0056,RM_B,Term Loan,29960000.0,13198200.0,0.0,5.55,2024-08-11,2029-07-16,43,Transportation,Hauts-de-France,BB,0,Performing,2023-10-25,Expired,"Trade_Finance,Revolving_Credit,Term_Loan,Cash_Management",20
+CORP0182_L2,CORP0182,RM_D,Revolving Credit,36370000.0,24250600.0,24.54,4.37,2024-05-02,2026-04-22,4,Transportation,Île-de-France,B,0,Performing,2025-05-23,Valid,Cash_Management,80
+CORP0224_L3,CORP0224,RM_E,Revolving Credit,15900000.0,14805000.0,65.25,4.25,2024-11-17,2026-11-07,10,Financial Services,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-09-07,Valid,"Trade_Finance,FX_Hedging,Revolving_Credit",40
+CORP0497_L1,CORP0497,RM_B,Term Loan,3340000.0,2352200.0,0.0,3.67,2022-07-24,2023-07-19,-30,Technology,Provence-Alpes-Côte d'Azur,B,0,Performing,2023-08-04,Expired,Revolving_Credit,80
+CORP0103_L3,CORP0103,RM_D,Term Loan,39370000.0,23816100.0,0.0,8.39,2021-12-14,2025-11-23,-1,Real Estate,Provence-Alpes-Côte d'Azur,AA,0,Performing,2024-08-16,Valid,"Cash_Management,Term_Loan",60
+CORP0308_L3,CORP0308,RM_C,Revolving Credit,42670000.0,31561200.0,44.65,3.13,2023-10-25,2028-09-28,33,Energy,Auvergne-Rhône-Alpes,A,0,Performing,2025-02-07,Valid,"Trade_Finance,Term_Loan,Revolving_Credit,Cash_Management",20
+CORP0449_L1,CORP0449,RM_A,Revolving Credit,11360000.0,4569200.0,66.79,3.93,2024-06-12,2031-05-07,65,Technology,Occitanie,A,0,Performing,2025-03-26,Valid,"Term_Loan,Revolving_Credit",60
+CORP0377_L2,CORP0377,RM_A,Revolving Credit,10660000.0,5442400.0,46.84,5.83,2025-08-29,2028-08-13,32,Manufacturing,Auvergne-Rhône-Alpes,AAA,0,Performing,2024-09-20,Valid,"Revolving_Credit,Trade_Finance",60
+CORP0073_L2,CORP0073,RM_A,Revolving Credit,10120000.0,7604300.0,34.93,4.2,2023-09-05,2024-08-30,-16,Transportation,Hauts-de-France,BB,4,Grace Period,2025-09-26,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0113_L2,CORP0113,RM_C,Term Loan,17320000.0,12690400.0,0.0,7.56,2024-09-11,2026-09-01,8,Healthcare,Nouvelle-Aquitaine,BBB,0,Performing,2023-09-27,Expired,Cash_Management,80
+CORP0467_L1,CORP0467,RM_C,Term Loan,41660000.0,20094500.0,0.0,3.76,2022-01-09,2023-01-04,-37,Real Estate,Nouvelle-Aquitaine,AA,0,Performing,2024-09-19,Valid,"Trade_Finance,Revolving_Credit,Term_Loan,FX_Hedging",20
+CORP0234_L1,CORP0234,RM_E,Revolving Credit,40570000.0,32315800.0,85.88,2.89,2022-09-28,2027-09-02,20,Energy,Occitanie,BB,0,Performing,2023-04-29,Expired,Revolving_Credit,80
+CORP0074_L1,CORP0074,RM_C,Term Loan,9990000.0,6262900.0,0.0,8.36,2023-08-07,2026-07-22,7,Real Estate,Hauts-de-France,AAA,0,Performing,2023-08-12,Expired,"Term_Loan,Trade_Finance,Revolving_Credit,Cash_Management",20
+CORP0126_L1,CORP0126,RM_C,Term Loan,42790000.0,24668800.0,0.0,6.28,2024-11-11,2027-10-27,22,Financial Services,Nouvelle-Aquitaine,BB,0,Performing,2023-05-05,Expired,Revolving_Credit,80
+CORP0144_L1,CORP0144,RM_D,Revolving Credit,10860000.0,4874500.0,32.56,4.83,2023-01-22,2029-12-16,48,Healthcare,Occitanie,BB,0,Performing,2024-03-19,Expiring Soon,"Cash_Management,FX_Hedging,Revolving_Credit,Term_Loan",20
+CORP0452_L3,CORP0452,RM_A,Revolving Credit,25180000.0,17086200.0,72.09,6.79,2023-11-22,2030-10-16,58,Real Estate,Occitanie,BBB,0,Performing,2023-04-23,Expired,"Revolving_Credit,Term_Loan",60
+CORP0254_L2,CORP0254,RM_C,Revolving Credit,29270000.0,22914400.0,36.46,3.72,2022-06-04,2029-04-28,40,Real Estate,Hauts-de-France,AA,0,Performing,2025-05-04,Valid,FX_Hedging,80
+CORP0442_L1,CORP0442,RM_D,Revolving Credit,11320000.0,7414800.0,83.18,4.03,2023-08-01,2028-07-05,30,Real Estate,Hauts-de-France,AA,0,Performing,2024-12-15,Valid,Trade_Finance,80
+CORP0044_L1,CORP0044,RM_C,Term Loan,15100000.0,10740500.0,0.0,5.57,2024-05-28,2029-05-02,40,Manufacturing,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-08-29,Expired,"Cash_Management,Revolving_Credit",60
+CORP0173_L2,CORP0173,RM_C,Revolving Credit,23640000.0,15256600.0,21.85,5.15,2022-11-28,2025-11-12,-2,Retail,Occitanie,A,0,Performing,2025-02-15,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0136_L3,CORP0136,RM_B,Term Loan,18280000.0,8216000.0,0.0,2.97,2022-11-19,2027-10-24,22,Technology,Hauts-de-France,BBB,0,Performing,2024-08-29,Valid,"Revolving_Credit,Term_Loan,FX_Hedging",40
+CORP0142_L1,CORP0142,RM_E,Term Loan,6370000.0,3924800.0,0.0,6.55,2022-08-20,2024-08-09,-17,Manufacturing,Nouvelle-Aquitaine,BBB,0,Performing,2024-02-23,Expiring Soon,"FX_Hedging,Cash_Management,Revolving_Credit,Trade_Finance",20
+CORP0129_L2,CORP0129,RM_E,Revolving Credit,9940000.0,7578500.0,88.43,2.55,2024-12-03,2031-10-28,71,Real Estate,Hauts-de-France,A,0,Performing,2024-09-22,Valid,Trade_Finance,80
+CORP0154_L2,CORP0154,RM_E,Revolving Credit,39260000.0,25216200.0,20.89,6.42,2023-06-04,2028-05-08,28,Real Estate,Auvergne-Rhône-Alpes,AA,0,Performing,2023-07-23,Expired,Cash_Management,80
+CORP0390_L1,CORP0390,RM_B,Revolving Credit,11770000.0,9816200.0,64.03,5.82,2024-07-09,2028-06-18,30,Manufacturing,Hauts-de-France,AAA,0,Performing,2023-04-16,Expired,Cash_Management,80
+CORP0240_L3,CORP0240,RM_E,Revolving Credit,17360000.0,7838500.0,72.35,3.76,2024-08-23,2028-08-02,31,Healthcare,Nouvelle-Aquitaine,BB,0,Performing,2025-03-13,Valid,FX_Hedging,80
+CORP0231_L3,CORP0231,RM_A,Term Loan,19050000.0,14220900.0,0.0,2.56,2024-12-23,2027-12-08,23,Retail,Occitanie,BBB,7,Grace Period,2025-05-09,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Term_Loan",20
+CORP0415_L3,CORP0415,RM_D,Revolving Credit,17320000.0,11283800.0,44.46,2.64,2023-06-08,2030-05-02,53,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2025-02-20,Valid,"Cash_Management,Term_Loan,Trade_Finance",40
+CORP0403_L1,CORP0403,RM_B,Term Loan,8110000.0,7879500.0,0.0,6.12,2023-11-05,2028-10-09,34,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-07-14,Expired,"Term_Loan,FX_Hedging",60
+CORP0312_L3,CORP0312,RM_E,Revolving Credit,49020000.0,25614100.0,34.13,3.15,2023-07-04,2024-06-28,-19,Manufacturing,Auvergne-Rhône-Alpes,BB,0,Performing,2024-09-23,Valid,"Cash_Management,Trade_Finance,Revolving_Credit,Term_Loan",20
+CORP0292_L2,CORP0292,RM_E,Revolving Credit,5120000.0,2368500.0,71.68,5.43,2022-08-06,2024-07-26,-18,Retail,Occitanie,A,0,Performing,2025-03-08,Valid,FX_Hedging,80
+CORP0096_L1,CORP0096,RM_C,Term Loan,45610000.0,28804400.0,0.0,5.65,2024-07-17,2026-07-07,6,Transportation,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2025-10-28,Valid,Revolving_Credit,80
+CORP0233_L1,CORP0233,RM_A,Revolving Credit,26170000.0,13166000.0,28.31,5.72,2023-05-24,2027-05-03,16,Manufacturing,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-06-30,Expired,"Trade_Finance,Revolving_Credit,FX_Hedging",40
+CORP0245_L3,CORP0245,RM_D,Term Loan,19760000.0,18616900.0,0.0,4.36,2024-07-16,2026-07-06,6,Transportation,Île-de-France,BB,9,Grace Period,2024-12-03,Valid,"Term_Loan,FX_Hedging,Revolving_Credit",40
+CORP0419_L3,CORP0419,RM_B,Revolving Credit,8360000.0,6228700.0,73.76,5.25,2023-12-16,2028-11-19,35,Retail,Île-de-France,A,0,Performing,2025-02-28,Valid,"Term_Loan,Trade_Finance,Revolving_Credit,FX_Hedging",20
+CORP0104_L1,CORP0104,RM_B,Term Loan,22560000.0,20185600.0,0.0,7.96,2022-04-22,2024-04-11,-21,Retail,Île-de-France,CCC,0,Performing,2025-05-01,Valid,"Term_Loan,Revolving_Credit,Trade_Finance,Cash_Management",20
+CORP0451_L2,CORP0451,RM_A,Revolving Credit,23400000.0,9908800.0,88.92,4.58,2025-03-09,2028-02-22,26,Financial Services,Provence-Alpes-Côte d'Azur,BB,0,Performing,2025-11-09,Valid,Term_Loan,80
+CORP0432_L3,CORP0432,RM_E,Revolving Credit,19860000.0,17756000.0,87.5,6.9,2024-09-18,2028-08-28,32,Real Estate,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-09-28,Expired,Term_Loan,80
+CORP0235_L2,CORP0235,RM_C,Term Loan,35080000.0,16042800.0,0.0,3.45,2025-06-14,2027-06-04,17,Real Estate,Hauts-de-France,CCC,6,Grace Period,2023-04-15,Expired,"Cash_Management,Revolving_Credit,Trade_Finance,FX_Hedging",20
+CORP0452_L3,CORP0452,RM_A,Revolving Credit,33500000.0,14741600.0,77.14,3.23,2024-06-24,2028-06-03,29,Real Estate,Occitanie,BBB,0,Performing,2023-04-23,Expired,"Revolving_Credit,Term_Loan",60
+CORP0189_L1,CORP0189,RM_E,Term Loan,25470000.0,22100500.0,0.0,3.74,2023-05-26,2027-05-05,16,Healthcare,Occitanie,BBB,0,Performing,2023-01-29,Expired,"Revolving_Credit,Cash_Management",60
+CORP0023_L2,CORP0023,RM_B,Term Loan,4120000.0,3364800.0,0.0,4.9,2023-02-09,2027-01-19,13,Energy,Île-de-France,AA,0,Performing,2025-10-16,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0100_L2,CORP0100,RM_A,Term Loan,1030000.0,482900.0,0.0,5.29,2024-12-06,2027-11-21,23,Healthcare,Hauts-de-France,BBB,0,Performing,2024-03-15,Expiring Soon,"Cash_Management,Term_Loan,Revolving_Credit",40
+CORP0237_L1,CORP0237,RM_C,Term Loan,27650000.0,15079700.0,0.0,4.17,2023-03-30,2025-03-19,-10,Technology,Nouvelle-Aquitaine,BB,0,Performing,2023-03-24,Expired,"Trade_Finance,Cash_Management,FX_Hedging",40
+CORP0083_L1,CORP0083,RM_E,Term Loan,30550000.0,15468700.0,0.0,3.51,2024-12-31,2029-12-05,48,Technology,Hauts-de-France,BBB,0,Performing,2025-05-28,Valid,"Cash_Management,Revolving_Credit",60
+CORP0344_L1,CORP0344,RM_B,Revolving Credit,8100000.0,4980300.0,70.63,3.8,2024-06-25,2031-05-20,65,Retail,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-12-02,Valid,"Trade_Finance,Cash_Management",60
+CORP0357_L1,CORP0357,RM_A,Term Loan,19840000.0,11606300.0,0.0,7.13,2025-05-27,2030-05-01,53,Energy,Nouvelle-Aquitaine,BB,0,Performing,2025-10-20,Valid,"Trade_Finance,Cash_Management,FX_Hedging",40
+CORP0393_L1,CORP0393,RM_D,Term Loan,19040000.0,10341100.0,0.0,8.44,2025-03-08,2026-03-03,2,Energy,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-01-30,Expiring Soon,"Cash_Management,Revolving_Credit,Term_Loan",40
+CORP0173_L1,CORP0173,RM_C,Term Loan,11420000.0,10613400.0,0.0,2.76,2021-12-21,2023-12-11,-25,Retail,Occitanie,A,0,Performing,2025-02-15,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0263_L1,CORP0263,RM_B,Revolving Credit,16470000.0,12781900.0,49.63,5.07,2022-03-12,2024-03-01,-22,Real Estate,Nouvelle-Aquitaine,B,35,Watch List,2025-05-02,Valid,Trade_Finance,80
+CORP0119_L1,CORP0119,RM_C,Term Loan,18150000.0,9150700.0,0.0,4.84,2023-06-11,2030-05-05,53,Retail,Occitanie,BB,0,Performing,2023-05-12,Expired,"FX_Hedging,Revolving_Credit,Term_Loan",40
+CORP0235_L1,CORP0235,RM_C,Term Loan,33070000.0,18753200.0,0.0,7.81,2022-03-14,2025-02-26,-10,Real Estate,Hauts-de-France,CCC,0,Performing,2023-04-15,Expired,"Cash_Management,Revolving_Credit,Trade_Finance,FX_Hedging",20
+CORP0211_L2,CORP0211,RM_D,Revolving Credit,49160000.0,22667100.0,91.93,6.1,2022-09-09,2027-08-14,20,Manufacturing,Occitanie,BBB,0,Performing,2023-09-03,Expired,Revolving_Credit,80
+CORP0324_L3,CORP0324,RM_C,Revolving Credit,34060000.0,33495300.0,77.13,6.63,2024-12-13,2027-11-28,23,Retail,Occitanie,AA,0,Performing,2024-03-15,Expiring Soon,"FX_Hedging,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0436_L3,CORP0436,RM_D,Revolving Credit,3840000.0,1576700.0,68.04,3.89,2022-06-01,2026-05-11,4,Financial Services,Nouvelle-Aquitaine,BBB,0,Performing,2025-10-08,Valid,"Cash_Management,Revolving_Credit",60
+CORP0301_L3,CORP0301,RM_C,Term Loan,12010000.0,9245400.0,0.0,5.07,2024-12-31,2027-12-16,24,Manufacturing,Nouvelle-Aquitaine,BBB,0,Performing,2025-08-12,Valid,"Trade_Finance,Cash_Management",60
+CORP0125_L3,CORP0125,RM_B,Term Loan,3470000.0,2167800.0,0.0,3.73,2024-01-13,2026-01-02,0,Real Estate,Occitanie,A,0,Performing,2023-12-01,Expired,"Revolving_Credit,Cash_Management,FX_Hedging",40
+CORP0020_L1,CORP0020,RM_C,Revolving Credit,37090000.0,22150700.0,77.04,5.63,2024-02-20,2027-02-04,13,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-08-06,Expired,"FX_Hedging,Revolving_Credit",60
+CORP0213_L3,CORP0213,RM_A,Revolving Credit,37650000.0,20233300.0,60.45,7.94,2023-11-03,2026-10-18,10,Real Estate,Île-de-France,BBB,0,Performing,2024-04-06,Valid,"Revolving_Credit,Cash_Management",60
+CORP0341_L1,CORP0341,RM_B,Term Loan,30600000.0,19244100.0,0.0,2.54,2023-11-23,2025-11-12,-2,Energy,Île-de-France,BBB,0,Performing,2025-03-23,Valid,"FX_Hedging,Trade_Finance",60
+CORP0446_L2,CORP0446,RM_B,Term Loan,47710000.0,20575600.0,0.0,3.54,2024-11-26,2026-11-16,11,Retail,Auvergne-Rhône-Alpes,BB,0,Performing,2024-01-14,Expiring Soon,"Revolving_Credit,Term_Loan,FX_Hedging",40
+CORP0282_L1,CORP0282,RM_B,Term Loan,25620000.0,16800200.0,0.0,3.69,2023-01-29,2026-01-13,0,Energy,Île-de-France,BBB,0,Performing,2023-11-16,Expired,FX_Hedging,80
+CORP0218_L1,CORP0218,RM_D,Term Loan,15500000.0,11560700.0,0.0,7.19,2022-02-18,2024-02-08,-23,Retail,Nouvelle-Aquitaine,A,0,Performing,2023-09-10,Expired,"Trade_Finance,Term_Loan,Cash_Management",40
+CORP0041_L2,CORP0041,RM_B,Revolving Credit,19200000.0,13102600.0,52.51,3.44,2023-04-30,2028-04-03,27,Transportation,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-11-24,Expired,"Trade_Finance,Revolving_Credit",60
+CORP0489_L2,CORP0489,RM_B,Term Loan,38220000.0,25089100.0,0.0,3.42,2025-03-25,2028-03-09,26,Manufacturing,Occitanie,AAA,0,Performing,2024-02-28,Expiring Soon,FX_Hedging,80
+CORP0373_L1,CORP0373,RM_D,Revolving Credit,19330000.0,11279200.0,56.06,4.5,2024-02-09,2028-01-19,25,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2024-06-25,Valid,Term_Loan,80
+CORP0367_L2,CORP0367,RM_D,Term Loan,8160000.0,4192400.0,0.0,4.75,2025-08-16,2030-07-21,55,Manufacturing,Provence-Alpes-Côte d'Azur,BB,0,Performing,2024-03-30,Valid,Revolving_Credit,80
+CORP0208_L2,CORP0208,RM_D,Revolving Credit,48540000.0,30283500.0,64.12,4.95,2022-12-14,2025-11-28,-1,Technology,Provence-Alpes-Côte d'Azur,CCC,0,Performing,2024-03-05,Expiring Soon,"Term_Loan,Cash_Management,Revolving_Credit",40
+CORP0020_L1,CORP0020,RM_C,Revolving Credit,46640000.0,23199500.0,76.37,4.59,2023-04-02,2026-03-17,2,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-08-06,Expired,"FX_Hedging,Revolving_Credit",60
+CORP0364_L2,CORP0364,RM_C,Revolving Credit,34970000.0,27645300.0,55.83,8.03,2023-04-27,2030-03-21,51,Manufacturing,Occitanie,BB,0,Performing,2024-03-23,Valid,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0186_L3,CORP0186,RM_A,Term Loan,35020000.0,27567700.0,0.0,6.59,2024-03-25,2029-02-27,38,Healthcare,Auvergne-Rhône-Alpes,A,0,Performing,2023-04-27,Expired,"Trade_Finance,FX_Hedging",60
+CORP0131_L1,CORP0131,RM_A,Term Loan,1110000.0,957500.0,0.0,4.89,2022-01-31,2028-12-25,36,Financial Services,Île-de-France,A,8,Grace Period,2025-03-17,Valid,"Trade_Finance,Cash_Management,FX_Hedging,Revolving_Credit",20
+CORP0301_L1,CORP0301,RM_C,Term Loan,43860000.0,21907800.0,0.0,5.5,2023-04-21,2026-04-05,3,Manufacturing,Nouvelle-Aquitaine,BBB,0,Performing,2025-08-12,Valid,"Trade_Finance,Cash_Management",60
+CORP0273_L3,CORP0273,RM_E,Revolving Credit,29510000.0,24799000.0,78.25,4.57,2025-03-13,2026-03-08,2,Real Estate,Hauts-de-France,AAA,0,Performing,2025-07-23,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0074_L2,CORP0074,RM_C,Term Loan,46540000.0,29728900.0,0.0,7.4,2023-12-21,2024-12-15,-13,Real Estate,Hauts-de-France,AAA,6,Grace Period,2023-08-12,Expired,"Term_Loan,Trade_Finance,Revolving_Credit,Cash_Management",20
+CORP0001_L1,CORP0001,RM_C,Term Loan,38800000.0,25247300.0,0.0,5.09,2023-05-12,2030-04-05,52,Retail,Île-de-France,A,0,Performing,2025-03-09,Valid,FX_Hedging,80
+CORP0091_L2,CORP0091,RM_A,Term Loan,35350000.0,18340000.0,0.0,5.2,2024-09-04,2029-08-09,44,Technology,Hauts-de-France,A,15,Watch List,2023-09-05,Expired,"FX_Hedging,Trade_Finance,Revolving_Credit,Term_Loan",20
+CORP0417_L1,CORP0417,RM_E,Term Loan,10450000.0,8882000.0,0.0,7.73,2024-08-15,2027-07-31,19,Manufacturing,Hauts-de-France,BBB,3,Grace Period,2025-05-28,Valid,FX_Hedging,80
+CORP0226_L3,CORP0226,RM_E,Term Loan,43480000.0,21725900.0,0.0,4.16,2024-01-20,2025-01-14,-12,Real Estate,Hauts-de-France,A,0,Performing,2024-05-07,Valid,Trade_Finance,80
+CORP0176_L1,CORP0176,RM_C,Term Loan,24160000.0,19417000.0,0.0,7.01,2025-02-17,2026-02-12,1,Technology,Auvergne-Rhône-Alpes,B,0,Performing,2023-03-30,Expired,"Revolving_Credit,FX_Hedging",60
+CORP0004_L3,CORP0004,RM_B,Term Loan,5290000.0,3773900.0,0.0,8.42,2025-08-28,2029-08-07,44,Real Estate,Nouvelle-Aquitaine,A,0,Performing,2024-01-30,Expiring Soon,Term_Loan,80
+CORP0390_L2,CORP0390,RM_B,Revolving Credit,23920000.0,14405100.0,86.76,8.5,2023-04-16,2026-03-31,3,Manufacturing,Hauts-de-France,AAA,0,Performing,2023-04-16,Expired,Cash_Management,80
+CORP0419_L1,CORP0419,RM_B,Revolving Credit,33420000.0,20956400.0,80.47,2.52,2025-05-17,2028-05-01,28,Retail,Île-de-France,A,32,Watch List,2025-02-28,Valid,"Term_Loan,Trade_Finance,Revolving_Credit,FX_Hedging",20
+CORP0446_L3,CORP0446,RM_B,Revolving Credit,36400000.0,33953300.0,85.18,4.18,2024-12-01,2025-11-26,-1,Retail,Auvergne-Rhône-Alpes,BB,0,Performing,2024-01-14,Expiring Soon,"Revolving_Credit,Term_Loan,FX_Hedging",40
+CORP0359_L1,CORP0359,RM_C,Revolving Credit,22870000.0,18563800.0,34.1,8.42,2023-01-12,2027-12-17,24,Transportation,Auvergne-Rhône-Alpes,A,0,Performing,2025-05-23,Valid,Revolving_Credit,80
+CORP0491_L2,CORP0491,RM_E,Term Loan,31870000.0,29449800.0,0.0,6.14,2023-11-15,2030-10-09,58,Real Estate,Auvergne-Rhône-Alpes,AA,0,Performing,2023-02-19,Expired,"Trade_Finance,FX_Hedging",60
+CORP0205_L3,CORP0205,RM_C,Term Loan,17740000.0,17091600.0,0.0,7.93,2023-01-10,2029-12-04,48,Retail,Hauts-de-France,BBB,1,Grace Period,2024-05-28,Valid,"Term_Loan,FX_Hedging",60
+CORP0376_L2,CORP0376,RM_E,Revolving Credit,30560000.0,25278200.0,73.75,2.69,2022-10-12,2027-09-16,21,Financial Services,Occitanie,BB,0,Performing,2024-07-26,Valid,Trade_Finance,80
+CORP0255_L1,CORP0255,RM_E,Revolving Credit,41700000.0,41607500.0,91.63,5.39,2023-01-29,2025-01-18,-12,Transportation,Auvergne-Rhône-Alpes,BBB,86,Medium Risk,2025-01-17,Valid,"FX_Hedging,Trade_Finance,Term_Loan",40
+CORP0277_L1,CORP0277,RM_B,Term Loan,10980000.0,9354400.0,0.0,5.11,2021-12-30,2028-11-23,35,Healthcare,Nouvelle-Aquitaine,BBB,0,Performing,2023-08-25,Expired,FX_Hedging,80
+CORP0367_L1,CORP0367,RM_D,Term Loan,46490000.0,27703400.0,0.0,4.05,2023-07-19,2026-07-03,6,Manufacturing,Provence-Alpes-Côte d'Azur,BB,0,Performing,2024-03-30,Valid,Revolving_Credit,80
+CORP0244_L3,CORP0244,RM_E,Term Loan,33440000.0,31889800.0,0.0,7.27,2022-02-22,2029-01-16,37,Retail,Île-de-France,A,0,Performing,2025-10-04,Valid,"Trade_Finance,Revolving_Credit",60
+CORP0171_L1,CORP0171,RM_B,Term Loan,32380000.0,20276600.0,0.0,5.87,2023-07-23,2030-06-16,54,Retail,Île-de-France,BB,0,Performing,2023-07-04,Expired,"Cash_Management,FX_Hedging",60
+CORP0439_L2,CORP0439,RM_D,Term Loan,11570000.0,5431100.0,0.0,6.94,2025-03-16,2026-03-11,2,Technology,Nouvelle-Aquitaine,BB,0,Performing,2024-02-10,Expiring Soon,"Cash_Management,FX_Hedging,Revolving_Credit",40
+CORP0480_L1,CORP0480,RM_C,Term Loan,28860000.0,13750400.0,0.0,2.51,2023-12-10,2027-11-19,23,Real Estate,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-12-29,Expiring Soon,"FX_Hedging,Trade_Finance,Cash_Management,Revolving_Credit",20
+CORP0032_L3,CORP0032,RM_B,Term Loan,42430000.0,41917000.0,0.0,8.1,2023-11-27,2026-11-11,10,Manufacturing,Île-de-France,BBB,0,Performing,2024-08-02,Valid,FX_Hedging,80
+CORP0065_L3,CORP0065,RM_A,Term Loan,5780000.0,2343900.0,0.0,8.16,2023-02-11,2026-01-26,1,Financial Services,Hauts-de-France,B,0,Performing,2025-10-25,Valid,Trade_Finance,80
+CORP0429_L1,CORP0429,RM_B,Revolving Credit,34160000.0,16685600.0,83.68,7.47,2024-02-09,2026-01-29,1,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-10-22,Valid,"Trade_Finance,Term_Loan,Cash_Management",40
+CORP0018_L3,CORP0018,RM_A,Revolving Credit,15790000.0,15698400.0,72.99,5.37,2025-01-02,2027-12-18,24,Retail,Occitanie,AA,29,Watch List,2023-12-07,Expired,"Revolving_Credit,Term_Loan,Trade_Finance",40
+CORP0425_L1,CORP0425,RM_A,Revolving Credit,14930000.0,14629900.0,73.76,7.59,2025-05-14,2028-04-28,28,Technology,Auvergne-Rhône-Alpes,A,0,Performing,2023-05-30,Expired,Cash_Management,80
+CORP0479_L1,CORP0479,RM_B,Term Loan,46200000.0,39991800.0,0.0,8.41,2022-12-18,2029-11-11,47,Energy,Hauts-de-France,A,0,Performing,2024-05-03,Valid,"Revolving_Credit,FX_Hedging,Cash_Management",40
+CORP0338_L1,CORP0338,RM_A,Term Loan,27620000.0,16639600.0,0.0,7.05,2021-11-23,2025-11-02,-2,Retail,Occitanie,AA,4,Grace Period,2025-01-30,Valid,"Trade_Finance,Term_Loan,Revolving_Credit,FX_Hedging",20
+CORP0201_L1,CORP0201,RM_C,Revolving Credit,14480000.0,13811600.0,44.26,7.25,2022-08-16,2026-07-26,7,Real Estate,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-07-13,Expired,"Term_Loan,FX_Hedging,Cash_Management",40
+CORP0444_L1,CORP0444,RM_B,Revolving Credit,23150000.0,11533700.0,41.83,3.37,2024-12-04,2028-11-13,35,Real Estate,Île-de-France,BBB,0,Performing,2023-07-24,Expired,"Trade_Finance,FX_Hedging,Revolving_Credit,Term_Loan",20
+CORP0112_L3,CORP0112,RM_B,Term Loan,36900000.0,14962200.0,0.0,8.43,2022-06-21,2023-06-16,-31,Transportation,Île-de-France,BBB,0,Performing,2025-02-06,Valid,Trade_Finance,80
+CORP0076_L2,CORP0076,RM_A,Revolving Credit,34130000.0,17096900.0,55.54,8.17,2025-05-19,2026-05-14,4,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2023-06-10,Expired,"Trade_Finance,FX_Hedging",60
+CORP0061_L3,CORP0061,RM_B,Revolving Credit,29870000.0,29327400.0,22.55,3.95,2022-03-07,2029-01-29,37,Manufacturing,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-02-10,Valid,"Term_Loan,Trade_Finance",60
+CORP0251_L2,CORP0251,RM_B,Term Loan,32810000.0,20513600.0,0.0,5.28,2021-12-08,2028-11-01,34,Energy,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-04-21,Valid,"Cash_Management,Revolving_Credit,Trade_Finance,FX_Hedging",20
+CORP0419_L3,CORP0419,RM_B,Revolving Credit,14120000.0,11181900.0,26.2,5.44,2023-08-21,2024-08-15,-17,Retail,Île-de-France,A,0,Performing,2025-02-28,Valid,"Term_Loan,Trade_Finance,Revolving_Credit,FX_Hedging",20
+CORP0343_L3,CORP0343,RM_A,Term Loan,1640000.0,1219800.0,0.0,6.97,2022-06-27,2026-06-06,5,Technology,Île-de-France,AA,0,Performing,2023-11-28,Expired,"Revolving_Credit,Trade_Finance,Term_Loan",40
+CORP0407_L3,CORP0407,RM_C,Term Loan,19510000.0,19509500.0,0.0,3.1,2023-04-07,2026-03-22,3,Technology,Provence-Alpes-Côte d'Azur,CCC,0,Performing,2023-04-25,Expired,Cash_Management,80
+CORP0033_L3,CORP0033,RM_E,Term Loan,20560000.0,16868400.0,0.0,7.2,2023-06-28,2028-06-01,29,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-03-12,Expiring Soon,"Revolving_Credit,Cash_Management,Term_Loan",40
+CORP0272_L2,CORP0272,RM_D,Term Loan,26190000.0,19664300.0,0.0,3.74,2022-01-16,2023-01-11,-36,Real Estate,Île-de-France,BB,0,Performing,2025-06-13,Valid,"Term_Loan,Cash_Management",60
+CORP0338_L1,CORP0338,RM_A,Term Loan,43170000.0,35275500.0,0.0,4.39,2025-09-01,2030-08-06,56,Retail,Occitanie,AA,0,Performing,2025-01-30,Valid,"Trade_Finance,Term_Loan,Revolving_Credit,FX_Hedging",20
+CORP0021_L1,CORP0021,RM_C,Term Loan,32810000.0,14852800.0,0.0,3.25,2024-04-04,2025-03-30,-9,Energy,Occitanie,BBB,0,Performing,2023-01-25,Expired,"Term_Loan,Revolving_Credit,FX_Hedging,Cash_Management",20
+CORP0153_L2,CORP0153,RM_A,Term Loan,21440000.0,20735400.0,0.0,8.18,2025-09-11,2027-09-01,20,Technology,Hauts-de-France,BB,0,Performing,2024-06-10,Valid,"Trade_Finance,FX_Hedging,Cash_Management,Revolving_Credit",20
+CORP0266_L2,CORP0266,RM_B,Revolving Credit,7420000.0,5151500.0,94.76,6.14,2023-12-11,2028-11-14,35,Healthcare,Île-de-France,BBB,0,Performing,2024-05-06,Valid,"FX_Hedging,Cash_Management",60
+CORP0262_L1,CORP0262,RM_E,Term Loan,33300000.0,14213800.0,0.0,7.64,2025-06-28,2027-06-18,18,Financial Services,Occitanie,BBB,0,Performing,2023-11-04,Expired,"Revolving_Credit,Trade_Finance",60
+CORP0111_L1,CORP0111,RM_C,Term Loan,29790000.0,16874200.0,0.0,4.03,2022-03-17,2026-02-24,2,Manufacturing,Hauts-de-France,B,0,Performing,2023-07-02,Expired,FX_Hedging,80
+CORP0196_L3,CORP0196,RM_B,Term Loan,20300000.0,9134000.0,0.0,6.67,2024-04-09,2031-03-04,63,Real Estate,Île-de-France,A,0,Performing,2025-09-13,Valid,"Cash_Management,Term_Loan,Revolving_Credit",40
+CORP0275_L1,CORP0275,RM_B,Term Loan,31660000.0,17781500.0,0.0,6.79,2022-02-23,2029-01-17,37,Energy,Occitanie,BB,0,Performing,2024-10-27,Valid,"Revolving_Credit,Cash_Management,FX_Hedging,Trade_Finance",20
+CORP0289_L3,CORP0289,RM_E,Term Loan,21270000.0,10466900.0,0.0,6.12,2023-04-07,2027-03-17,15,Technology,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2025-09-15,Valid,Cash_Management,80
+CORP0040_L2,CORP0040,RM_C,Term Loan,26810000.0,21726500.0,0.0,3.03,2023-06-01,2024-05-26,-20,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2023-06-29,Expired,"FX_Hedging,Term_Loan,Trade_Finance,Cash_Management",20
+CORP0466_L2,CORP0466,RM_E,Revolving Credit,7740000.0,6802400.0,93.46,3.83,2024-02-29,2025-02-23,-11,Manufacturing,Auvergne-Rhône-Alpes,BB,0,Performing,2023-03-10,Expired,"Term_Loan,Trade_Finance",60
+CORP0488_L1,CORP0488,RM_C,Term Loan,9200000.0,7700400.0,0.0,5.44,2023-12-24,2028-11-27,35,Real Estate,Occitanie,BBB,0,Performing,2025-03-28,Valid,"FX_Hedging,Cash_Management",60
+CORP0271_L2,CORP0271,RM_E,Revolving Credit,27800000.0,21252500.0,76.39,3.58,2025-06-05,2027-05-26,17,Retail,Occitanie,BBB,0,Performing,2023-10-16,Expired,"Cash_Management,Revolving_Credit",60
+CORP0413_L3,CORP0413,RM_A,Revolving Credit,24100000.0,11484700.0,31.66,3.26,2025-08-23,2032-07-17,80,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-01-26,Expired,"Term_Loan,Trade_Finance",60
+CORP0194_L3,CORP0194,RM_B,Revolving Credit,3120000.0,2606000.0,70.87,5.01,2023-08-15,2030-07-09,55,Real Estate,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-05-13,Expired,"Revolving_Credit,FX_Hedging,Term_Loan,Trade_Finance",20
+CORP0235_L1,CORP0235,RM_C,Revolving Credit,49320000.0,43356300.0,52.08,8.15,2022-11-18,2025-11-02,-2,Real Estate,Hauts-de-France,CCC,0,Performing,2023-04-15,Expired,"Cash_Management,Revolving_Credit,Trade_Finance,FX_Hedging",20
+CORP0452_L1,CORP0452,RM_A,Revolving Credit,31960000.0,14451200.0,83.39,6.31,2023-12-26,2027-12-05,23,Real Estate,Occitanie,BBB,0,Performing,2023-04-23,Expired,"Revolving_Credit,Term_Loan",60
+CORP0040_L3,CORP0040,RM_C,Term Loan,47270000.0,23590900.0,0.0,5.82,2025-05-17,2026-05-12,4,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2023-06-29,Expired,"FX_Hedging,Term_Loan,Trade_Finance,Cash_Management",20
+CORP0253_L1,CORP0253,RM_E,Revolving Credit,34010000.0,32631400.0,71.38,6.56,2024-12-06,2028-11-15,35,Technology,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-04-30,Expired,"Revolving_Credit,Term_Loan",60
+CORP0273_L3,CORP0273,RM_E,Term Loan,20570000.0,15834200.0,0.0,5.71,2025-08-28,2032-07-22,80,Real Estate,Hauts-de-France,AAA,0,Performing,2025-07-23,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0177_L1,CORP0177,RM_A,Term Loan,30560000.0,29911800.0,0.0,3.55,2021-11-30,2026-11-04,10,Technology,Nouvelle-Aquitaine,BBB,33,Watch List,2023-01-06,Expired,Cash_Management,80
+CORP0188_L1,CORP0188,RM_D,Revolving Credit,47650000.0,31145600.0,28.49,7.98,2023-07-28,2025-07-17,-6,Manufacturing,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-05-28,Expired,Term_Loan,80
+CORP0128_L3,CORP0128,RM_A,Term Loan,14860000.0,10251500.0,0.0,6.29,2024-03-18,2026-03-08,2,Manufacturing,Hauts-de-France,BBB,0,Performing,2024-07-01,Valid,"Cash_Management,Term_Loan,FX_Hedging,Trade_Finance",20
+CORP0202_L1,CORP0202,RM_E,Revolving Credit,46490000.0,45350100.0,86.94,7.59,2022-10-22,2023-10-17,-27,Retail,Nouvelle-Aquitaine,BB,24,Watch List,2025-01-26,Valid,Revolving_Credit,80
+CORP0030_L2,CORP0030,RM_A,Term Loan,30970000.0,18493100.0,0.0,7.84,2023-09-18,2024-09-12,-16,Technology,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-08-17,Valid,"Term_Loan,FX_Hedging,Cash_Management",40
+CORP0096_L2,CORP0096,RM_C,Revolving Credit,940000.0,619000.0,87.39,4.96,2024-08-03,2025-07-29,-5,Transportation,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2025-10-28,Valid,Revolving_Credit,80
+CORP0468_L2,CORP0468,RM_D,Term Loan,8200000.0,6510600.0,0.0,4.3,2024-06-05,2028-05-15,29,Real Estate,Hauts-de-France,AA,0,Performing,2023-03-05,Expired,"Cash_Management,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0220_L1,CORP0220,RM_C,Revolving Credit,5880000.0,3899300.0,76.03,2.53,2023-03-27,2025-03-16,-10,Transportation,Nouvelle-Aquitaine,CCC,0,Performing,2025-03-27,Valid,"FX_Hedging,Term_Loan,Revolving_Credit",40
+CORP0453_L3,CORP0453,RM_A,Term Loan,5980000.0,3414200.0,0.0,4.49,2024-12-12,2028-11-21,35,Real Estate,Provence-Alpes-Côte d'Azur,BB,0,Performing,2024-06-15,Valid,"Trade_Finance,Term_Loan",60
+CORP0017_L1,CORP0017,RM_E,Term Loan,47440000.0,46292900.0,0.0,5.8,2024-03-16,2025-03-11,-10,Healthcare,Hauts-de-France,A,0,Performing,2023-11-15,Expired,"FX_Hedging,Term_Loan",60
+CORP0410_L3,CORP0410,RM_B,Term Loan,16580000.0,14236200.0,0.0,6.95,2023-06-16,2028-05-20,29,Real Estate,Nouvelle-Aquitaine,BB,0,Performing,2025-08-15,Valid,"Term_Loan,FX_Hedging",60
+CORP0423_L2,CORP0423,RM_D,Term Loan,5930000.0,2755800.0,0.0,5.5,2025-07-30,2027-07-20,19,Transportation,Occitanie,BB,0,Performing,2023-11-15,Expired,FX_Hedging,80
+CORP0393_L3,CORP0393,RM_D,Term Loan,3080000.0,2765500.0,0.0,5.11,2023-04-16,2028-03-20,27,Energy,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-01-30,Expiring Soon,"Cash_Management,Revolving_Credit,Term_Loan",40
+CORP0149_L2,CORP0149,RM_E,Revolving Credit,4590000.0,3017300.0,34.01,4.19,2022-03-27,2024-03-16,-22,Retail,Occitanie,CCC,0,Performing,2025-10-27,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0059_L2,CORP0059,RM_D,Term Loan,33480000.0,22012900.0,0.0,3.12,2023-01-15,2029-12-09,48,Transportation,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-07-31,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0374_L3,CORP0374,RM_C,Term Loan,9840000.0,8983200.0,0.0,3.22,2022-03-03,2029-01-25,37,Technology,Provence-Alpes-Côte d'Azur,BB,0,Performing,2025-09-28,Valid,"Cash_Management,Revolving_Credit",60
+CORP0206_L1,CORP0206,RM_E,Revolving Credit,49520000.0,47413400.0,26.82,2.81,2023-04-22,2024-04-16,-21,Energy,Occitanie,BBB,0,Performing,2025-04-22,Valid,"Cash_Management,Trade_Finance,Term_Loan",40
+CORP0209_L3,CORP0209,RM_B,Revolving Credit,35160000.0,34740700.0,24.6,5.06,2024-06-14,2027-05-30,17,Transportation,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-02-12,Expired,"Term_Loan,Revolving_Credit",60
+CORP0027_L2,CORP0027,RM_D,Term Loan,13830000.0,7860100.0,0.0,4.42,2023-09-24,2030-08-18,56,Real Estate,Île-de-France,BB,0,Performing,2025-06-02,Valid,FX_Hedging,80
+CORP0025_L1,CORP0025,RM_D,Term Loan,530000.0,422000.0,0.0,4.18,2023-11-23,2025-11-12,-2,Technology,Île-de-France,BBB,0,Performing,2023-08-31,Expired,"Term_Loan,FX_Hedging,Trade_Finance,Revolving_Credit",20
+CORP0311_L1,CORP0311,RM_B,Revolving Credit,9650000.0,9350800.0,27.27,2.58,2023-08-29,2026-08-13,7,Energy,Nouvelle-Aquitaine,BBB,0,Performing,2025-09-20,Valid,"Cash_Management,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0283_L1,CORP0283,RM_D,Revolving Credit,18350000.0,16258500.0,37.87,4.16,2022-05-24,2027-04-28,16,Retail,Hauts-de-France,BB,0,Performing,2025-11-17,Valid,FX_Hedging,80
+CORP0300_L2,CORP0300,RM_E,Term Loan,44420000.0,21245700.0,0.0,8.31,2022-04-28,2023-04-23,-33,Real Estate,Île-de-France,B,0,Performing,2024-08-09,Valid,"Trade_Finance,Revolving_Credit",60
+CORP0453_L3,CORP0453,RM_A,Term Loan,10050000.0,6708000.0,0.0,6.21,2025-02-21,2026-02-16,1,Real Estate,Provence-Alpes-Côte d'Azur,BB,26,Watch List,2024-06-15,Valid,"Trade_Finance,Term_Loan",60
+CORP0155_L3,CORP0155,RM_D,Revolving Credit,49490000.0,25794200.0,51.37,6.77,2024-11-01,2025-10-27,-2,Energy,Hauts-de-France,BBB,0,Performing,2024-03-28,Valid,Revolving_Credit,80
+CORP0457_L3,CORP0457,RM_C,Revolving Credit,44800000.0,29975200.0,51.43,8.09,2025-01-14,2028-12-24,36,Energy,Île-de-France,BBB,0,Performing,2023-05-29,Expired,"Cash_Management,Trade_Finance,Term_Loan",40
+CORP0258_L1,CORP0258,RM_B,Term Loan,30160000.0,24671600.0,0.0,5.9,2024-12-21,2027-12-06,23,Technology,Île-de-France,BBB,0,Performing,2025-09-18,Valid,"Cash_Management,Term_Loan,FX_Hedging,Trade_Finance",20
+CORP0407_L3,CORP0407,RM_C,Term Loan,37170000.0,23732900.0,0.0,3.49,2022-09-17,2027-08-22,20,Technology,Provence-Alpes-Côte d'Azur,CCC,29,Watch List,2023-04-25,Expired,Cash_Management,80
+CORP0385_L3,CORP0385,RM_C,Revolving Credit,28340000.0,17971800.0,20.27,5.93,2022-04-17,2025-04-01,-9,Technology,Île-de-France,BBB,0,Performing,2025-10-20,Valid,"Term_Loan,Trade_Finance,Cash_Management",40
+CORP0304_L3,CORP0304,RM_E,Term Loan,44020000.0,38490600.0,0.0,5.65,2023-02-22,2028-01-27,25,Healthcare,Provence-Alpes-Côte d'Azur,AA,0,Performing,2024-03-03,Expiring Soon,"Trade_Finance,Cash_Management",60
+CORP0156_L1,CORP0156,RM_A,Revolving Credit,35560000.0,26004700.0,37.87,2.73,2024-09-26,2026-09-16,8,Real Estate,Hauts-de-France,AAA,0,Performing,2024-04-11,Valid,"Revolving_Credit,Cash_Management",60
+CORP0076_L2,CORP0076,RM_A,Term Loan,13890000.0,12145000.0,0.0,3.76,2022-02-04,2024-01-25,-24,Real Estate,Auvergne-Rhône-Alpes,A,1,Grace Period,2023-06-10,Expired,"Trade_Finance,FX_Hedging",60
+CORP0060_L1,CORP0060,RM_A,Revolving Credit,31820000.0,31289600.0,86.3,4.08,2023-11-17,2024-11-11,-14,Technology,Occitanie,BB,8,Grace Period,2024-08-26,Valid,"Cash_Management,FX_Hedging,Trade_Finance",40
+CORP0069_L2,CORP0069,RM_A,Revolving Credit,16570000.0,7197300.0,92.39,3.56,2025-08-21,2028-08-05,31,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-08-18,Valid,"Trade_Finance,Term_Loan",60
+CORP0498_L1,CORP0498,RM_D,Term Loan,36270000.0,29482800.0,0.0,6.31,2022-01-11,2024-12-26,-12,Real Estate,Provence-Alpes-Côte d'Azur,BBB,2,Grace Period,2025-07-25,Valid,"Term_Loan,Trade_Finance",60
+CORP0283_L1,CORP0283,RM_D,Revolving Credit,11420000.0,6409800.0,76.47,3.43,2022-06-08,2029-05-02,40,Retail,Hauts-de-France,BB,0,Performing,2025-11-17,Valid,FX_Hedging,80
+CORP0119_L3,CORP0119,RM_C,Revolving Credit,18750000.0,17649400.0,33.88,7.67,2025-03-04,2029-02-11,38,Retail,Occitanie,BB,0,Performing,2023-05-12,Expired,"FX_Hedging,Revolving_Credit,Term_Loan",40
+CORP0097_L3,CORP0097,RM_E,Revolving Credit,47200000.0,23989100.0,86.39,7.4,2024-02-12,2025-02-06,-11,Financial Services,Hauts-de-France,CCC,0,Performing,2024-06-16,Valid,Revolving_Credit,80
+CORP0352_L3,CORP0352,RM_E,Term Loan,3940000.0,1746300.0,0.0,8.32,2024-04-27,2028-04-06,27,Transportation,Occitanie,A,39,Watch List,2023-02-27,Expired,"Trade_Finance,FX_Hedging,Term_Loan,Cash_Management",20
+CORP0052_L3,CORP0052,RM_D,Term Loan,36470000.0,32268500.0,0.0,2.62,2022-04-25,2023-04-20,-33,Manufacturing,Occitanie,BB,0,Performing,2024-12-28,Valid,"Trade_Finance,Term_Loan,Revolving_Credit",40
+CORP0424_L1,CORP0424,RM_C,Term Loan,7040000.0,6069000.0,0.0,6.1,2024-03-12,2026-03-02,2,Healthcare,Île-de-France,BB,19,Watch List,2023-09-15,Expired,"FX_Hedging,Term_Loan",60
+CORP0406_L1,CORP0406,RM_C,Term Loan,27350000.0,24367600.0,0.0,7.06,2025-03-21,2027-03-11,14,Manufacturing,Île-de-France,BB,0,Performing,2023-04-11,Expired,"Term_Loan,FX_Hedging",60
+CORP0457_L2,CORP0457,RM_C,Term Loan,15720000.0,10805100.0,0.0,4.1,2024-04-30,2025-04-25,-8,Energy,Île-de-France,BBB,0,Performing,2023-05-29,Expired,"Cash_Management,Trade_Finance,Term_Loan",40
+CORP0279_L1,CORP0279,RM_B,Term Loan,41330000.0,19081600.0,0.0,7.52,2024-01-13,2025-01-07,-12,Technology,Hauts-de-France,BBB,0,Performing,2024-01-28,Expiring Soon,"Trade_Finance,FX_Hedging,Revolving_Credit",40
+CORP0073_L1,CORP0073,RM_A,Term Loan,1690000.0,1109100.0,0.0,3.86,2024-11-14,2027-10-30,22,Transportation,Hauts-de-France,BB,0,Performing,2025-09-26,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0451_L3,CORP0451,RM_A,Revolving Credit,34490000.0,28589100.0,28.26,3.11,2025-01-24,2029-01-03,36,Financial Services,Provence-Alpes-Côte d'Azur,BB,0,Performing,2025-11-09,Valid,Term_Loan,80
+CORP0490_L2,CORP0490,RM_D,Revolving Credit,4280000.0,2569000.0,65.34,3.57,2023-09-04,2024-08-29,-16,Healthcare,Nouvelle-Aquitaine,BB,8,Grace Period,2023-12-17,Expired,Cash_Management,80
+CORP0272_L2,CORP0272,RM_D,Term Loan,34130000.0,16728200.0,0.0,7.41,2021-12-15,2028-11-08,35,Real Estate,Île-de-France,BB,0,Performing,2025-06-13,Valid,"Term_Loan,Cash_Management",60
+CORP0179_L1,CORP0179,RM_D,Revolving Credit,45850000.0,36544200.0,79.16,7.67,2024-03-17,2031-02-09,62,Energy,Île-de-France,BBB,0,Performing,2024-08-20,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Revolving_Credit",20
+CORP0077_L3,CORP0077,RM_C,Term Loan,16350000.0,10371800.0,0.0,5.06,2023-01-06,2024-01-01,-24,Real Estate,Occitanie,A,0,Performing,2024-10-11,Valid,"Cash_Management,FX_Hedging,Revolving_Credit",40
+CORP0373_L2,CORP0373,RM_D,Term Loan,4980000.0,4964400.0,0.0,5.47,2024-09-04,2028-08-14,32,Real Estate,Auvergne-Rhône-Alpes,A,0,Performing,2024-06-25,Valid,Term_Loan,80
+CORP0247_L3,CORP0247,RM_B,Revolving Credit,30290000.0,23685600.0,48.74,5.8,2024-12-02,2031-10-27,71,Healthcare,Nouvelle-Aquitaine,BB,1,Grace Period,2024-07-11,Valid,"Term_Loan,Cash_Management",60
+CORP0276_L3,CORP0276,RM_C,Revolving Credit,26860000.0,23981800.0,51.64,5.97,2023-07-17,2024-07-11,-18,Real Estate,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-12-14,Expired,"Trade_Finance,Term_Loan,Cash_Management,Revolving_Credit",20
+CORP0356_L3,CORP0356,RM_A,Term Loan,35300000.0,19101400.0,0.0,2.6,2025-09-06,2027-08-27,20,Energy,Provence-Alpes-Côte d'Azur,A,7,Grace Period,2024-01-09,Expiring Soon,"Revolving_Credit,Cash_Management,Term_Loan",40
+CORP0286_L2,CORP0286,RM_D,Term Loan,46080000.0,20079200.0,0.0,7.7,2023-09-27,2026-09-11,8,Manufacturing,Occitanie,BBB,0,Performing,2024-09-13,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0420_L1,CORP0420,RM_C,Revolving Credit,23290000.0,20987800.0,82.09,2.84,2022-08-09,2026-07-19,7,Manufacturing,Occitanie,B,0,Performing,2025-11-08,Valid,"Cash_Management,FX_Hedging,Revolving_Credit",40
+CORP0071_L1,CORP0071,RM_C,Term Loan,19180000.0,7975200.0,0.0,3.14,2023-04-26,2026-04-10,3,Healthcare,Auvergne-Rhône-Alpes,AA,0,Performing,2025-10-28,Valid,"FX_Hedging,Trade_Finance,Revolving_Credit",40
+CORP0298_L1,CORP0298,RM_D,Revolving Credit,41950000.0,38689900.0,25.92,2.96,2025-07-12,2027-07-02,18,Manufacturing,Occitanie,BBB,0,Performing,2023-02-04,Expired,"Term_Loan,FX_Hedging,Trade_Finance,Revolving_Credit",20
+CORP0292_L2,CORP0292,RM_E,Term Loan,38390000.0,26176600.0,0.0,8.19,2024-11-29,2031-10-24,71,Retail,Occitanie,A,0,Performing,2025-03-08,Valid,FX_Hedging,80
+CORP0241_L2,CORP0241,RM_B,Revolving Credit,22480000.0,17689700.0,24.5,6.35,2025-08-15,2028-07-30,31,Energy,Auvergne-Rhône-Alpes,AA,0,Performing,2022-12-28,Expired,"Revolving_Credit,Term_Loan",60
+CORP0310_L1,CORP0310,RM_E,Term Loan,1040000.0,935600.0,0.0,7.48,2021-11-19,2025-10-29,-2,Energy,Hauts-de-France,BBB,0,Performing,2025-06-28,Valid,Revolving_Credit,80
+CORP0471_L3,CORP0471,RM_E,Revolving Credit,35610000.0,23296100.0,59.11,8.37,2024-10-25,2027-10-10,21,Healthcare,Nouvelle-Aquitaine,BB,7,Grace Period,2023-04-26,Expired,"Trade_Finance,Term_Loan,FX_Hedging",40
+CORP0065_L3,CORP0065,RM_A,Term Loan,20320000.0,8810700.0,0.0,8.36,2023-07-01,2025-06-20,-7,Financial Services,Hauts-de-France,B,0,Performing,2025-10-25,Valid,Trade_Finance,80
+CORP0310_L1,CORP0310,RM_E,Revolving Credit,24130000.0,19101800.0,80.25,6.38,2023-06-05,2027-05-15,17,Energy,Hauts-de-France,BBB,0,Performing,2025-06-28,Valid,Revolving_Credit,80
+CORP0100_L2,CORP0100,RM_A,Term Loan,5670000.0,3501900.0,0.0,3.48,2023-10-25,2024-10-19,-15,Healthcare,Hauts-de-France,BBB,0,Performing,2024-03-15,Expiring Soon,"Cash_Management,Term_Loan,Revolving_Credit",40
+CORP0055_L1,CORP0055,RM_B,Term Loan,30060000.0,25668600.0,0.0,6.33,2023-12-18,2025-12-07,-1,Real Estate,Auvergne-Rhône-Alpes,AAA,0,Performing,2024-08-05,Valid,"FX_Hedging,Term_Loan,Revolving_Credit,Cash_Management",20
+CORP0017_L1,CORP0017,RM_E,Revolving Credit,4710000.0,3495200.0,56.29,2.79,2025-06-12,2030-05-17,53,Healthcare,Hauts-de-France,A,26,Watch List,2023-11-15,Expired,"FX_Hedging,Term_Loan",60
+CORP0048_L2,CORP0048,RM_A,Term Loan,49040000.0,41733400.0,0.0,7.01,2023-06-19,2028-05-23,29,Technology,Nouvelle-Aquitaine,AA,0,Performing,2023-07-14,Expired,"Cash_Management,Trade_Finance,FX_Hedging",40
+CORP0372_L2,CORP0372,RM_A,Term Loan,35280000.0,16173300.0,0.0,5.51,2023-05-31,2030-04-24,52,Manufacturing,Hauts-de-France,A,0,Performing,2025-01-17,Valid,"Trade_Finance,Cash_Management,Revolving_Credit,Term_Loan",20
+CORP0397_L1,CORP0397,RM_B,Term Loan,29570000.0,18607400.0,0.0,3.41,2022-05-30,2023-05-25,-32,Technology,Nouvelle-Aquitaine,BBB,0,Performing,2025-06-21,Valid,"Trade_Finance,Term_Loan,Revolving_Credit",40
+CORP0238_L1,CORP0238,RM_C,Term Loan,47660000.0,25686000.0,0.0,7.11,2024-06-27,2031-05-22,65,Transportation,Provence-Alpes-Côte d'Azur,A,0,Performing,2023-11-03,Expired,"Cash_Management,Revolving_Credit,Trade_Finance,Term_Loan",20
+CORP0083_L3,CORP0083,RM_E,Revolving Credit,22650000.0,10843000.0,90.51,2.74,2024-01-25,2027-01-09,12,Technology,Hauts-de-France,BBB,0,Performing,2025-05-28,Valid,"Cash_Management,Revolving_Credit",60
+CORP0365_L3,CORP0365,RM_E,Revolving Credit,12340000.0,12317900.0,62.52,8.47,2022-04-18,2023-04-13,-33,Real Estate,Nouvelle-Aquitaine,BB,20,Watch List,2024-08-10,Valid,"Cash_Management,Trade_Finance,Term_Loan,FX_Hedging",20
+CORP0050_L1,CORP0050,RM_B,Term Loan,38430000.0,22509400.0,0.0,4.38,2025-03-17,2029-02-24,38,Real Estate,Hauts-de-France,BBB,0,Performing,2025-07-29,Valid,"FX_Hedging,Cash_Management,Trade_Finance",40
+CORP0479_L2,CORP0479,RM_B,Term Loan,3870000.0,2886700.0,0.0,6.76,2023-09-19,2024-09-13,-16,Energy,Hauts-de-France,A,0,Performing,2024-05-03,Valid,"Revolving_Credit,FX_Hedging,Cash_Management",40
+CORP0236_L2,CORP0236,RM_C,Revolving Credit,48930000.0,41976500.0,90.49,8.33,2023-03-21,2030-02-12,50,Real Estate,Provence-Alpes-Côte d'Azur,BBB,43,Watch List,2024-11-21,Valid,"Cash_Management,FX_Hedging",60
+CORP0250_L1,CORP0250,RM_C,Revolving Credit,43020000.0,27557000.0,47.5,7.57,2022-03-22,2029-02-13,38,Real Estate,Occitanie,CCC,0,Performing,2024-04-10,Valid,Cash_Management,80
+CORP0488_L2,CORP0488,RM_C,Revolving Credit,4630000.0,2999900.0,94.34,2.76,2023-03-05,2026-02-17,1,Real Estate,Occitanie,BBB,12,Grace Period,2025-03-28,Valid,"FX_Hedging,Cash_Management",60
+CORP0330_L1,CORP0330,RM_B,Term Loan,35140000.0,25879900.0,0.0,3.45,2024-10-30,2025-10-25,-2,Transportation,Île-de-France,A,0,Performing,2024-01-01,Expiring Soon,"Revolving_Credit,FX_Hedging,Term_Loan,Cash_Management",20
+CORP0205_L1,CORP0205,RM_C,Term Loan,19720000.0,13357700.0,0.0,6.35,2025-03-04,2028-02-17,26,Retail,Hauts-de-France,BBB,0,Performing,2024-05-28,Valid,"Term_Loan,FX_Hedging",60
+CORP0461_L2,CORP0461,RM_C,Term Loan,4750000.0,3985600.0,0.0,4.47,2023-06-22,2027-06-01,17,Real Estate,Occitanie,BB,0,Performing,2023-04-15,Expired,"Revolving_Credit,Term_Loan,Trade_Finance,Cash_Management",20
+CORP0163_L2,CORP0163,RM_C,Revolving Credit,11030000.0,9317800.0,60.88,8.19,2025-01-20,2028-01-05,24,Transportation,Provence-Alpes-Côte d'Azur,A,0,Performing,2025-01-09,Valid,FX_Hedging,80
+CORP0075_L3,CORP0075,RM_B,Term Loan,16350000.0,6847300.0,0.0,7.35,2022-04-29,2026-04-08,3,Energy,Occitanie,BB,0,Performing,2024-06-14,Valid,"Trade_Finance,FX_Hedging,Cash_Management,Revolving_Credit",20
+CORP0405_L2,CORP0405,RM_E,Revolving Credit,11060000.0,5827500.0,38.91,3.56,2025-07-27,2032-06-20,79,Manufacturing,Hauts-de-France,BB,0,Performing,2025-02-08,Valid,Cash_Management,80
+CORP0073_L1,CORP0073,RM_A,Revolving Credit,20550000.0,11898500.0,70.22,4.06,2023-03-02,2027-02-09,13,Transportation,Hauts-de-France,BB,0,Performing,2025-09-26,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0426_L1,CORP0426,RM_C,Term Loan,44800000.0,29439000.0,0.0,8.15,2024-01-12,2026-01-01,0,Energy,Nouvelle-Aquitaine,BB,0,Performing,2023-02-19,Expired,"Term_Loan,FX_Hedging,Trade_Finance,Revolving_Credit",20
+CORP0247_L2,CORP0247,RM_B,Term Loan,48300000.0,31978000.0,0.0,5.87,2022-07-01,2026-06-10,5,Healthcare,Nouvelle-Aquitaine,BB,0,Performing,2024-07-11,Valid,"Term_Loan,Cash_Management",60
+CORP0458_L3,CORP0458,RM_A,Term Loan,4350000.0,3483400.0,0.0,8.42,2022-03-29,2024-03-18,-22,Manufacturing,Auvergne-Rhône-Alpes,B,0,Performing,2023-12-13,Expired,"Trade_Finance,Term_Loan,FX_Hedging",40
+CORP0481_L3,CORP0481,RM_A,Revolving Credit,1200000.0,1125500.0,28.52,8.32,2024-11-13,2028-10-23,34,Transportation,Occitanie,BBB,2,Grace Period,2025-10-29,Valid,"Revolving_Credit,Term_Loan,Cash_Management,Trade_Finance",20
+CORP0209_L2,CORP0209,RM_B,Term Loan,49420000.0,47739400.0,0.0,8.32,2024-12-28,2031-11-22,72,Transportation,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-02-12,Expired,"Term_Loan,Revolving_Credit",60
+CORP0050_L1,CORP0050,RM_B,Term Loan,37410000.0,19176100.0,0.0,3.8,2022-08-20,2024-08-09,-17,Real Estate,Hauts-de-France,BBB,0,Performing,2025-07-29,Valid,"FX_Hedging,Cash_Management,Trade_Finance",40
+CORP0108_L1,CORP0108,RM_E,Term Loan,18830000.0,11642100.0,0.0,7.71,2024-01-02,2026-12-17,12,Technology,Hauts-de-France,CCC,0,Performing,2023-03-23,Expired,"Trade_Finance,FX_Hedging",60
+CORP0359_L2,CORP0359,RM_C,Revolving Credit,21000000.0,12831800.0,77.38,3.18,2022-08-28,2026-08-07,7,Transportation,Auvergne-Rhône-Alpes,A,0,Performing,2025-05-23,Valid,Revolving_Credit,80
+CORP0091_L2,CORP0091,RM_A,Revolving Credit,18970000.0,13879400.0,41.38,6.46,2024-10-13,2029-09-17,45,Technology,Hauts-de-France,A,0,Performing,2023-09-05,Expired,"FX_Hedging,Trade_Finance,Revolving_Credit,Term_Loan",20
+CORP0349_L2,CORP0349,RM_D,Revolving Credit,35250000.0,33936600.0,27.79,6.4,2025-02-20,2026-02-15,1,Real Estate,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-07-27,Valid,Cash_Management,80
+CORP0316_L2,CORP0316,RM_A,Term Loan,25070000.0,21335500.0,0.0,5.52,2022-08-23,2023-08-18,-29,Manufacturing,Nouvelle-Aquitaine,BB,0,Performing,2025-01-17,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0413_L1,CORP0413,RM_A,Revolving Credit,42660000.0,22487100.0,34.67,5.32,2023-02-23,2028-01-28,25,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-01-26,Expired,"Term_Loan,Trade_Finance",60
+CORP0064_L2,CORP0064,RM_A,Revolving Credit,20940000.0,18683700.0,78.66,5.55,2023-06-24,2024-06-18,-19,Technology,Occitanie,BBB,24,Watch List,2023-09-13,Expired,"Trade_Finance,Revolving_Credit",60
+CORP0138_L3,CORP0138,RM_B,Revolving Credit,15720000.0,14802000.0,87.51,4.99,2023-05-16,2030-04-09,52,Manufacturing,Nouvelle-Aquitaine,BBB,0,Performing,2025-11-17,Valid,"Cash_Management,Term_Loan",60
+CORP0008_L1,CORP0008,RM_B,Term Loan,39630000.0,35843800.0,0.0,4.51,2022-10-15,2029-09-08,45,Technology,Nouvelle-Aquitaine,BB,0,Performing,2025-07-26,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0492_L3,CORP0492,RM_B,Revolving Credit,12470000.0,12271700.0,82.14,7.31,2024-08-13,2029-07-18,43,Manufacturing,Auvergne-Rhône-Alpes,BB,0,Performing,2024-02-10,Expiring Soon,"Cash_Management,Revolving_Credit,FX_Hedging",40
+CORP0296_L2,CORP0296,RM_A,Term Loan,47000000.0,29809600.0,0.0,5.6,2024-09-21,2028-08-31,32,Healthcare,Provence-Alpes-Côte d'Azur,AA,28,Watch List,2025-02-07,Valid,"Revolving_Credit,Trade_Finance,FX_Hedging,Cash_Management",20
+CORP0224_L1,CORP0224,RM_E,Term Loan,35650000.0,16962200.0,0.0,4.85,2025-01-12,2031-12-07,72,Financial Services,Auvergne-Rhône-Alpes,BBB,0,Performing,2025-09-07,Valid,"Trade_Finance,FX_Hedging,Revolving_Credit",40
+CORP0391_L3,CORP0391,RM_B,Revolving Credit,41950000.0,20783400.0,21.92,2.57,2023-11-21,2025-11-10,-2,Transportation,Auvergne-Rhône-Alpes,A,0,Performing,2024-12-21,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0395_L3,CORP0395,RM_C,Term Loan,1880000.0,1550100.0,0.0,6.95,2025-04-03,2030-03-08,51,Real Estate,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-12-16,Valid,"FX_Hedging,Term_Loan,Trade_Finance,Revolving_Credit",20
+CORP0067_L2,CORP0067,RM_C,Revolving Credit,9730000.0,7701400.0,83.03,6.86,2024-06-14,2027-05-30,17,Real Estate,Occitanie,BB,0,Performing,2023-08-09,Expired,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0414_L2,CORP0414,RM_B,Revolving Credit,33130000.0,18717800.0,93.86,7.7,2024-11-21,2031-10-16,70,Technology,Auvergne-Rhône-Alpes,BB,0,Performing,2025-04-05,Valid,Trade_Finance,80
+CORP0057_L2,CORP0057,RM_D,Term Loan,5800000.0,3303000.0,0.0,7.57,2024-09-07,2025-09-02,-4,Transportation,Île-de-France,A,0,Performing,2023-01-24,Expired,"Term_Loan,Revolving_Credit,FX_Hedging,Trade_Finance",20
+CORP0468_L1,CORP0468,RM_D,Revolving Credit,5480000.0,4807400.0,66.93,3.76,2023-05-18,2024-05-12,-20,Real Estate,Hauts-de-France,AA,0,Performing,2023-03-05,Expired,"Cash_Management,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0215_L2,CORP0215,RM_C,Revolving Credit,31860000.0,21363000.0,87.77,6.46,2024-10-17,2026-10-07,9,Retail,Hauts-de-France,AA,0,Performing,2024-04-08,Valid,FX_Hedging,80
+CORP0324_L3,CORP0324,RM_C,Term Loan,6300000.0,3815800.0,0.0,6.1,2023-10-02,2027-09-11,20,Retail,Occitanie,AA,16,Watch List,2024-03-15,Expiring Soon,"FX_Hedging,Term_Loan,Revolving_Credit,Trade_Finance",20
+CORP0003_L1,CORP0003,RM_E,Revolving Credit,46370000.0,23913300.0,58.38,3.41,2025-07-13,2030-06-17,54,Retail,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-06-14,Expired,"Term_Loan,Revolving_Credit,Cash_Management",40
+CORP0444_L2,CORP0444,RM_B,Term Loan,44980000.0,18788100.0,0.0,6.65,2024-12-02,2026-11-22,11,Real Estate,Île-de-France,BBB,0,Performing,2023-07-24,Expired,"Trade_Finance,FX_Hedging,Revolving_Credit,Term_Loan",20
+CORP0065_L2,CORP0065,RM_A,Revolving Credit,24340000.0,23657000.0,42.07,6.97,2023-09-29,2030-08-23,56,Financial Services,Hauts-de-France,B,0,Performing,2025-10-25,Valid,Trade_Finance,80
+CORP0254_L2,CORP0254,RM_C,Revolving Credit,46160000.0,25390600.0,73.8,8.27,2024-08-02,2031-06-27,67,Real Estate,Hauts-de-France,AA,0,Performing,2025-05-04,Valid,FX_Hedging,80
+CORP0053_L3,CORP0053,RM_E,Revolving Credit,8700000.0,4554400.0,51.78,6.98,2022-12-17,2026-11-26,11,Technology,Occitanie,BBB,29,Watch List,2024-02-29,Expiring Soon,"Trade_Finance,FX_Hedging,Cash_Management,Term_Loan",20
+CORP0418_L2,CORP0418,RM_E,Term Loan,30560000.0,20095900.0,0.0,6.3,2022-07-08,2025-06-22,-7,Healthcare,Nouvelle-Aquitaine,B,0,Performing,2023-08-31,Expired,"Trade_Finance,FX_Hedging,Cash_Management",40
+CORP0033_L2,CORP0033,RM_E,Term Loan,44530000.0,43410400.0,0.0,6.12,2024-04-11,2029-03-16,39,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-03-12,Expiring Soon,"Revolving_Credit,Cash_Management,Term_Loan",40
+CORP0450_L3,CORP0450,RM_A,Revolving Credit,20220000.0,9478900.0,46.83,2.94,2023-11-21,2027-10-31,22,Manufacturing,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-07-14,Valid,FX_Hedging,80
+CORP0337_L2,CORP0337,RM_C,Revolving Credit,7680000.0,4521000.0,73.76,3.78,2025-08-23,2028-08-07,32,Technology,Nouvelle-Aquitaine,BBB,0,Performing,2025-03-27,Valid,"Cash_Management,Term_Loan,Trade_Finance,FX_Hedging",20
+CORP0291_L2,CORP0291,RM_D,Term Loan,28300000.0,17867300.0,0.0,3.12,2022-04-28,2024-04-17,-21,Retail,Provence-Alpes-Côte d'Azur,B,0,Performing,2024-04-16,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0143_L3,CORP0143,RM_A,Term Loan,28910000.0,22774200.0,0.0,4.42,2021-11-14,2025-10-24,-2,Manufacturing,Provence-Alpes-Côte d'Azur,B,0,Performing,2024-10-05,Valid,"Trade_Finance,Revolving_Credit,FX_Hedging,Cash_Management",20
+CORP0101_L1,CORP0101,RM_E,Revolving Credit,25180000.0,25032800.0,32.84,4.46,2023-05-03,2024-04-27,-21,Transportation,Île-de-France,BBB,0,Performing,2025-08-30,Valid,"FX_Hedging,Cash_Management",60
+CORP0197_L1,CORP0197,RM_D,Term Loan,14610000.0,11486400.0,0.0,4.21,2022-06-20,2023-06-15,-31,Real Estate,Occitanie,B,13,Grace Period,2023-10-20,Expired,"Revolving_Credit,Trade_Finance,Cash_Management",40
+CORP0431_L2,CORP0431,RM_C,Term Loan,44840000.0,42634800.0,0.0,2.92,2025-06-23,2028-06-07,29,Energy,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-11-09,Expired,"Trade_Finance,Cash_Management,Term_Loan",40
+CORP0049_L2,CORP0049,RM_D,Revolving Credit,14100000.0,12016200.0,43.49,6.17,2023-06-15,2024-06-09,-19,Financial Services,Île-de-France,B,0,Performing,2024-11-25,Valid,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0202_L2,CORP0202,RM_E,Revolving Credit,24920000.0,19553700.0,27.71,3.84,2025-01-06,2027-12-22,24,Retail,Nouvelle-Aquitaine,BB,14,Grace Period,2025-01-26,Valid,Revolving_Credit,80
+CORP0423_L1,CORP0423,RM_D,Term Loan,5700000.0,3384200.0,0.0,3.65,2023-04-03,2025-03-23,-10,Transportation,Occitanie,BB,0,Performing,2023-11-15,Expired,FX_Hedging,80
+CORP0462_L2,CORP0462,RM_A,Term Loan,46740000.0,43038600.0,0.0,8.18,2024-03-29,2025-03-24,-10,Financial Services,Auvergne-Rhône-Alpes,BBB,0,Performing,2023-04-06,Expired,"Revolving_Credit,Trade_Finance,FX_Hedging,Term_Loan",20
+CORP0039_L2,CORP0039,RM_A,Revolving Credit,34550000.0,30230400.0,89.36,6.0,2023-07-27,2026-07-11,6,Technology,Île-de-France,BBB,0,Performing,2024-06-01,Valid,Term_Loan,80
+CORP0062_L1,CORP0062,RM_D,Revolving Credit,43160000.0,36764600.0,29.18,5.67,2023-05-19,2030-04-12,52,Real Estate,Hauts-de-France,BBB,0,Performing,2024-10-22,Valid,"Trade_Finance,Term_Loan,Cash_Management,Revolving_Credit",20
+CORP0296_L2,CORP0296,RM_A,Revolving Credit,48830000.0,28963400.0,77.47,6.77,2022-12-28,2024-12-17,-13,Healthcare,Provence-Alpes-Côte d'Azur,AA,0,Performing,2025-02-07,Valid,"Revolving_Credit,Trade_Finance,FX_Hedging,Cash_Management",20
+CORP0181_L3,CORP0181,RM_D,Term Loan,33140000.0,27876100.0,0.0,8.33,2024-07-17,2031-06-11,66,Real Estate,Nouvelle-Aquitaine,BBB,0,Performing,2023-08-15,Expired,"Revolving_Credit,FX_Hedging",60
+CORP0031_L1,CORP0031,RM_B,Term Loan,33690000.0,22939200.0,0.0,4.54,2023-07-16,2025-07-05,-6,Real Estate,Hauts-de-France,AA,0,Performing,2023-02-13,Expired,Revolving_Credit,80
+CORP0417_L3,CORP0417,RM_E,Revolving Credit,38140000.0,22391800.0,57.84,7.98,2023-02-25,2030-01-19,49,Manufacturing,Hauts-de-France,BBB,0,Performing,2025-05-28,Valid,FX_Hedging,80
+CORP0113_L2,CORP0113,RM_C,Revolving Credit,48770000.0,44903300.0,34.1,4.17,2022-10-26,2024-10-15,-15,Healthcare,Nouvelle-Aquitaine,BBB,0,Performing,2023-09-27,Expired,Cash_Management,80
+CORP0085_L3,CORP0085,RM_D,Revolving Credit,47600000.0,35526000.0,28.04,3.16,2025-02-14,2027-02-04,13,Technology,Auvergne-Rhône-Alpes,AA,0,Performing,2025-11-24,Valid,"Trade_Finance,FX_Hedging,Revolving_Credit",40
+CORP0009_L2,CORP0009,RM_C,Term Loan,13700000.0,9394700.0,0.0,3.21,2022-09-20,2026-08-30,8,Technology,Occitanie,CCC,0,Performing,2024-09-26,Valid,"Term_Loan,Revolving_Credit,FX_Hedging",40
+CORP0282_L1,CORP0282,RM_B,Revolving Credit,21860000.0,10719500.0,23.99,4.14,2022-11-18,2026-10-28,10,Energy,Île-de-France,BBB,0,Performing,2023-11-16,Expired,FX_Hedging,80
+CORP0051_L1,CORP0051,RM_C,Revolving Credit,36730000.0,24005000.0,64.55,5.68,2024-01-18,2026-01-07,0,Healthcare,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-09-05,Expired,"Trade_Finance,Cash_Management,FX_Hedging",40
+CORP0253_L3,CORP0253,RM_E,Revolving Credit,5900000.0,2536500.0,23.99,2.71,2024-04-20,2025-04-15,-9,Technology,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2023-04-30,Expired,"Revolving_Credit,Term_Loan",60
+CORP0137_L1,CORP0137,RM_B,Term Loan,26840000.0,15172000.0,0.0,4.85,2022-03-21,2029-02-12,38,Transportation,Auvergne-Rhône-Alpes,BBB,0,Performing,2024-12-27,Valid,Term_Loan,80
+CORP0052_L1,CORP0052,RM_D,Revolving Credit,25010000.0,12570500.0,72.94,4.23,2024-07-22,2027-07-07,18,Manufacturing,Occitanie,BB,0,Performing,2024-12-28,Valid,"Trade_Finance,Term_Loan,Revolving_Credit",40
+CORP0002_L1,CORP0002,RM_A,Term Loan,25410000.0,20843400.0,0.0,7.94,2023-01-09,2029-12-03,48,Manufacturing,Occitanie,AAA,0,Performing,2024-09-28,Valid,"FX_Hedging,Term_Loan",60
+CORP0123_L1,CORP0123,RM_E,Revolving Credit,34230000.0,17114600.0,20.96,5.35,2023-11-01,2027-10-11,21,Technology,Auvergne-Rhône-Alpes,A,0,Performing,2025-03-14,Valid,Term_Loan,80
+CORP0172_L1,CORP0172,RM_D,Term Loan,48730000.0,45258200.0,0.0,2.56,2024-09-27,2031-08-22,69,Transportation,Occitanie,BB,0,Performing,2025-09-03,Valid,"Term_Loan,Cash_Management,FX_Hedging",40
+CORP0181_L2,CORP0181,RM_D,Term Loan,24670000.0,13531600.0,0.0,5.9,2025-01-30,2026-01-25,1,Real Estate,Nouvelle-Aquitaine,BBB,0,Performing,2023-08-15,Expired,"Revolving_Credit,FX_Hedging",60
+CORP0149_L1,CORP0149,RM_E,Term Loan,37870000.0,32763400.0,0.0,4.51,2025-02-19,2028-02-04,25,Retail,Occitanie,CCC,0,Performing,2025-10-27,Valid,"Term_Loan,Revolving_Credit,Trade_Finance",40
+CORP0252_L3,CORP0252,RM_C,Revolving Credit,49490000.0,27437400.0,21.02,4.62,2022-12-20,2025-12-04,-1,Energy,Provence-Alpes-Côte d'Azur,BBB,0,Performing,2024-09-23,Valid,"Revolving_Credit,Trade_Finance",60
+CORP0364_L2,CORP0364,RM_C,Revolving Credit,6080000.0,4933700.0,50.77,3.82,2022-02-09,2023-02-04,-36,Manufacturing,Occitanie,BB,0,Performing,2024-03-23,Valid,"Term_Loan,Trade_Finance,FX_Hedging",40
+CORP0073_L2,CORP0073,RM_A,Revolving Credit,2030000.0,1515500.0,26.7,8.02,2023-04-13,2026-03-28,3,Transportation,Hauts-de-France,BB,0,Performing,2025-09-26,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0194_L3,CORP0194,RM_B,Term Loan,48290000.0,44730400.0,0.0,5.2,2021-11-21,2026-10-26,10,Real Estate,Provence-Alpes-Côte d'Azur,BB,11,Grace Period,2023-05-13,Expired,"Revolving_Credit,FX_Hedging,Term_Loan,Trade_Finance",20
+CORP0491_L3,CORP0491,RM_E,Term Loan,13630000.0,11005400.0,0.0,8.17,2023-11-03,2027-10-13,22,Real Estate,Auvergne-Rhône-Alpes,AA,0,Performing,2023-02-19,Expired,"Trade_Finance,FX_Hedging",60
+CORP0142_L2,CORP0142,RM_E,Term Loan,2530000.0,1801500.0,0.0,7.27,2023-10-09,2028-09-12,33,Manufacturing,Nouvelle-Aquitaine,BBB,0,Performing,2024-02-23,Expiring Soon,"FX_Hedging,Cash_Management,Revolving_Credit,Trade_Finance",20
+CORP0291_L2,CORP0291,RM_D,Revolving Credit,5950000.0,2409800.0,59.24,4.24,2024-11-14,2028-10-24,34,Retail,Provence-Alpes-Côte d'Azur,B,0,Performing,2024-04-16,Valid,"FX_Hedging,Revolving_Credit",60
+CORP0286_L3,CORP0286,RM_D,Term Loan,15530000.0,8898000.0,0.0,3.8,2024-01-17,2025-01-11,-12,Manufacturing,Occitanie,BBB,0,Performing,2024-09-13,Valid,"Term_Loan,FX_Hedging,Trade_Finance",40
+CORP0423_L3,CORP0423,RM_D,Term Loan,3130000.0,1826300.0,0.0,2.5,2023-04-14,2026-03-29,3,Transportation,Occitanie,BB,0,Performing,2023-11-15,Expired,FX_Hedging,80
+CORP0129_L1,CORP0129,RM_E,Revolving Credit,44000000.0,38331000.0,62.06,8.22,2022-11-18,2029-10-12,46,Real Estate,Hauts-de-France,A,0,Performing,2024-09-22,Valid,Trade_Finance,80
+CORP0366_L2,CORP0366,RM_A,Term Loan,49800000.0,25798200.0,0.0,2.69,2022-06-01,2023-05-27,-32,Technology,Occitanie,A,0,Performing,2024-01-10,Expiring Soon,Cash_Management,80
+CORP0478_L2,CORP0478,RM_D,Term Loan,40680000.0,31821000.0,0.0,3.09,2023-04-30,2027-04-09,15,Financial Services,Nouvelle-Aquitaine,BB,2,Grace Period,2025-03-12,Valid,"FX_Hedging,Cash_Management,Trade_Finance,Revolving_Credit",20
+CORP0134_L2,CORP0134,RM_C,Revolving Credit,9080000.0,6006300.0,77.57,4.0,2023-11-21,2028-10-25,34,Transportation,Provence-Alpes-Côte d'Azur,AA,0,Performing,2024-06-02,Valid,"Term_Loan,Trade_Finance",60
+CORP0214_L3,CORP0214,RM_C,Term Loan,15400000.0,6950900.0,0.0,3.6,2022-07-09,2029-06-02,41,Transportation,Auvergne-Rhône-Alpes,B,0,Performing,2023-01-22,Expired,"Term_Loan,Cash_Management,FX_Hedging",40
+CORP0401_L2,CORP0401,RM_C,Term Loan,7360000.0,4895400.0,0.0,6.78,2023-12-10,2028-11-13,35,Healthcare,Île-de-France,AAA,0,Performing,2024-07-03,Valid,Term_Loan,80
+CORP0240_L2,CORP0240,RM_E,Revolving Credit,23590000.0,23044300.0,21.98,7.1,2023-02-10,2024-02-05,-23,Healthcare,Nouvelle-Aquitaine,BB,20,Watch List,2025-03-13,Valid,FX_Hedging,80
+CORP0046_L1,CORP0046,RM_B,Revolving Credit,39440000.0,29508700.0,87.49,7.77,2023-08-09,2025-07-29,-5,Real Estate,Auvergne-Rhône-Alpes,AAA,0,Performing,2024-11-19,Valid,"Cash_Management,FX_Hedging,Term_Loan,Revolving_Credit",20
+CORP0028_L2,CORP0028,RM_B,Term Loan,20450000.0,8253000.0,0.0,3.01,2022-10-17,2026-09-26,9,Healthcare,Île-de-France,A,0,Performing,2023-03-31,Expired,"Revolving_Credit,Trade_Finance,Term_Loan,Cash_Management",20
+CORP0139_L3,CORP0139,RM_E,Term Loan,17010000.0,7798100.0,0.0,4.49,2024-01-25,2028-12-29,36,Manufacturing,Occitanie,AA,0,Performing,2025-08-11,Valid,"Trade_Finance,Cash_Management,FX_Hedging,Term_Loan",20
+CORP0032_L1,CORP0032,RM_B,Term Loan,35230000.0,25004800.0,0.0,3.32,2022-07-18,2029-06-11,42,Manufacturing,Île-de-France,BBB,7,Grace Period,2024-08-02,Valid,FX_Hedging,80
+CORP0459_L3,CORP0459,RM_A,Term Loan,15390000.0,9026800.0,0.0,3.7,2025-08-29,2029-08-08,44,Transportation,Île-de-France,B,0,Performing,2025-01-04,Valid,"Cash_Management,Trade_Finance,FX_Hedging",40
+CORP0035_L1,CORP0035,RM_A,Term Loan,30390000.0,14362900.0,0.0,5.34,2025-02-25,2027-02-15,14,Retail,Hauts-de-France,AA,0,Performing,2024-10-09,Valid,"Revolving_Credit,Cash_Management,Term_Loan",40
+CORP0427_L3,CORP0427,RM_B,Revolving Credit,19840000.0,18959600.0,33.8,3.91,2024-01-06,2027-12-16,24,Real Estate,Occitanie,CCC,0,Performing,2023-04-23,Expired,"Cash_Management,Revolving_Credit,Trade_Finance",40
+CORP0435_L3,CORP0435,RM_E,Revolving Credit,41170000.0,33298000.0,30.97,2.63,2022-01-03,2026-12-08,11,Healthcare,Île-de-France,BBB,0,Performing,2024-03-05,Expiring Soon,"Term_Loan,Trade_Finance",60
+CORP0073_L3,CORP0073,RM_A,Term Loan,8950000.0,7562700.0,0.0,4.24,2022-08-19,2024-08-08,-17,Transportation,Hauts-de-France,BB,0,Performing,2025-09-26,Valid,"FX_Hedging,Trade_Finance,Cash_Management",40
+CORP0342_L1,CORP0342,RM_C,Revolving Credit,18680000.0,10556200.0,54.8,7.38,2023-07-14,2030-06-07,54,Manufacturing,Provence-Alpes-Côte d'Azur,BB,0,Performing,2023-08-08,Expired,"Trade_Finance,Term_Loan",60
