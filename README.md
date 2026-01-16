@@ -1,5 +1,8 @@
+
 # Corporate Banking Risk Dashboard
 
+> 🚀 **Status**: Live & Deployed | [View Dashboard](https://arwa-sgit.github.io/01_Banking_Risk_Dashboard/)
+> 
 Real-time portfolio monitoring system built with React and synthetic banking data. Demonstrates rules-based risk detection, compliance tracking, and interactive data visualization for corporate lending portfolios.
 
 **[Live Demo](https://arwa-sgit.github.io/01_Banking_Risk_Dashboard/)** • **[View Source](https://github.com/Arwa-sGIT/01_Banking_Risk_Dashboard)**
